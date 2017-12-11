@@ -55,3 +55,17 @@ a {
 a:hover {
   color: #444;
 }
+
+audio {
+  opacity: 0;
+  display: none;
+}
+
+button {
+  appearance: none;
+  border: 0 none;
+  color: inherit;
+  background: none;
+  font-size: inherit;
+  font-family: inherit;
+}
