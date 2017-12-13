@@ -1,15 +1,21 @@
+* {
+  box-sizing: border-box;
+}
+
 html {
   width: 100%;
   height: 100%;
   min-height: 100%;
+  position: fixed;
 }
 
 body {
-  font-family: apple-system, BlinkMacSystemFont, sans-serif;
+  font-family: 'input mono', apple-system, BlinkMacSystemFont, sans-serif;
   background: #4a74ff;
   min-height: 100%;
   height: 100%;
   display: flex;
+  font-size: 1.125rem;
   justify-content: center;
   align-items: center;
   max-width: 90%;
@@ -24,6 +30,11 @@ body {
 img {
   max-width: 100%;
   display: block;
+}
+
+.logo--small,
+.logo--large {
+  display: inline-block;
 }
 
 .logo--small {
@@ -68,4 +79,35 @@ button {
   background: none;
   font-size: inherit;
   font-family: inherit;
+}
+
+input {
+  appearance: none;
+  -webkit-appearance: none;
+}
+
+input {
+  background: #fff;
+  border: 1px solid #444;
+  padding: 0.5rem;
+  font: inherit;
+  display: inline;
+  font-size: 0.875rem;
+}
+
+input[type=submit] {
+  background: #444;
+  color: #fff;
+  cursor: pointer;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}
+
+input[type=text] {
+  margin-right: 1rem;
+}
+
+label[for="mce-EMAIL"] {
+  display: none;
+  visibility: hidden;
 }
