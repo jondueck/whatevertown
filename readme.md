@@ -1,3 +1,3 @@
 # Whatevertown
 
-A podcast website (soon to be) built on Jekyll.
+A podcast, built on Jekyll.

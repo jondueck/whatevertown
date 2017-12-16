@@ -1,0 +1,11 @@
+.site-footer {
+  margin-top: 2 * $line-height-2x;
+  padding-top: 2 * $line-height-2x;
+  padding-bottom: 2 * $line-height-2x;
+  background-color: $dark-black;
+  color: $white;
+}
+
+.site-footer__credit {
+  float: right;
+}

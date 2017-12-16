@@ -1,0 +1,33 @@
+.site-header {
+  // border-bottom: 1px solid $light-grey;
+  // margin-bottom: 2rem;
+  padding-top: $line-height-2x;
+  padding-bottom: $line-height-2x;
+
+  color: $white;
+
+  vertical-align: middle;
+
+  a {
+    color: inherit;
+  }
+
+  &--home {
+    display: none;
+    visibility: hidden;
+  }
+
+  &__icon {
+    height: $line-height-2x;
+  }
+
+}
+
+.site-name {
+  float: left;
+}
+
+.site-nav {
+  float: right;
+  list-style: none;
+}

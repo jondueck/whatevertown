@@ -1,0 +1,32 @@
+body {
+  background-color: $background-color;
+  background-image: url('/dist/img/stars.svg');
+}
+
+.wrapper {
+  width: 90%;
+  @include outer-container();
+
+  &--wide {
+    max-width: 65rem;
+  }
+
+}
+
+article {
+  margin-bottom: $line-height-2x;
+}
+
+.id-home {
+  background: $primary-color;
+}
+
+.post {
+  background: $white;
+  padding: $line-height;
+  margin-top: $line-height-2x;
+  border-radius: 0.5rem;
+  @media (min-width: 900px) {
+    padding: $line-height-2x;
+  }
+}

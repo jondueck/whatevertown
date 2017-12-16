@@ -1,78 +1,31 @@
-<!DOCTYPE html>
-<html>
+---
+layout: default
+title: Home
+hidden: yes
+---
 
-<head>
+<section class="episode-list">
 
-  <title>Whatevertown – Podcast</title>
+  {% for post in site.posts %}
 
-  <link rel="stylesheet" href="/style.css">
+    <article id="post-{{ post.id }}" class="pod-preview">
 
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta property="og:site_name" content="Whatevertown the Podcast">
-  <meta property="og:title" content="Whatevertown the Podcast">
-  <meta property="og:description" content="A podcast between friends.">
-  <meta name="twitter:site" content="@whatevertown">
-  <meta name="twitter:title" content="Whatevertown the Podcast ">
-  <meta property="og:image" content="http://whatevertown.com/assets/whatevertown-og.jpg">
-  <meta name="twitter:card" content="summary_large_image">
-  <meta name="og:url" content="http://whatevertown.com">
-  <meta name="twitter:image:alt" content="Whatevertown logo.">
+      <!-- <img src="{{ post.artwork }}" class="pod-preview__artwork"> -->
 
-</head>
+      <h2><a href="{{post.url}}">{{ post.title }}</a></h2>
 
-<body>
+      <a href="{{post.url}}">{{ post.date | date: '%B %d, %Y' }}</a>
 
-  <section>
-    <img src="/assets/whatevertown-wordmark--white.svg" alt="Whatevertown" class="logo--large"><br>
-    <img src="/assets/whatevertown-icon.svg" alt="Whatevertown" class="logo--small"><br>
+      <!-- <div class="entry">
+        {{ post.excerpt }}
+      </div> -->
 
-    <p><em>Coming Soon</em></p>
-    <br><br>
-    <a href="https://twitter.com/whatevertown">Twitter</a> —
-    <a href="https://instagram.com/whatevertown">Instagram</a>
-    <br>
-    <div id="mc_embed_signup">
-      <form action="https://whatevertown.us17.list-manage.com/subscribe/post?u=1c868ee31fb955534c2f116b6&amp;id=492d018bdc" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-        <div id="mc_embed_signup_scroll">
-          <label for="mce-EMAIL">Subscribe to our mailing list</label><br><br>
-          <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
-          <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
-          <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-          <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_1c868ee31fb955534c2f116b6_492d018bdc" tabindex="-1" value=""></div>
-        </div>
-      </form>
-    </div>
+      <!-- <footer class="postmetadata">
 
+      </footer> -->
 
-    <br><br><br>
-    <audio controls autoplay loop id="player">
-      <!-- <source src="horse.ogg" type="audio/ogg"> -->
-      <source src="/assets/timtro-8bit.mp3" type="audio/mpeg">
-    </audio>
+    </article>
 
-    <button onclick="document.getElementById('player').play()">Play</button>
-    <button onclick="document.getElementById('player').pause()">Pause</button>
-    <!-- <button onclick="document.getElementById('player').muted=!document.getElementById('player').muted">Mute</button> -->
+  {% endfor %}
 
-  </section>
-
-  <footer>
-
-
-    <link href="https://fonts.googleapis.com/css?family=Source+Code+Pro:400,700" rel="stylesheet">
-
-
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-111127049-1"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-
-      gtag('config', 'UA-111127049-1');
-    </script>
-
-  </footer>
-
-</body>
-
-</html>
+</section>
