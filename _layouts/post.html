@@ -3,6 +3,10 @@ layout: default
 ---
 <article class="post">
 
+	{% if page.soundcloud %}
+		<iframe class="embed-soundcloud" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/{{page.soundcloud}}%3Fsecret_token%3Ds-wtEUT&amp;color=%234a74ff&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
+	{% endif %}
+
 	<h1 class="entry-title">{{ page.title }}</h1>
   <p class="description">{{ page.date | date: "%d %B %Y"}}</p>
 
@@ -10,8 +14,14 @@ layout: default
 
 		{{ content }}
 
-		<!-- add tags here -->
-
 	</div>
+
+	{% if site.itunes %}
+		<a href="{{ site.itunes }}">Listen on Apple Podcasts</a><br>
+	{% endif %}
+
+	{% if site.googleplay %}
+		<a href="{{ site.googleplay }}">Listen on Google Play</a><br>
+	{% endif %}
 
 </article>
