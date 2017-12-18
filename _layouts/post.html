@@ -16,12 +16,14 @@ layout: default
 
 	</div>
 
-	{% if site.itunes %}
-		<a href="{{ site.itunes }}">Listen on Apple Podcasts</a><br>
-	{% endif %}
+	<div class="post__footer">
+		{% if site.itunes %}
+			<a href="{{ site.itunes }}">Listen on Apple Podcasts</a><br>
+		{% endif %}
 
-	{% if site.googleplay %}
-		<a href="{{ site.googleplay }}">Listen on Google Play</a><br>
-	{% endif %}
+		{% if site.googleplay %}
+			<a href="{{ site.googleplay }}">Listen on Google Play</a><br>
+		{% endif %}
+	</div>
 
 </article>

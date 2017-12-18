@@ -26,9 +26,17 @@ article {
   padding: $line-height;
   margin-top: $line-height-2x;
   border-radius: 0.5rem;
+
   @media (min-width: 900px) {
     padding: $line-height-2x;
   }
+
+  &__footer {
+    border-top: 1px solid $primary-color;
+    padding-top: $line-height;
+    margin-top: $line-height;
+  }
+
 }
 
 .embed-soundcloud {
