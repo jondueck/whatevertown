@@ -1,7 +1,7 @@
 ---
-layout: default
 title: Style Guide
-hidden: yes
+layout: default
+hidden: true
 ---
 
 # Heading Level 1
