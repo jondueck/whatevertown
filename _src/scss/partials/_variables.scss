@@ -42,3 +42,5 @@ $max-width: 50rem;
 
 // Breakpoints
 $small: new-breakpoint(min-width 500px 4);
+
+$radius: 0.25 * $line-height;

@@ -17,7 +17,9 @@ layout: default
 	</div>
 
 	<div class="post__footer">
-		{% if site.itunes %}
+		{% if page.itunes %}
+			<a href="{{ page.itunes }}">Listen on Apple Podcasts</a><br>
+		{% elsif site.itunes %}
 			<a href="{{ site.itunes }}">Listen on Apple Podcasts</a><br>
 		{% endif %}
 

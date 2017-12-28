@@ -38,32 +38,11 @@
   background-color: $white;
   padding: $line-height;
   margin-bottom: $line-height;
-  border-radius: 0.5rem;
+  border-radius: $radius;
 
   &__artwork {
     max-width: 20%;
     float: left;
   }
-
-}
-
-#mc_embed_signup_scroll {
-  .email,
-  .button {
-    padding: 0.25 * $line-height;
-    border-radius: 0.25rem;
-  }
-  .email {
-    border: 0 none;
-  }
-
-  .button {
-    background-color: $black;
-  }
-}
-
-label[for="mce-EMAIL"] {
-  visibility: hidden;
-  display: none;
 
 }

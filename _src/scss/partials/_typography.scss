@@ -22,6 +22,7 @@ h1,
 h2,
 .h2 {
   font-size: #{1.4 * $base-font-size};
+  margin-bottom: $line-height;
 }
 
 h3,
