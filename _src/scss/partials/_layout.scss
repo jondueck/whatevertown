@@ -1,0 +1,51 @@
+body {
+  background-color: $background-color;
+  background-image: url('/dist/img/stars.svg');
+}
+
+.wrapper {
+  width: 90%;
+  @include outer-container();
+
+  &--wide {
+    max-width: 65rem;
+  }
+
+}
+
+article {
+  margin-bottom: $line-height-2x;
+}
+
+.id-home {
+  background: $primary-color;
+}
+
+.post {
+  background: $white;
+  padding: $line-height;
+  margin-top: $line-height-2x;
+  border-radius: 0.5rem;
+
+  @media (min-width: 900px) {
+    padding: $line-height-2x;
+  }
+
+  &__footer {
+    border-top: 1px solid $primary-color;
+    padding-top: $line-height;
+    margin-top: $line-height;
+  }
+
+}
+
+.embed-soundcloud {
+  margin-bottom: $line-height;
+  background: $light-grey;
+  width: 100%;
+  height: 10rem;
+}
+
+.id-404 {
+  background: $dark-black;
+}

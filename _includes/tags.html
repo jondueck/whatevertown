@@ -1,0 +1,45 @@
+---
+title: Tags
+layout: default
+hidden: true
+---
+
+<section class="wrapper">
+  <div class="film-tags">
+    Tags:
+  {% for tagitem in site.tags  %}
+    <a href="#{{ tagitem[0] }}" class="film-tags__tag">#{{ tagitem[0] }}</a>
+  {% endfor %}
+
+  <!-- iterate through all tags on the site -->
+  {% for tagitem in site.tags %}
+
+  <!-- for each tag, create an anchor by using the tag name as an id -->
+  <div id="{{ tagitem[0] }}">
+  <h3>#{{ tagitem[0] }} </h3>  <!-- for create a heading -->
+
+   <ul>
+   {% for post in site.posts %}
+        {% if post.tags contains tagitem[0] %}
+        <li>
+          <a href="{{ post.url }}">{{ post.title }}</a>
+        </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+
+  </div>
+  {% endfor %}
+
+  {% if page.tags != empty %}
+   <div class="tag-icon-image">
+      <!-- iterate through tags in the current page using page.tags variable -->
+      {%  for tag in page.tags  %}
+        <div class="tag-link">
+         <!-- link to appropriate tag anchor in tags.html -->
+         <a href="/tags#{{ tag }}">{{ tag }}</a>
+        </div>
+      {%  endfor %}
+   </div>
+  {%  endif  %}
+</section>

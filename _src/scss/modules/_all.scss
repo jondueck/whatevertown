@@ -1,0 +1,48 @@
+@import 'header';
+@import 'footer';
+
+.banner {
+  // background: $primary-color;
+  padding-top: 16rem;
+  padding-bottom: 8rem;
+  color: $white;
+  a {
+    color: inherit;
+  }
+  margin-bottom: $line-height-2x;
+  // background-image: url('/dist/img/stars.svg');
+  display: flex;
+  vertical-align: middle;
+  text-align: center;
+  flex-direction: column;
+
+  &__logo {
+    height: 2 * $line-height-2x;
+
+    &--large {
+      @media (max-width: 48rem) {
+        display: none;
+      }
+    }
+
+    &--small {
+      @media (min-width: 48rem) {
+        display: none;
+      }
+    }
+
+  }
+}
+
+.pod-preview {
+  background-color: $white;
+  padding: $line-height;
+  margin-bottom: $line-height;
+  border-radius: $radius;
+
+  &__artwork {
+    max-width: 20%;
+    float: left;
+  }
+
+}

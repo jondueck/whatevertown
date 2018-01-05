@@ -1,0 +1,41 @@
+---
+title: Whatevertown
+timezone: America/Chicago
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+subtitle: A podcast by Jon Dueck, Ryan Kehler, and Tim Wall.
+email: whatevertownpod@gmail.com
+description: 'Whatevertown is a podcast by Jon Dueck, Ryan Kehler, and Tim Wall. It''s
+  a show about pop culture, art, the internet, and whatever.
+
+'
+baseurl: 
+url: http://whatevertown.com
+permalink: pretty
+twitter: whatevertown
+vimeo: whatevertown
+soundcloud: whatevertown
+instagram: whatevertown
+itunes: https://itunes.apple.com/ca/podcast/whatevertown/id1326449177
+googleplay: https://playmusic.app.goo.gl/?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&apn=com.google.android.music&link=https://play.google.com/music/m/Ifm53drqahqhjvv6rhsesxog25u?t%3DWhatevertown%26pcampaignid%3DMKT-na-all-co-pr-mu-pod-16
+exclude:
+- "/node_modules/"
+- "**.sublime-project"
+- "**.sublime-workspace"
+- gulpfile.js
+- package.json
+- ".git"
+- README.md
+lang: en
+author: Whatevertown
+copyright: "&#xA9; 2017"
+artwork: "/assets/img/artwork.png"
+markdown: kramdown
+theme: 
+paginate: 8
+paginate_path: "/episdes/page:num/"

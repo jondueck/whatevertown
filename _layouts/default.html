@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body class="id-{{page.id}}">
+
+    {% include header.html %}
+
+    {% if page.title == 'Home' %}
+
+      <div class="banner">
+        <div class="wrapper wrapper--wide">
+          <img src="/dist/img/whatevertown-wordmark--white.svg" alt="Whatevertown" class="banner__logo banner__logo--large">
+          <img src="/dist/img/whatevertown-icon.svg" alt="Whatevertown" class="banner__logo banner__logo--small">
+          <br><br>
+          <p class="site-tagline">It's a show about <del>pop culture, board games, music, the internet, and</del> whatever.</p>
+          <p>
+            <a href="{{ site.itunes }}">iTunes</a>
+            –
+            <a href="{{ site.googleplay }}">Google Play</a>
+          </p>
+          <p>
+            <a href="https://twitter.com/whatevertown">Twitter</a>
+            –
+            <a href="https://instagram.com/whatevertown">Instagram</a>
+            –
+            <a href="https://soundcloud.com/whatevertown">Soundcloud</a>
+          </p>
+        </div>
+        <div id="mc_embed_signup">
+          <form action="https://whatevertown.us17.list-manage.com/subscribe/post?u=1c868ee31fb955534c2f116b6&amp;id=492d018bdc" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+            <div id="mc_embed_signup_scroll">
+              <label for="mce-EMAIL">Subscribe to our mailing list</label><br><br>
+              <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+              <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
+              <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+              <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_1c868ee31fb955534c2f116b6_492d018bdc" tabindex="-1" value=""></div>
+            </div>
+          </form>
+        </div>
+    </div>
+
+    {% endif %}
+
+    <div class="wrapper">
+      {{ content }}
+    </div>
+
+    {% include footer.html %}
+
+  </body>
+
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-111127049-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-111127049-1');
+  </script>
+
+</html>

@@ -1,0 +1,24 @@
+<meta property="og:url" content="">
+<meta property="og:title" content="">
+<meta property="og:description" content="">
+<meta property="og:locale" content="{{ site.lang }}">
+<meta property="fb:pages" content="">
+<meta property="og:site_name" content="Whatevertown the Podcast">
+<meta property="og:website" content="{{ site.url }}">
+<meta name="twitter:card" content="summary_large_image">
+
+<meta property="og:title" content="{{ post.title }}"/>
+
+{% if type == 'post' %}
+  <meta property="og:audio" content="http://my-audio.mp3">
+  <meta property="og:audio:type" content="audio/mp3">
+{% endif %}
+
+
+{% if post.artwork %}
+  <meta property="og:image" content="{{ site.url }}{{ post.artwork }}">
+{% else %}
+  <meta property="og:image" content="{{ site.url }}{{ site.artwork }}">
+{% endif %}
+
+<meta name="twitter:site" content="@whatevertown">
