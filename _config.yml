@@ -33,7 +33,7 @@ exclude:
 - README.md
 lang: en
 author: Whatevertown
-copyright: "&#xA9; 2017"
+copyright: 2017
 artwork: "/assets/img/artwork.png"
 markdown: kramdown
 theme: 
