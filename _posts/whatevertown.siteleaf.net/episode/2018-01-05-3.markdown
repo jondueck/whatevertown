@@ -1,14 +1,17 @@
 ---
 title: Episode 003 - The one about Star Wars
 date: 2018-01-05 12:15:00 -06:00
+published: false
 author: Whatevertown
-file: 
+file: "/uploads/POD003%20-%20The%20one%20about%20Star%20Wars.mp3"
 file_itunes: 
 soundcloud: 
 googleplay: 
 artwork: http://whatevertown.com/dist/artwork/artwork_default.jpg
 summary: 
-exerpt: 
+exerpt: 'The guys talk about the longevity of Ryan''s Christmas tree, Shared Spaces
+  in Europe, Apple slowing down older devices, their thoughts on Star Wars: The Last
+  Jedi, and more'
 duration: '1:11:59'
 length: 138198962
 explicit: 'no'
