@@ -1,10 +1,9 @@
 ---
 title: Episode 003 - The one about Star Wars
 date: 2018-01-05 12:15:00 -06:00
-published: false
 author: Whatevertown
 file: "/uploads/POD003%20-%20The%20one%20about%20Star%20Wars.mp3"
-file_itunes: 
+file_itunes: "/uploads/POD003%20-%20The%20one%20about%20Star%20Wars.m4a"
 soundcloud: 
 googleplay: 
 artwork: http://whatevertown.com/dist/artwork/artwork_default.jpg
@@ -24,7 +23,7 @@ block: 'no'
 
 [7:46] - Ryan talks about [Shared Spaces](https://www.vox.com/2017/11/24/16693628/shared-space-design)
 
-[16:02] - Jon's going to New Zealand 
+[16:02] - Jon is going to New Zealand 
 
 [18:38] - [Apple is slowing down older devices](https://www.vox.com/2017/12/22/16807056/apple-slow-iphone-batteries)
 
