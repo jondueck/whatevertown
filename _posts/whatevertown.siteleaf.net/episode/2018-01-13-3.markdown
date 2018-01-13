@@ -1,9 +1,9 @@
 ---
 title: Episode 003 - The one about Star Wars
-date: 2018-01-05 12:15:00 -06:00
+date: 2018-01-13 12:15:00 -06:00
 author: Whatevertown
-file: "/uploads/POD003%20-%20The%20one%20about%20Star%20Wars.mp3"
-file_itunes: "/uploads/POD003%20-%20The%20one%20about%20Star%20Wars.m4a"
+file: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/003.mp3
+file_itunes: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/003.m4a
 soundcloud: 
 googleplay: 
 artwork: http://whatevertown.com/dist/artwork/artwork_default.jpg
