@@ -22,6 +22,7 @@ vimeo: whatevertown
 soundcloud: whatevertown
 instagram: whatevertown
 itunes: https://itunes.apple.com/ca/podcast/whatevertown/id1326449177
+stitcher: http://www.stitcher.com/s?fid=165701&refid=stpr
 googleplay: https://playmusic.app.goo.gl/?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&apn=com.google.android.music&link=https://play.google.com/music/m/Ifm53drqahqhjvv6rhsesxog25u?t%3DWhatevertown%26pcampaignid%3DMKT-na-all-co-pr-mu-pod-16
 exclude:
 - "/node_modules/"

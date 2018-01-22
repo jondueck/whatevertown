@@ -39,11 +39,17 @@ article {
 
 }
 
-.embed-soundcloud {
+.embed-soundcloud,
+.embed-stitcher {
   margin-bottom: $line-height;
   background: $light-grey;
   width: 100%;
   height: 10rem;
+  border: 0 none;
+}
+
+.embed-stitcher {
+  height: 11.5rem;
 }
 
 .id-404 {

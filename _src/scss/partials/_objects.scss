@@ -4,6 +4,7 @@
   color: $dark-grey;
   margin-bottom: $line-height;
   margin-bottom: $line-height;
+  padding: (0.25 * $line-height);
 }
 
 #{$all-text-inputs},
@@ -11,7 +12,6 @@
 .btn,
 .button {
   border-radius: 0.5 * $radius;
-  padding: 0.25 * $line-height;
 }
 
 textarea {
@@ -27,6 +27,7 @@ textarea {
   margin-bottom: $line-height;
   border: 1px solid $link-color;
   cursor: pointer;
+  padding: (0.25 * $line-height) (0.5 * $line-height);
 
   &:hover {
     background-color: tint($link-color, 10%);
