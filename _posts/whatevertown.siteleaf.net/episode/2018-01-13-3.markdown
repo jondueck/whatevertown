@@ -1,11 +1,14 @@
 ---
 title: Episode 003 - The one about Star Wars
 date: 2018-01-13 12:15:00 -06:00
+layout: post
+permalink: /2018/01/13/3/
 author: Whatevertown
 file: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/003.mp3
 file_itunes: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/003.m4a
-soundcloud: 
-googleplay: 
+stitcher: https://www.stitcher.com/s?eid=52980661
+soundcloud:
+googleplay:
 artwork: http://whatevertown.com/dist/artwork/artwork_default.jpg
 summary: 'The guys talk about the longevity of Ryan''s Christmas tree, Shared Spaces
   in Europe, Apple slowing down older devices, their thoughts on Star Wars: The Last
@@ -25,7 +28,7 @@ block: 'no'
 
 [7:46] - Ryan talks about [Shared Spaces](https://www.vox.com/2017/11/24/16693628/shared-space-design)
 
-[16:02] - Jon is going to New Zealand 
+[16:02] - Jon is going to New Zealand
 
 [18:38] - [Apple is slowing down older devices](https://www.vox.com/2017/12/22/16807056/apple-slow-iphone-batteries)
 

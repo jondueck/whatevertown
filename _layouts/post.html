@@ -24,7 +24,15 @@ layout: default
 			<a href="{{ site.itunes }}">Listen on Apple Podcasts</a><br>
 		{% endif %}
 
-		{% if site.googleplay %}
+		{% if page.stitcher %}
+			<a href="{{ page.stitcher }}">Listen on Stitcher</a><br>
+		{% elsif site.stitcher %}
+			<a href="{{ site.stitcher }}">Listen on Stitcher</a><br>
+		{% endif %}
+
+		{% if page.googleplay %}
+			<a href="{{ page.googleplay }}">Listen on Google Play</a><br>
+		{% elsif site.googleplay %}
 			<a href="{{ site.googleplay }}">Listen on Google Play</a><br>
 		{% endif %}
 	</div>
