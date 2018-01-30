@@ -6,7 +6,7 @@ permalink: /2018/01/13/3/
 author: Whatevertown
 file: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/003.mp3
 file_itunes: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/003.m4a
-stitcher: https://www.stitcher.com/s?eid=52980661
+stitcher: 52980661
 soundcloud:
 googleplay:
 artwork: http://whatevertown.com/dist/artwork/artwork_default.jpg
