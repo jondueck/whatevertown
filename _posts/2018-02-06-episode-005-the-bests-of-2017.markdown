@@ -8,7 +8,7 @@ file_itunes: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/005.
 stitcher: 53172733
 soundcloud: 
 googleplay: https://play.google.com/music/m/Dogtbzxvswrqycrtn7f6bsnybvq?t=Episode_005__The_Bests_of_2017-Whatevertown
-itunes: https://itunes.apple.com/ca/podcast/whatevertown/id1326449177#
+itunes: https://itunes.apple.com/ca/podcast/episode-005-the-bests-of-2017/id1326449177?i=1000401605984&mt=2
 artwork: http://whatevertown.com/dist/artwork/artwork_default.jpg
 summary: In this episode we talk about our favourite albums, movies, tv shows, and
   podcasts of 2017.
