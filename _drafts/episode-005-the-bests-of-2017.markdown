@@ -72,22 +72,22 @@ Whiskey - Joey Landreth
 - The Good Place
 
 **Podcasts Mentioned**
-Building a Story Brand
-Canadaland
-CBC News World Report
-Comedy Bang Bang
-Erwin McManus
-Heaven’s Gate
-Heavyweight
-Homecoming
-James Bonding
-Judah Smith
-The Big Ones
-The Pitch
-Reply All
-Worldly
-S-Town
-Spontaneanation
+- Building a Story Brand
+- Canadaland
+- CBC News World Report
+- Comedy Bang Bang
+- Erwin McManus
+- Heaven’s Gate
+- Heavyweight
+- Homecoming
+- James Bonding
+- Judah Smith
+- The Big Ones
+- The Pitch
+- Reply All
+- Worldly
+- S-Town
+- Spontaneanation
 
 **Stand-Up Specials Mentioned**
 - Thank God for Jokes - Mike Birbiglia
