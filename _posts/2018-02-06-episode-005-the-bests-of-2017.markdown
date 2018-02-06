@@ -37,7 +37,8 @@ layout: post
 - Across The Dark - The Wilderness Of Manitoba
 - Almira - Tyson Motsenbocker
 - Capacity - Big Thief
-- Coloring Book - Chance The Rapper Crack-Up - Fleet Foxes
+- Coloring Book - Chance The Rapper 
+- Crack-Up - Fleet Foxes
 - DAMN. - Kendrick Lamar
 - Emerging Adulthood - Dan Creole
 - Green Twins - Nick Hakim
