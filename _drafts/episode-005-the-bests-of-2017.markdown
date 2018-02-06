@@ -27,30 +27,30 @@ block: 'no'
 - (Listenersclub.ca)[http://listenersclub.ca/][15:15]
 
 **Albums Mentioned (Alphabetical)**
-A Black Mile To The Surface - Manchester Orchestra
-A Deeper Understanding - The War On Drugs
-A Moment Apart - ODESZA
-Across The Dark - The Wilderness Of Manitoba
-Almira - Tyson Motsenbocker
-Capacity - Big Thief
-Coloring Book - Chance The Rapper Crack-Up - Fleet Foxes
-DAMN. - Kendrick Lamar
-Emerging Adulthood - Dan Creole
-Green Twins - Nick Hakim
-Heiress - Novo Amor
-Homey - Chon
-Hug Of Thunder - Broken Social Scene
-Introduce Yourself - Gord Downie
-Landmark - Hippo Campus
-LANY - LANY
-Melon Collie And The Infinite Radness - Tokyo Police Club
-Not Even Happiness - Julie Byrne
-Near To The Wild Heart Of Life - Japandroids
-Painted Ruins - Grizzly Bear
-Rocket - (Sandy) Alex G
-Snow - Angus & Julia Stone
-The Search For Everything - John Mayer
-Whiskey - Joey Landreth
+- A Black Mile To The Surface - Manchester Orchestra
+- A Deeper Understanding - The War On Drugs
+- A Moment Apart - ODESZA
+- Across The Dark - The Wilderness Of Manitoba
+- Almira - Tyson Motsenbocker
+- Capacity - Big Thief
+- Coloring Book - Chance The Rapper Crack-Up - Fleet Foxes
+- DAMN. - Kendrick Lamar
+- Emerging Adulthood - Dan Creole
+- Green Twins - Nick Hakim
+- Heiress - Novo Amor
+- Homey - Chon
+- Hug Of Thunder - Broken Social Scene
+- Introduce Yourself - Gord Downie
+- Landmark - Hippo Campus
+- LANY - LANY
+- Melon Collie And The Infinite Radness - Tokyo Police Club
+- Not Even Happiness - Julie Byrne
+- Near To The Wild Heart Of Life - Japandroids
+- Painted Ruins - Grizzly Bear
+- Rocket - (Sandy) Alex G
+- Snow - Angus & Julia Stone
+- The Search For Everything - John Mayer
+- Whiskey - Joey Landreth
 
 **Movies Mentioned**
 - [Dunkirk](https://letterboxd.com/film/dunkirk-2017/)
