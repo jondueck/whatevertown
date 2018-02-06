@@ -5,7 +5,7 @@ permalink: "/episode/5/"
 Author: Whatevertown
 file: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/005.mp3
 file_itunes: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/005.m4a
-stitcher: 
+stitcher: 53172733
 soundcloud: 
 googleplay: 
 itunes: 

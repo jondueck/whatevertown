@@ -1,8 +1,7 @@
 ---
-title: Episode 003 - The one about Star Wars
+title: Episode 003 - The One About Star Wars
 date: 2018-01-13 12:15:00 -06:00
 permalink: "/2018/01/13/3/"
-layout: post
 author: Whatevertown
 file: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/003.mp3
 file_itunes: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/003.m4a
@@ -20,6 +19,7 @@ duration: '1:11:59'
 length: 138198962
 explicit: 'no'
 block: 'no'
+layout: post
 ---
 
 [00:43] - Ryan's Christmas tree is still alive
