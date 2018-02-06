@@ -11,9 +11,9 @@ googleplay:
 itunes: 
 artwork: http://whatevertown.com/dist/artwork/artwork_default.jpg
 summary: In this episode we talk about our favourite albums, movies, tv shows, and
-  podcasts of 2017
+  podcasts of 2017.
 Exerpt: In this episode we talk about our favourite albums, movies, tv shows, and
-  podcasts of 2017
+  podcasts of 2017.
 duration: '43:03'
 length: 62077559
 explicit: 'no'
