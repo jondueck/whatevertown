@@ -53,13 +53,13 @@ The Search For Everything - John Mayer
 Whiskey - Joey Landreth
 
 **Movies Mentioned**
-[Dunkirk](https://letterboxd.com/film/dunkirk-2017/)
-Guardians of the Galaxy vol. 2
-Star Wars: The Last Jedi
-Spiderman: Homecoming
-The Big Sick
-Thor: Ragnarok
-Wonder Woman
+- [Dunkirk](https://letterboxd.com/film/dunkirk-2017/)
+- [Guardians of the Galaxy vol. 2](https://letterboxd.com/film/guardians-of-the-galaxy-vol-2/)
+- Star Wars: The Last Jedi
+- Spiderman: Homecoming
+- The Big Sick
+- Thor: Ragnarok
+- Wonder Woman
 
 **TV Shows Mentioned**
 Bojack Horseman
