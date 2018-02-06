@@ -90,10 +90,10 @@ S-Town
 Spontaneanation
 
 **Stand-Up Specials Mentioned**
-Thank God for Jokes - Mike Birbiglia
-Annihilation - Patton Oswald
-Homecoming King - Hasan Minhaj
-Nunchucks & Flamethrowers - Brian Regan
+- Thank God for Jokes - Mike Birbiglia
+- Annihilation - Patton Oswald
+- Homecoming King - Hasan Minhaj
+- Nunchucks & Flamethrowers - Brian Regan
 
 Hosted by [Tim Wall](https://twitter.com/timjosephwall). Co-hosted by [Jon Dueck](https://twitter.com/jondueck) and [Ryan Kehler](https://twitter.com/ryankehler).
 
