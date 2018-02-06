@@ -1,5 +1,5 @@
 ---
-title: Episode 006
+title: '006'
 date: 2018-02-13 10:00:00 -06:00
 permalink: "/episode/6/"
 author: Whatevertown
