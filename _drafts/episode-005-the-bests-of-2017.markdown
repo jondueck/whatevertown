@@ -2,6 +2,22 @@
 title: Episode 005 – The Bests of 2017
 date: 2018-02-01 09:23:00 -06:00
 permalink: "/episode/5"
+Author: Whatevertown
+file: 
+file_itunes: 
+stitcher: 
+soundcloud: 
+googleplay: 
+itunes: 
+artwork: http://whatevertown.com/dist/artwork/artwork_default.jpg
+summary: In this episode we talk about our favourite albums, movies, tv shows, and
+  podcasts of 2017
+Exerpt: In this episode we talk about our favourite albums, movies, tv shows, and
+  podcasts of 2017
+duration: '43:03'
+length: 62077559
+explicit: 'no'
+block: 'no'
 ---
 
 ## The News
