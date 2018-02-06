@@ -60,11 +60,11 @@ layout: post
 **Movies Mentioned**
 - [Dunkirk](https://letterboxd.com/film/dunkirk-2017/)
 - [Guardians of the Galaxy vol. 2](https://letterboxd.com/film/guardians-of-the-galaxy-vol-2/)
-- Star Wars: The Last Jedi
-- Spiderman: Homecoming
-- The Big Sick
-- Thor: Ragnarok
-- Wonder Woman
+- [Star Wars: The Last Jedi](https://letterboxd.com/film/star-wars-the-last-jedi/)
+- [Spiderman: Homecoming](https://letterboxd.com/film/spider-man-homecoming/)
+- [The Big Sick](https://letterboxd.com/film/the-big-sick/)
+- [Thor: Ragnarok](https://letterboxd.com/film/thor-ragnarok/)
+- [Wonder Woman](https://letterboxd.com/film/wonder-woman-2017/)
 
 **TV Shows Mentioned**
 - Bojack Horseman
