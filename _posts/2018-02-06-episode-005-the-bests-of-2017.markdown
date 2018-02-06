@@ -95,8 +95,8 @@ layout: post
 - Spontaneanation
 
 **Stand-Up Specials Mentioned**
-- Thank God for Jokes - Mike Birbiglia
-- Annihilation - Patton Oswald
+- [Thank God for Jokes](https://letterboxd.com/film/mike-birbiglia-thank-god-for-jokes/) - Mike Birbiglia
+- [Annihilation](https://letterboxd.com/film/patton-oswalt-annihilation/) - Patton Oswald
 - Homecoming King - Hasan Minhaj
 - Nunchucks & Flamethrowers - Brian Regan
 
