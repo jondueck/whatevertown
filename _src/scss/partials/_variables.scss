@@ -20,6 +20,7 @@ $heading-text-color: #111;
 
 $link-color: $primary-color;
 $background-color: $primary-color;
+$background-color: #f0f0f0;
 
 // A note on the spelling of colour: As much as it pains me to write 'color', we've decided to take on the American, CSS spelling. We’re going to spell "grey" the correct way though.
 // Please forgive us, Canada!
@@ -41,4 +42,10 @@ $max-width: 50rem;
 // Breakpoints
 $small: new-breakpoint(min-width 500px 4);
 
+$sm: 500px;
+
 $radius: 0.25 * $line-height;
+
+$border: 1px solid $primary-color;
+
+$box-shadow: 0.5rem 0.5rem 0rem $primary-color;

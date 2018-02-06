@@ -2,13 +2,25 @@
 layout: default
 ---
 
-<article class="post">
+{% if page.stitcher %}
+	</div>
+	<banner class="player-banner">
+		<div class="wrapper">
+			<iframe class="embed-stitcher" src="https://app.stitcher.com/splayer/f/165701/{{ page.stitcher }}" width="220" height="150" frameborder="0" scrolling="no"></iframe>
+		</div>
+	</banner>
+	<div class="wrapper">
+{% elsif page.soundcloud %}
+	</div>
+	<banner class="player-banner">
+		<div class="wrapper">
+			<iframe class="embed-soundcloud" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/{{page.soundcloud}}&amp;color=%234a74ff&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
+		</div>
+	</banner>
+	<div class="wrapper">
+{% endif %}
 
-	{% if page.stitcher %}
-		<iframe class="embed-stitcher" src="https://app.stitcher.com/splayer/f/165701/{{ page.stitcher }}" width="220" height="150" frameborder="0" scrolling="no"></iframe>
-	{% elsif page.soundcloud %}
-		<iframe class="embed-soundcloud" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/{{page.soundcloud}}&amp;color=%234a74ff&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
-	{% endif %}
+<article class="post">
 
 	<h1 class="entry-title">{{ page.title }}</h1>
   <p class="description">{{ page.date | date: "%d %B %Y"}}</p>

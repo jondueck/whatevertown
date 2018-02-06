@@ -10,13 +10,13 @@
 <meta property="og:title" content="{{ post.title }}"/>
 
 {% if type == 'post' %}
-  <meta property="og:audio" content="http://my-audio.mp3">
+  <meta property="og:audio" content="{{ post.file }}">
   <meta property="og:audio:type" content="audio/mp3">
 {% endif %}
 
 
 {% if post.artwork %}
-  <meta property="og:image" content="{{ site.url }}{{ post.artwork }}">
+  <meta property="og:image" content="{{ post.artwork }}">
 {% else %}
   <meta property="og:image" content="{{ site.url }}{{ site.artwork }}">
 {% endif %}

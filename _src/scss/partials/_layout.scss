@@ -1,6 +1,33 @@
+html {
+  padding: 1rem;
+  background-color: $subdued-grey;
+  background-color: lighten($primary-color, 34%);
+
+  @media (min-width: 110rem) {
+    padding: 2rem;
+  }
+
+}
+
 body {
   background-color: $background-color;
-  background-image: url('/dist/img/stars.svg');
+  // background-image: url('/dist/img/stars.svg');
+  border: $border;
+  margin: auto;
+  position: relative;
+  background: $white;
+  color: $primary-color;
+  max-width: 120rem;
+  text-align: left;
+
+  &:after {
+    content: '×';
+    position: absolute;
+    top: 1rem;
+    left: 1rem;
+    color: $primary-color;
+  }
+
 }
 
 .wrapper {
@@ -46,6 +73,7 @@ article {
   width: 100%;
   height: 10rem;
   border: 0 none;
+  display: block;
 }
 
 .embed-stitcher {

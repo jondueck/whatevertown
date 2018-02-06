@@ -3,14 +3,21 @@
 
 .banner {
   // background: $primary-color;
-  padding-top: 16rem;
-  padding-bottom: 8rem;
   color: $white;
+  background: $primary-color;
+  padding-top: 2 * $line-height-2x;
+  padding-bottom: $line-height-2x;
+
+  @media (min-width: $sm) {
+    padding-top: 4 * $line-height-2x;
+    padding-bottom: 3 * $line-height-2x;
+  }
+
   a {
     color: inherit;
   }
   margin-bottom: $line-height-2x;
-  // background-image: url('/dist/img/stars.svg');
+  background-image: url('/dist/img/stars.svg');
   display: flex;
   vertical-align: middle;
   text-align: center;
@@ -38,11 +45,28 @@
   background-color: $white;
   padding: $line-height;
   margin-bottom: $line-height;
-  border-radius: $radius;
+  // border-radius: $radius;
+  border: $border;
+
+  &:hover {
+    box-shadow: $box-shadow;
+  }
 
   &__artwork {
     max-width: 20%;
     float: left;
   }
 
+}
+
+.player-banner {
+  background-image: url('/dist/img/stars.svg');
+  background-color: $light-grey;
+  padding-top: $line-height-2x;
+  padding-bottom: $line-height-2x;
+  display: block;
+  @media (min-width: $sm) {
+    padding-top: 3 * $line-height;
+    padding-bottom: 3 * $line-height;
+  }
 }
