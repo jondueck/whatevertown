@@ -1,11 +1,17 @@
 .site-footer {
-  margin-top: 2 * $line-height-2x;
+  margin-top: $line-height;
   padding-top: 2 * $line-height-2x;
   padding-bottom: 2 * $line-height-2x;
-  background-color: $dark-black;
-  color: $white;
+  // background-color: $dark-black;
+  border-top: $border;
 }
 
 .site-footer__credit {
   float: right;
+}
+
+.email-footer {
+  border-top: $border;
+  padding-top: $line-height-2x;
+  text-align: center;
 }

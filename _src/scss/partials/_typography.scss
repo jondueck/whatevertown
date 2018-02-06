@@ -7,6 +7,9 @@ body {
   color: $body-text-color;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
+  @media (max-width: $sm) {
+    font-size: 1rem;
+  }
 }
 
 p {
@@ -15,14 +18,20 @@ p {
 
 h1,
 .h1 {
-  font-size: #{1.8 * $base-font-size};
   font-family: 'Rift Soft', $sans;
+  font-size: 1.4 * $base-font-size;
+  @media (min-width: $sm) {
+    font-size: #{1.8 * $base-font-size};
+  }
 }
 
 h2,
 .h2 {
-  font-size: #{1.4 * $base-font-size};
+  font-size: #{1.2 * $base-font-size};
   margin-bottom: $line-height;
+  @media (min-width: $sm) {
+    font-size: #{1.4 * $base-font-size};
+  }
 }
 
 h3,
@@ -98,4 +107,16 @@ hr {
   border: 0 none;
   border-top: 1px solid $light-grey;
   margin-bottom: $line-height;
+}
+
+.site-header {
+  font-family: 'Rift Soft', $sans;
+  font-weight: bold;
+}
+
+.site-tagline {
+  // font-family: 'Rift Soft', $sans;
+  @media (min-width: 600px) {
+    font-size: 1.4 * $base-font-size;
+  }
 }

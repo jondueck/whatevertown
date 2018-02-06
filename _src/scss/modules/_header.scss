@@ -1,10 +1,10 @@
 .site-header {
   // border-bottom: 1px solid $light-grey;
   // margin-bottom: 2rem;
-  padding-top: $line-height-2x;
-  padding-bottom: $line-height-2x;
-
-  color: $white;
+  padding-top: $line-height;
+  padding-bottom: $line-height;
+  border-bottom: $border;
+  color: $primary-color;
 
   vertical-align: middle;
 
@@ -12,13 +12,19 @@
     color: inherit;
   }
 
-  &--home {
-    display: none;
-    visibility: hidden;
-  }
+  // &--home {
+  //   display: none;
+  //   visibility: hidden;
+  // }
 
   &__icon {
-    height: $line-height-2x;
+    height: $line-height;
+    @media (max-width: 599px) {
+      text-align: center;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+    }
   }
 
 }
@@ -28,6 +34,17 @@
 }
 
 .site-nav {
-  float: right;
   list-style: none;
+  margin-top: $line-height;
+  @media (min-width: 600px) {
+    float: right;
+    margin-top: 0;
+  }
+}
+
+.menu-item {
+  @media (min-width: 600px) {
+    float: left;
+    margin-left: $line-height;
+  }
 }

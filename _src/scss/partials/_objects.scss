@@ -22,7 +22,7 @@ textarea {
 #{$all-buttons},
 .btn {
   background-color: $link-color;
-  background-color: $black;
+  // background-color: $black;
   color: $white;
   margin-bottom: $line-height;
   border: 1px solid $link-color;
@@ -44,7 +44,8 @@ textarea {
 
   }
   .email {
-    border: 0 none;
+    // border: 0 none;
+    border: $border;
   }
 }
 
@@ -52,7 +53,20 @@ label {
   color: $grey;
 }
 
-label[for="mce-EMAIL"] {
-  visibility: hidden;
-  display: none;
+// label[for="mce-EMAIL"] {
+//   visibility: hidden;
+//   display: none;
+// }
+
+.input-half {
+  width: 100%;
+
+  @media (min-width: $sm) {
+    width: 48.5%;
+    float: left;
+    &:first-of-type {
+      margin-right: 2.5%;
+    }
+  }
+
 }
