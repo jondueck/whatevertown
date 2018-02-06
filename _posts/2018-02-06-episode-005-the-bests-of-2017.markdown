@@ -1,7 +1,7 @@
 ---
 title: Episode 005 – The Bests of 2017
 date: 2018-02-06 09:23:00 -06:00
-permalink: "/episode/5"
+permalink: "/episode/5/"
 Author: Whatevertown
 file: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/005.mp3
 file_itunes: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/005.m4a
@@ -18,12 +18,16 @@ duration: '43:03'
 length: 62077559
 explicit: 'no'
 block: 'no'
+layout: post
 ---
 
 ## The News
 - Bahamas: Earthtones [1:55]
+
 - [The biggest bet payout in the Premier League](https://www.cnbc.com/2016/04/29/this-huge-soccer-underdog-story-could-cost-bookmakers-millions.html) [5:20]
+
 - [Elon Musk selling flamethrowers](https://www.boringcompany.com/not-a-flamethrower) [12:30]
+
 - [Listenersclub.ca](http://listenersclub.ca/) [15:15]
 
 **Albums Mentioned (Alphabetical)**
