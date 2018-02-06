@@ -97,8 +97,8 @@ layout: post
 **Stand-Up Specials Mentioned**
 - [Thank God for Jokes](https://letterboxd.com/film/mike-birbiglia-thank-god-for-jokes/) - Mike Birbiglia
 - [Annihilation](https://letterboxd.com/film/patton-oswalt-annihilation/) - Patton Oswald
-- Homecoming King - Hasan Minhaj
-- Nunchucks & Flamethrowers - Brian Regan
+- [Homecoming King](https://letterboxd.com/film/hasan-minhaj-homecoming-king/) - Hasan Minhaj
+- [Nunchucks & Flamethrowers](https://letterboxd.com/film/brian-regan-nunchucks-and-flamethrowers/) - Brian Regan
 
 Hosted by [Tim Wall](https://twitter.com/timjosephwall). Co-hosted by [Jon Dueck](https://twitter.com/jondueck) and [Ryan Kehler](https://twitter.com/ryankehler).
 
