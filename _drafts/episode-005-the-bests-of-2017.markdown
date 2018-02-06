@@ -62,14 +62,14 @@ Whiskey - Joey Landreth
 - Wonder Woman
 
 **TV Shows Mentioned**
-Bojack Horseman
-Chef’s Table
-Manhunt: Unabomber
-Master of None
-Mindhunter
-Rick and Morty
-Stranger Things 2
-The Good Place
+- Bojack Horseman
+- Chef’s Table
+- Manhunt: Unabomber
+- Master of None
+- Mindhunter
+- Rick and Morty
+- Stranger Things 2
+- The Good Place
 
 **Podcasts Mentioned**
 Building a Story Brand
