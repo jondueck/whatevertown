@@ -1,13 +1,11 @@
-<meta property="og:url" content="">
-<meta property="og:title" content="">
-<meta property="og:description" content="">
+<meta property="og:url" content="{{ post.permalink }}">
+<meta property="og:title" content="{{ post.title }}">
+<meta property="og:description" content=" {{post.summary }}">
 <meta property="og:locale" content="{{ site.lang }}">
 <meta property="fb:pages" content="">
 <meta property="og:site_name" content="Whatevertown the Podcast">
 <meta property="og:website" content="{{ site.url }}">
 <meta name="twitter:card" content="summary_large_image">
-
-<meta property="og:title" content="{{ post.title }}"/>
 
 {% if type == 'post' %}
   <meta property="og:audio" content="{{ post.file }}">
