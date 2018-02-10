@@ -1,22 +1,39 @@
-<meta property="og:url" content="">
-<meta property="og:title" content="">
-<meta property="og:description" content="">
+{% if page.title %}
+  <meta property="og:title" content="{{ page.title }}">
+{% else %}
+  <meta property="og:title" content="{{ site.title }}">
+{% endif %}
+
+<meta property="og:url" content="{{ page.permalink }}">
+
+{% if type == 'post' %}
+  <meta property="og:type" content="article">
+{% endif %}
+
+{% if page.summary %}
+  <meta property="og:description" content=" {{page.summary }}">
+{% else %}
+  <meta property="og:description" content=" {{site.description }}">
+{% endif %}
+
 <meta property="og:locale" content="{{ site.lang }}">
 <meta property="fb:pages" content="">
 <meta property="og:site_name" content="Whatevertown the Podcast">
 <meta property="og:website" content="{{ site.url }}">
 <meta name="twitter:card" content="summary_large_image">
 
-<meta property="og:title" content="{{ post.title }}"/>
+{% if page.date %}
+  <meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time">
+{% endif %}
 
 {% if type == 'post' %}
-  <meta property="og:audio" content="{{ post.file }}">
+  <meta property="og:audio" content="{{ page.file }}">
   <meta property="og:audio:type" content="audio/mp3">
 {% endif %}
 
 
-{% if post.artwork %}
-  <meta property="og:image" content="{{ post.artwork }}">
+{% if page.artwork %}
+  <meta property="og:image" content="{{ page.artwork }}">
 {% else %}
   <meta property="og:image" content="{{ site.url }}{{ site.artwork }}">
 {% endif %}

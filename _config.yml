@@ -33,7 +33,7 @@ exclude:
 lang: en
 author: Whatevertown
 copyright: 2017
-artwork: "/assets/img/artwork.png"
+artwork: "/dist/artwork/artwork_default.jpg"
 markdown: kramdown
 theme: 
 paginate: 8
