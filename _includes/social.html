@@ -6,8 +6,10 @@
 
 <meta property="og:url" content="{{site.url}}{{ page.permalink }}">
 
-{% if type == 'post' %}
+{% if page.path contains '_posts' || if page.layout == 'post' %}
   <meta property="og:type" content="article">
+{% else %}
+  <meta property="og:type" content="website">
 {% endif %}
 
 {% if page.summary %}
