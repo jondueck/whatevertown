@@ -8,7 +8,7 @@ file_itunes: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/003.
 stitcher: 52980661
 soundcloud: 
 googleplay: 
-artwork: http://whatevertown.com/dist/artwork/artwork_default.jpg
+artwork: http://whatevertown.com/dist/artwork/sw.png
 summary: 'The guys talk about the longevity of Ryan''s Christmas tree, Shared Spaces
   in Europe, Apple slowing down older devices, their thoughts on Star Wars: The Last
   Jedi, and more'
