@@ -48,3 +48,33 @@
     margin-left: $line-height;
   }
 }
+
+.marquee {
+  // background: $black;
+  // color: $primary-color;
+  padding: 0.5 * $line-height;
+  // font-family: $monospace;
+  // font-family: 'Rift Soft', $sans;
+  color: $primary-color;
+  // text-transform: uppercase;
+  font-size: 0.75 * $base-font-size;
+
+  span {
+    margin-right: $line-height;
+    &:after {
+      content: '—';
+      margin-left: $line-height;
+      display: inline-block;
+    }
+    &:last-of-type:after {
+      content: '';
+      width: $base-font-size;
+      height: $base-font-size;
+      background: url('/dist/img/whatevertown-icon.svg');
+      background-size: contain;
+      background-repeat: no-repeat;
+      background-position: bottom;
+    }
+  }
+
+}
