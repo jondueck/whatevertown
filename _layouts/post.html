@@ -27,6 +27,12 @@ layout: default
 
 	<div class="entry-content">
 
+		{% if page.excerpt %}
+			<p class="excerpt"> {{ page.excerpt }}</p>
+		{% elsif page.summary %}
+			<p class="excerpt"> {{ page.excerpt }}</p>
+		{% endif %}
+
 		{{ content }}
 
 	</div>
