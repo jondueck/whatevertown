@@ -37,6 +37,26 @@ layout: default
 
 	</div>
 
+	<div class="post__footer">
+		{% if page.itunes %}
+			<a href="{{ page.itunes }}">Listen on Apple Podcasts</a><br>
+		{% elsif site.itunes %}
+			<a href="{{ site.itunes }}">Listen on Apple Podcasts</a><br>
+		{% endif %}
+
+		{% if page.stitcher %}
+			<a href="https://www.stitcher.com/s?eid={{ page.stitcher }}">Listen on Stitcher</a><br>
+		{% elsif site.stitcher %}
+			<a href="{{ site.stitcher }}">Listen on Stitcher</a><br>
+		{% endif %}
+
+		{% if page.googleplay %}
+			<a href="{{ page.googleplay }}">Listen on Google Play</a><br>
+		{% elsif site.googleplay %}
+			<a href="{{ site.googleplay }}">Listen on Google Play</a><br>
+		{% endif %}
+	</div>
+
 	{% if page.comments %}
 
 		<div id="disqus_thread"></div>
@@ -57,25 +77,5 @@ layout: default
 		<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
 	{% endif %}
-
-	<div class="post__footer">
-		{% if page.itunes %}
-			<a href="{{ page.itunes }}">Listen on Apple Podcasts</a><br>
-		{% elsif site.itunes %}
-			<a href="{{ site.itunes }}">Listen on Apple Podcasts</a><br>
-		{% endif %}
-
-		{% if page.stitcher %}
-			<a href="https://www.stitcher.com/s?eid={{ page.stitcher }}">Listen on Stitcher</a><br>
-		{% elsif site.stitcher %}
-			<a href="{{ site.stitcher }}">Listen on Stitcher</a><br>
-		{% endif %}
-
-		{% if page.googleplay %}
-			<a href="{{ page.googleplay }}">Listen on Google Play</a><br>
-		{% elsif site.googleplay %}
-			<a href="{{ site.googleplay }}">Listen on Google Play</a><br>
-		{% endif %}
-	</div>
 
 </article>
