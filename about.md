@@ -3,7 +3,7 @@ title: About
 layout: page
 ---
 
-Whatevertown is a podcast by Jon Dueck, Ryan Kehler, and Tim Wall. It's a show about ~~pop culture~~, ~~tabletop games~~, ~~movies~~, ~~the internet~~, whatever.
+Whatevertown is a podcast by Jon Dueck, Ryan Kehler, and Tim Wall. It's a show about ~~pop culture~~, ~~tabletop games~~, ~~movies~~, ~~the internet~~, whatever. It's recorded weekly in Winkler, Manitoba.
 
 ## The Hosts
 
