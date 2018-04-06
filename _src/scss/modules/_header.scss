@@ -58,6 +58,8 @@
   color: $primary-color;
   // text-transform: uppercase;
   font-size: 0.75 * $base-font-size;
+  // overflow-x: hidden;
+  white-space: nowrap;
 
   span {
     margin-right: $line-height;
