@@ -9,8 +9,12 @@
 
     {% if page.title == 'Home' %}
 
+      {% for item in page.marquee %}
+        {{ item }}
+      {% endfor %}
+
       <marquee class="marquee">
-        <span><strong>Episode 11 with Nathan Fehr out now.</strong></span>
+        <span>“Altona Residents Say Something Went 'Boom' in the Night”</span>
         <span>“Space is something to think about.”</span>
         <span>“Canada is filled with fridge-holes.”</span>
         <span>“As far as I know, Vero's like, I don't know.”</span>

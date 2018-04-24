@@ -74,3 +74,24 @@ label {
   }
 
 }
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+thead {
+  font-weight: bold;
+}
+
+tr {
+  border-bottom: 1px solid $light-grey;
+  &:last-of-type {
+    border-bottom: 0 none;
+  }
+}
+
+td {
+  border-collapse: collapse;
+  padding: $line-height-half 0;
+}
