@@ -38,3 +38,5 @@ markdown: kramdown
 theme: 
 paginate: 8
 paginate_path: "/episdes/page:num/"
+gems:
+- jekyll-sitemap
