@@ -3,8 +3,8 @@ title: 'Episode 015: The Winkler Police Report'
 date: 2018-05-01 21:21:00 -05:00
 permalink: "/episode/15/"
 author: Whatevertown
-file: 
-file_itunes: 
+file: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/015.mp3
+file_itunes: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/015.m4a
 stitcher: 
 soundcloud: 
 googleplay: 
