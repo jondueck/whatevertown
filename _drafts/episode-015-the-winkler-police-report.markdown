@@ -19,6 +19,6 @@ date: 2018-04-30 21:21:00 -05:00
 - …win a year trip to Europe with $2000.00 a month included, or get to spend 10 minutes on the moon
 
 ### The Recommendations
-- Jon: *[Invisible Cities](https://www.goodreads.com/book/show/9809.Invisible_Cities)* by Italo Calvino
-- Ryan: [Drift Magazine](https://driftmag.com)
-- Tim: *Air for Free* by Relient K
+- Jon: *[Design Canada](https://designcanada.com/)*
+- Ryan: *[Vide Noire](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25?si=SE958X7DRAGQyJgwqVwarg)* by Lord Huron
+- Tim: *[The Habitat](https://www.gimletmedia.com/the-habitat)* by Gimlet Media
