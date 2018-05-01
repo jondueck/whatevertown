@@ -34,7 +34,7 @@ comments: true
 
 ### Would you rather…
 - …drink a litre of hot sauce, or a litre of hand lotion?
-- …get a free [Whitecap](https://drinkwhitecap.com/) V60 coffee every day but it gives you minor indigestion/gas for three hours, or have to drink a Tim Horton's double-double every day and as you receive the coffee, you have to see "Ooo, I love me a good Timmy's coffee!" followed by taking a very loud sip. 
+- …get a free [Whitecap](https://drinkwhitecap.com/) V60 coffee every day but it gives you minor indigestion/gas for three hours, or have to drink a Tim Horton's double-double every day and as you receive the coffee, you have to see "Ooo, I love me a good Timmy's coffee!". 
 - …win a year trip to Europe with $2000.00 a month included, or get to spend 10 minutes on the moon
 
 ### The Recommendations
