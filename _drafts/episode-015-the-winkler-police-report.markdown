@@ -1,6 +1,25 @@
 ---
 title: 'Episode 015: The Winkler Police Report'
 date: 2018-04-30 21:21:00 -05:00
+author: Whatevertown
+file: 
+file_itunes: 
+stitcher: 
+soundcloud: 
+googleplay: 
+itunes: 
+artwork: http://whatevertown.com/dist/artwork/artwork_default.jpg
+summary: The guys give the latest of the Winkler Police report, talk about family
+  road trips on The Bant Wheel, and decide whether they'd rather drinking a litre
+  of hot sauce or hand lotion.
+excerpt: 'The guys give the latest of the Winkler Police report, talk about family
+  road trips on The Bant Wheel, and decide whether they''d rather drinking a litre
+  of hot sauce or hand lotion.  '
+duration: '1:00:51'
+length: 87636345
+explicit: 'no'
+block: 'no'
+comments: true
 ---
 
 - [Winkler, MB](https://sourispei.com/about/)
