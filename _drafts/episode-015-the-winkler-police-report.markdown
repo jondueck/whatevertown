@@ -1,6 +1,7 @@
 ---
 title: 'Episode 015: The Winkler Police Report'
 date: 2018-05-01 21:21:00 -05:00
+permalink: "/episode/15/"
 author: Whatevertown
 file: 
 file_itunes: 
