@@ -15,10 +15,10 @@
 		<copyright>2017-{{ site.time | %Y }} {{ site.title }}</copyright>
 		<pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
 		<lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
-		<googleplay:image href="{{ site.url }}/images/itunes.png"/>
+		<googleplay:image href="{{ site.url }}/dist/img/itunes.png"/>
 		<image>
 			<link>{{ site.url }}</link>
-			<url>{{ site.url }}/images/itunes.png</url>
+			<url>{{ site.url }}/dist/img/itunes.png</url>
 			<title>{{ site.title }}</title>
 		</image>
 		<itunes:subtitle>{{ site.description | xml_escape }}</itunes:subtitle>

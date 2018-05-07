@@ -124,3 +124,7 @@ hr {
 .excerpt {
   font-style: italic;
 }
+
+small {
+  font-size: 0.75 * $base-font-size;
+}
