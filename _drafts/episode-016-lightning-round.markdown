@@ -1,0 +1,23 @@
+---
+title: 'Episode 016: Lightning Round'
+date: 2018-05-21 22:22:00 -05:00
+---
+
+- [Riverside, Iowa](http://www.cityofriversideiowa.com/)
+
+### The News
+- [Facebook Dating](https://www.theverge.com/2018/5/1/17307782/facebook-tinder-dating-app-f8-match-okcupid)
+
+- [Google Assistant getting smarter](https://www.theverge.com/2018/5/8/17332070/google-assistant-makes-phone-call-demo-duplex-io-2018)
+
+- [AI voices should differ from humans'] ()
+
+### Would you rather…
+- …never have internet access, or be a professional clown?
+- …be able to instantly cook any food to perfection, or change what food is entering your stomach/digestive system?
+- …be thirsty, or have to pee?
+
+### The Recommendations
+- Jon: *[Jerry, maybe we should get married](https://www.youtube.com/watch?v=1cjZHAyrf4E)*
+- Ryan: *[Good Thing](https://open.spotify.com/user/leonbridges_official/playlist/5p1n11Fqes0R83nw1hGGTe)* by Leon Bridges
+- Tim: *[Cory Wong](http://coryjwong.com/)*
