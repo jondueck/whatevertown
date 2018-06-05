@@ -1,5 +1,5 @@
 ---
-title: 'Episode 018: Which movies define you?'
+title: 'Episode 018: Monty Python and the Quest for Whatever'
 date: 2018-06-04 21:53:00 -05:00
 author: Whatevertown
 file: 
@@ -13,8 +13,8 @@ summary: The guys decide which movies define them, try to recall their earliest 
   Tim rants about traffic violations, and more.
 excerpt: The guys decide which movies define them, try to recall their earliest memories,
   Tim rants about traffic violations, and more.
-duration: 
-length: 
+duration: '52:56'
+length: 76234210
 explicit: 'no'
 block: 'no'
 comments: true
