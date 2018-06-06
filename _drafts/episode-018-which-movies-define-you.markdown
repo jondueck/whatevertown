@@ -2,8 +2,8 @@
 title: 'Episode 018: Monty Python and the Quest for Whatever'
 date: 2018-06-04 21:53:00 -05:00
 author: Whatevertown
-file: 
-file_itunes: 
+file: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/018.mp3
+file_itunes: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/018.m4a
 stitcher: 
 soundcloud: 
 googleplay: 
