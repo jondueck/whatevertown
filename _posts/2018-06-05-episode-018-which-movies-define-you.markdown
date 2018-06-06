@@ -4,7 +4,7 @@ date: 2018-06-05 21:53:00 -05:00
 author: Whatevertown
 file: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/018.mp3
 file_itunes: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/018.m4a
-stitcher: 
+stitcher: 54784461
 soundcloud: 
 googleplay: 
 itunes: 
