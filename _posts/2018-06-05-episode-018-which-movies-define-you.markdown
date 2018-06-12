@@ -8,7 +8,7 @@ stitcher: 54784461
 soundcloud: 
 googleplay: 
 itunes: 
-artwork: http://whatevertown.com/dist/artwork/artwork_default.jpg
+artwork: "/dist/artwork/artwork_default.jpg"
 summary: The guys decide which movies define them, try to recall their earliest memories,
   Tim rants about traffic violations, and more.
 excerpt: The guys decide which movies define them, try to recall their earliest memories,
