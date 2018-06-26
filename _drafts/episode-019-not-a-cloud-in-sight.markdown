@@ -1,13 +1,14 @@
 ---
 title: 'Episode 019: Not A Cloud In Sight'
 date: 2018-06-26 01:12:00 -05:00
-Field name: author
-file: 
+permalink: "/episode/19/"
+author: Whatevertown
+file:
 file_itunes: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/019.m4a
-stitcher: 
-soundcloud: 
-googleplay: 
-itunes: 
+stitcher:
+soundcloud:
+googleplay:
+itunes:
 artwork: "/dist/artwork/artwork_default.jpg"
 summary: 'Summersode: Episode 1. The guys talk about video game consoles, the World
   Cup, and go through some Would You Rather''s during a perfect day at the beach.'
