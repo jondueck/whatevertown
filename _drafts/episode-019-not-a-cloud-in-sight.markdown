@@ -3,7 +3,7 @@ title: 'Episode 019: Not A Cloud In Sight'
 date: 2018-06-26 01:12:00 -05:00
 Field name: author
 file: 
-file_itunes: 
+file_itunes: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/019.m4a
 stitcher: 
 soundcloud: 
 googleplay: 
