@@ -1,6 +1,7 @@
 ---
 title: 'Episode 021: In The Woods'
 date: 2018-07-23 21:27:00 -05:00
+permalink: "/episode/21/"
 author: Whatevertown
 file: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/021.mp3
 file_itunes: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/021.m4a
@@ -22,3 +23,12 @@ block: 'no'
 comments: true
 ---
 
+### The Bant Wheel
+- Saskatoons
+- Music you listened to as a kid?
+- The World Cup
+
+### The Recommendations 
+- Jon: *[Romance](spotify:album:2TdOaoer2ct2VUmQjv4f4w)* By The Gloomies
+- Ryan: It's Alive! With Brad
+- Tim: Over the Garden Wall
