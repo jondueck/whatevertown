@@ -2,8 +2,8 @@
 title: 'Episode 021: In The Woods'
 date: 2018-07-23 21:27:00 -05:00
 author: Whatevertown
-file: 
-file_itunes: 
+file: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/021.mp3
+file_itunes: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/021.m4a
 stitcher: 
 soundcloud: 
 googleplay: 
