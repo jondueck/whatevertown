@@ -8,7 +8,7 @@ stitcher:
 soundcloud: 
 googleplay: 
 itunes: 
-artwork: 
+artwork: "/dist/artwork/artwork_default.jpg"
 summary: 
 excerpt: 
 duration: 
