@@ -5,7 +5,7 @@ permalink: "/episode/22/"
 author: Whatevertown
 file: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/022.mp3
 file_itunes: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/022.m4a
-stitcher: 
+stitcher: 55690960
 soundcloud: 
 googleplay: 
 itunes: 
