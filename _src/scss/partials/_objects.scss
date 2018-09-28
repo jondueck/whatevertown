@@ -31,9 +31,21 @@ textarea {
 
   &:hover {
     background-color: tint($link-color, 10%);
+    text-decoration: none;
   }
   &:active {
     background-color: shade($link-color, 5%);
+  }
+
+}
+
+.btn--white {
+  color: $link-color !important;
+  background-color: $white;
+  text-decoration: none;
+
+  &:hover {
+    background-color: rgba($white, 0.8);
   }
 
 }
