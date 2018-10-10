@@ -9,7 +9,7 @@ stitcher: 56589070
 soundcloud:
 googleplay:
 itunes:
-artwork: 'http://whatevertown.com/dist/artwork/artwork_teaser.jpg'
+artwork: http://whatevertown.com/dist/artwork/artwork_teaser.jpg
 summary: An update from the cast of Whatevertown.
 excerpt: An update from the cast of Whatevertown.
 duration: '00:05:53'
