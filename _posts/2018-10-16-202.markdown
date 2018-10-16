@@ -1,0 +1,32 @@
+---
+title: '202: Pavel, the Rockyverse, and some clever Seniors'
+date: 2018-10-16 23:33:00 -05:00
+permalink: "/episode/s02e02/"
+author: Whatevertown
+file: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/s02e02.mp3
+file_itunes: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/s02e02.m4a
+stitcher: 
+soundcloud: 
+googleplay: 
+itunes: 
+artwork: "/dist/artwork/artwork_default.jpg"
+summary: The guys talk some biz, discuss their first jobs, answer a listener submitted
+  would you rather, and more.
+excerpt: The guys talk some biz, discuss their first jobs, answer a listener submitted
+  would you rather, and more.
+duration: 49.26
+length: 71195503
+explicit: 'no'
+block: 'no'
+comments: true
+layout: post
+---
+
+## Recommendations
+- Jon: [Threedom](https://www.earwolf.com/show/threedom/) and [Spontaneanation](https://www.earwolf.com/show/spontaneanation-with-paul-f-tompkins/)
+- Tim: [Heavyweight](https://www.gimletmedia.com/heavyweight)
+- Ryan: [Chromecast](https://store.google.com/us/product/chromecast)
+
+[Take our listener survey at https://whatevertown.typeform.com/to/BuFVcs](https://whatevertown.typeform.com/to/BuFVcs).
+
+Thanks to Pavel for being our first patron on [Patreon](https://www.patreon.com/whatevertown)!
