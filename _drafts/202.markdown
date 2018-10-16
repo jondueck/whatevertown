@@ -3,12 +3,12 @@ title: '202: Pavel, the Rockyverse, and some clever Seniors'
 date: 2018-10-16 23:33:00 -05:00
 permalink: "/episode/s02e02/"
 author: Whatevertown
-file:
-file_itunes:
-stitcher:
-soundcloud:
-googleplay:
-itunes:
+file: 
+file_itunes: 
+stitcher: 
+soundcloud: 
+googleplay: 
+itunes: 
 artwork: "/dist/artwork/artwork_default.jpg"
 summary: The guys talk some biz, discuss their first jobs, answer a listener submitted
   would you rather, and more.
