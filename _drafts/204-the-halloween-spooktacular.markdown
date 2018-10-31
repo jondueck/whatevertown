@@ -3,8 +3,8 @@ title: '204: The Halloween Spooktacular'
 date: 2018-10-29 21:16:00 -05:00
 permalink: "/episode/s02e04/"
 Author: Whatevertown
-file: 
-file_itunes: 
+file: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/s02e04.mp3
+file_itunes: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/s02e04.m4a
 stitcher: 
 soudcloud: 
 googleplay: 
