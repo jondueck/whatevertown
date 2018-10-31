@@ -3,13 +3,13 @@ title: '204: The Halloween Spooktacular'
 date: 2018-10-29 21:16:00 -05:00
 permalink: "/episode/s02e04/"
 Author: Whatevertown
-file: 
-file_itunes: 
-stitcher: 
-soudcloud: 
-googleplay: 
-itunes: 
-artwork: "/dist/artwork/artwork_default.jpg"
+file:
+file_itunes:
+stitcher:
+soudcloud:
+googleplay:
+itunes:
+artwork: "/dist/artwork/halloween.jpg"
 summary: It's our annual Halloween Spooktacular! Our listeners knocked on our door
   with pillowcases full of fun-sized topics and individually wrapped 'would you rathers'
   that are sure to hit that sweet spot.
