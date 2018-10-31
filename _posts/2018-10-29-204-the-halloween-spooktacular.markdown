@@ -12,10 +12,10 @@ itunes:
 artwork: "/dist/artwork/halloween.jpg"
 summary: It's our annual Halloween Spooktacular! Our listeners knocked on our door
   with pillowcases full of fun-sized topics and individually wrapped 'would you rathers'
-  that are sure to hit that sweet spot.
+  that are sure to hit the sweet spot.
 excerpt: It's our annual Halloween Spooktacular! Our listeners knocked on our door
   with pillowcases full of fun-sized topics and individually wrapped 'would you rathers'
-  that are sure to hit that sweet spot.
+  that are sure to hit the sweet spot.
 duration: '57:20'
 length: 82558141
 explicit: 'no'
