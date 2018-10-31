@@ -5,7 +5,7 @@ permalink: "/episode/s02e04/"
 Author: Whatevertown
 file: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/s02e04.mp3
 file_itunes: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/s02e04.m4a
-stitcher: 
+stitcher: 56984776
 soudcloud: 
 googleplay: 
 itunes: 
