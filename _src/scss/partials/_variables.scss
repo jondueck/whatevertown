@@ -4,10 +4,6 @@ $line-height: #{($base-font-size*$line-height-unitless)};
 $line-height-2x: #{($base-font-size*$line-height-unitless)*2};
 $line-height-half: #{($base-font-size * $line-height-unitless) / 2};
 
-// $primary-color: #016BE7;
-$primary-color: #4a74ff;
-$secondary-color: #01E7B7;
-
 $subdued-grey: #fafafa;
 $light-grey: #cedbe2;
 $grey: #95a7b1;
@@ -15,6 +11,12 @@ $dark-grey: #7290a0;
 $dark-black: #222;
 $white: #fff;
 $black: #444;
+$blue: #4a74ff;
+$red: #ff4d4d;
+
+$primary-color: $blue;
+$secondary-color: #01E7B7;
+$secondary-color: $red;
 
 $body-text-color: $black;
 $heading-text-color: #111;
