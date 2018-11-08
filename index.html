@@ -8,7 +8,7 @@ hidden: true
 
 <section class="episode-list">
 
-  {% for post in site.posts %}
+  {% for post in site.posts limit:5 %}
 
     <article id="post-{{ post.id }}" class="pod-preview">
 
@@ -21,6 +21,10 @@ hidden: true
     </article>
 
   {% endfor %}
+
+  <p><center><a href="/episodes/" class="btn">All Episodes</a></center></p>
+
+  <br><br>
 
 </section>
 

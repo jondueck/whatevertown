@@ -18,8 +18,9 @@ p {
 
 h1,
 .h1 {
-  font-family: 'Rift Soft', $sans;
+  font-family: 'Rift', $sans;
   font-size: 1.4 * $base-font-size;
+  font-weight: bold;
   @media (min-width: $sm) {
     font-size: #{1.8 * $base-font-size};
   }
@@ -29,8 +30,9 @@ h2,
 .h2 {
   font-size: #{1.2 * $base-font-size};
   margin-bottom: $line-height;
+  font-weight: bold;
   @media (min-width: $sm) {
-    font-size: #{1.4 * $base-font-size};
+    font-size: #{1.25 * $base-font-size};
   }
 }
 
@@ -110,12 +112,11 @@ hr {
 }
 
 .site-header {
-  font-family: 'Rift Soft', $sans;
+  font-family: 'rift', $sans;
   font-weight: bold;
 }
 
 .site-tagline {
-  // font-family: 'Rift Soft', $sans;
   @media (min-width: 600px) {
     font-size: 1.4 * $base-font-size;
   }
