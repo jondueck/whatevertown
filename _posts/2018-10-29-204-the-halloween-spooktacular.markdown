@@ -24,7 +24,7 @@ comments: true
 layout: post
 ---
 
-Mark Zuckerberg smoking meats: https://www.youtube.com/watch?v=eBxTEoseZak
+Boo!
 
 ## References
 - [Mark Zuckerberg talking about smoking meats](https://www.youtube.com/watch?v=eBxTEoseZak)
