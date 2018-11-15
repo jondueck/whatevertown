@@ -1,6 +1,7 @@
 ---
-title: ×
-permalink: '/x/'
+title: "×"
+permalink: "/x/"
 layout: x
 hidden: true
 ---
+
