@@ -8,11 +8,14 @@ html {
     padding: 2rem;
   }
 
+  @media (prefers-color-scheme: dark) {
+    background-color: $dark-black;
+  }
+
 }
 
 body {
   background-color: $background-color;
-  // background-image: url('/dist/img/stars.svg');
   border: $border;
   margin: auto;
   position: relative;
@@ -27,6 +30,11 @@ body {
     top: 1rem;
     left: 1rem;
     color: $primary-color;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    background-color: $black;
+    color: $white;
   }
 
 }
@@ -58,6 +66,10 @@ article {
   // @media (min-width: 900px) {
   //   padding: $line-height-2x;
   // }
+
+  @media (prefers-color-scheme: dark) {
+    background-color: $black;
+  }
 
   &__footer {
     border-top: 1px solid $primary-color;
