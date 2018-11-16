@@ -1,16 +1,16 @@
 ---
 title: Tools & Running Costs
 permalink: "/tools/"
-layout: page
 hidden: true
+layout: page
 ---
 
 Here's how we make the show. If you back us on [Patreon](https://patreon.com/whatevertown), this is where that money goes. If you're thinking of starting your own podcast, here's what you might want to keep in mind.
 
 | Name | Service/Tool | Price |
 | -- | -- | -- | -- |
-| Microphones | [AKG P120](http://www.janzenbrothers.com/akg-p120-project-studio-condenser-microphone.html)  | ≈$129 × 3 |
-| Mic stands | [On-Stage Euro Boom](http://www.janzenbrothers.com/on-stage-euro-boom-mic-stand.html) | ≈$40 × 3 |
+| Microphones | [AKG P120](http://www.janzenbrothers.com/akg-p120-project-studio-condenser-microphone.html)  | ≈$129 × 4 |
+| Mic stands | [On-Stage Euro Boom](http://www.janzenbrothers.com/on-stage-euro-boom-mic-stand.html) | ≈$40 × 4 |
 | Content Managment System | [Siteleaf](https://siteleaf.com) | $0* |
 | Site Hosting | [Github](https://github.com) | $0* |
 | Audio file hosting | [AWS S3](https://aws.amazon.com/s3) | ≈$1.35/month |
