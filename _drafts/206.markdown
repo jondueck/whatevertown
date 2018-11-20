@@ -17,6 +17,7 @@ length: 0
 explicit: 'no'
 block: 'no'
 comments: true
+layout: post
 ---
 
 [La Chalupa Research Laboratory](https://www.photolib.noaa.gov/htmls/nur08013.htm)
