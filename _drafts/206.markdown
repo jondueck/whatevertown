@@ -1,11 +1,27 @@
 ---
 title: '206:'
 date: 2018-11-20 00:19:00 -06:00
+permalink: "/episode/s02e06/"
+author: Whatevertown
+file: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/s02e06.mp3
+file_itunes: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/s02e06.m4a
+stitcher:
+soundcloud:
+googleplay:
+itunes:
+artwork: "/dist/artwork/artwork_default.jpg"
+summary:
+excerpt:
+duration: '00:00:00'
+length: 0000
+explicit: 'no'
+block: 'no'
+comments: true
 ---
 
 [La Chalupa Research Laboratory](https://www.photolib.noaa.gov/htmls/nur08013.htm)
 
 ## Recommendations
-- Jon: [Demi Adejuyigbe’s XOXO talk](https://youtu.be/G39U1Z1d7qI) 
+- Jon: [Demi Adejuyigbe’s XOXO talk](https://youtu.be/G39U1Z1d7qI)
 - Tim: [Things 3](https://culturedcode.com/things/)
 - Ryan: [John Mayer's IGTV Show](https://www.instagram.com/johnmayer/)
