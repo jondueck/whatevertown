@@ -1,0 +1,32 @@
+---
+title: '206: La Chalupa'
+date: 2018-11-20 00:19:00 -06:00
+permalink: "/episode/s02e06/"
+author: Whatevertown
+file: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/s02e06.mp3
+file_itunes: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/s02e06.m4a
+stitcher: 
+soundcloud: 
+googleplay: 
+itunes: 
+artwork: "/dist/artwork/artwork_default.jpg"
+summary: The guys talk about beards, pump-up jams, Toy Story 4, and go through some
+  listener submitted Would You Rathers.
+excerpt: The guys talk about beards, pump-up jams, Toy Story 4, and go through some
+  listener submitted Would You Rathers.
+duration: '59:55'
+length: '86,294,070'
+explicit: 'no'
+block: 'no'
+comments: true
+layout: post
+---
+
+[La Chalupa Research Laboratory](https://www.photolib.noaa.gov/htmls/nur08013.htm)
+
+[Playlist](https://open.spotify.com/playlist/1b8bRLK02Cn9rvxS80FWUv)
+
+## Recommendations
+- Jon: [Demi Adejuyigbe’s XOXO talk](https://youtu.be/G39U1Z1d7qI)
+- Tim: [Things 3](https://culturedcode.com/things/)
+- Ryan: [John Mayer's IGTV Show](https://www.instagram.com/johnmayer/)
