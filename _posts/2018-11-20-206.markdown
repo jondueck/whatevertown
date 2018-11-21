@@ -15,7 +15,7 @@ summary: The guys talk about beards, pump-up jams, Toy Story 4, and go through s
 excerpt: The guys talk about beards, pump-up jams, Toy Story 4, and go through some
   listener submitted Would You Rathers.
 duration: '59:55'
-length: '86,294,070'
+length: 86294070
 explicit: 'no'
 block: 'no'
 comments: true
