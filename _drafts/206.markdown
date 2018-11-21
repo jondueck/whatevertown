@@ -11,7 +11,9 @@ googleplay:
 itunes: 
 artwork: "/dist/artwork/artwork_default.jpg"
 summary: 
-excerpt: 
+excerpt: The guys talk about beards, pump-up jams, Toy Story 4, go through some listener
+  Would You Rathers, and dive deeper into the internet gems they used when they were
+  younger.
 duration: '00:00:00'
 length: 0
 explicit: 'no'
