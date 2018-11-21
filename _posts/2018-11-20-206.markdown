@@ -1,6 +1,6 @@
 ---
 title: '206: La Chalupa'
-date: 2018-11-20 00:19:00 -06:00
+date: 2018-11-20 19:00:00 -06:00
 permalink: "/episode/s02e06/"
 author: Whatevertown
 file: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/s02e06.mp3
