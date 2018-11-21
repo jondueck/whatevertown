@@ -1,5 +1,5 @@
 ---
-title: '206: The Toy and the Story'
+title: '206: La Chalupa'
 date: 2018-11-20 00:19:00 -06:00
 permalink: "/episode/s02e06/"
 author: Whatevertown
