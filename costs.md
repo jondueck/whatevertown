@@ -16,6 +16,7 @@ Here's how we make the show. If you back us on [Patreon](https://patreon.com/wha
 | Audio file hosting | [AWS S3](https://aws.amazon.com/s3) | ≈$1.35/month |
 | Domain | [Hover](https://hover.com/pFKHjihm) | $15<small>USD</small>/year |
 | Audio Recording & Editing | [GarageBand](https://www.apple.com/ca/mac/garageband/) | $0 |
+| Messaging | [Slack](https://slack.com) | $0* |
 | Collaboration & Planning | [Dropbox Paper](https://paper.dropbox.com) | $0 |
 | Email Marketing | [Mailchimp](http://eepurl.com/dNrhWQ) | $0* |
 | Surveys | [Typekit](https://typekit.com) | $0* |

@@ -1,5 +1,14 @@
 @import url('https://rsms.me/inter/inter-ui.css');
 
+@font-face {
+  font-family: 'VG5000';
+  src: url('/dist/fonts/vg5000/VG5000-Regular_web.eot');
+  src: url('/dist/fonts/vg5000/VG5000-Regular_web.woff') format('woff');
+  src: url('/dist/fonts/vg5000/VG5000-Regular_web.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
 body {
   font-size: $base-font-size;
   font-family: $sans;
@@ -21,7 +30,8 @@ p {
 
 h1,
 .h1 {
-  font-family: 'Rift', $sans;
+  font-family: $display;
+  text-transform: uppercase;
   font-size: 1.4 * $base-font-size;
   font-weight: bold;
   @media (min-width: $sm) {
@@ -115,7 +125,8 @@ hr {
 }
 
 .site-header {
-  font-family: 'rift', $sans;
+  font-family: $display;
+  text-transform: uppercase;
   font-weight: bold;
 }
 

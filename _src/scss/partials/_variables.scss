@@ -31,7 +31,9 @@ $background-color: #f0f0f0;
 
 // Fonts
 // A Linux- and Windows-friendly sans-serif font stack: http://prospects.mhurrell.co.uk/post/updating-the-helvetica-font-stack
-$sans: 'Inter UI', -apple-system, BlinkMacSystemFont, "Roboto", Helmet, Freesans, sans-serif;
+$sans: 'VG5000', -apple-system, BlinkMacSystemFont, "Roboto", Helmet, Freesans, sans-serif;
+
+$display: 'Rift', $sans;
 
 $monospace: Monaco, Menlo, 'Ubuntu Mono', Consolas, monospace;
 
