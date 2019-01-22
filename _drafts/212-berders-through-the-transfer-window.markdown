@@ -2,8 +2,8 @@
 title: '212: Berders Through the Transfer Window'
 date: 2019-01-22 20:18:00 -06:00
 author: Whatevertown
-file: 
-file_itunes: 
+file: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/s02e12.mp3
+file_itunes: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/s02e12.m4a
 stitcher: 
 soundcloud: 
 googleplay: 
