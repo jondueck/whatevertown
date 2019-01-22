@@ -9,10 +9,14 @@ soundcloud:
 googleplay: 
 itunes: 
 artwork: "/dist/artwork/artwork_default.jpg"
-summary: 
-excerpt: 
-duration: 
-length: 
+summary: This week the guys talk about the last time they changed their minds about
+  something, the recent Whitecap publicity, and dive deep into what they wanted to
+  be when they grew up.
+excerpt: This week the guys talk about the last time they changed their minds about
+  something, the recent Whitecap publicity, and dive deep into what they wanted to
+  be when they grew up.
+duration: '1:01:50'
+length: 59360154
 explicit: 'no'
 block: 'no'
 comments: true
