@@ -2,12 +2,12 @@
 title: '212: Berders Through the Transfer Window'
 date: 2019-01-22 20:18:00 -06:00
 author: Whatevertown
-file:
-file_itunes:
-stitcher:
-soundcloud:
-googleplay:
-itunes:
+file: 
+file_itunes: 
+stitcher: 
+soundcloud: 
+googleplay: 
+itunes: 
 artwork: "/dist/artwork/artwork_default.jpg"
 summary: This week the guys talk about the last time they changed their minds about
   something, the recent Whitecap publicity, and dive deep into what they wanted to
