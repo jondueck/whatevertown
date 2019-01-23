@@ -24,7 +24,7 @@ comments: true
 layout: post
 ---
 
-> "Whitecap is good"
+> "Never did I think that, as I was eating my hot dog, a situation like this could occur."
 
 ### References
 - [Young Jerks hot sauce design](https://twitter.com/Dan_Cassaro/status/1087765765305053185)
