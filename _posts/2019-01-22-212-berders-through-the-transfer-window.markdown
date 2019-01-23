@@ -1,6 +1,6 @@
 ---
 title: '212: Berders Through the Transfer Window'
-date: 2019-01-22 20:18:00 -06:00
+date: 2019-01-22 19:24:00 -06:00
 permalink: "/episode/s02e12/"
 author: Whatevertown
 file: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/s02e12.mp3
