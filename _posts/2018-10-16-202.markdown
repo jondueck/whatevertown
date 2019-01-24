@@ -1,5 +1,5 @@
 ---
-title: '202: Pavel, the Rockyverse, and some clever Seniors'
+title: "#25 Pavel, the Rockyverse, and some clever Seniors"
 date: 2018-10-16 23:33:00 -05:00
 permalink: "/episode/s02e02/"
 author: Whatevertown
