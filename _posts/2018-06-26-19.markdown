@@ -1,5 +1,5 @@
 ---
-title: 'Episode 019: Not A Cloud In Sight'
+title: "#19 Not A Cloud In Sight"
 date: 2018-06-26 13:30:00 -05:00
 permalink: "/episode/19/"
 author: Whatevertown
