@@ -1,5 +1,5 @@
 ---
-title: Episode 005 – The Bests of 2017
+title: "#5 The Bests of 2017"
 date: 2018-02-06 09:23:00 -06:00
 permalink: "/episode/5/"
 Author: Whatevertown
