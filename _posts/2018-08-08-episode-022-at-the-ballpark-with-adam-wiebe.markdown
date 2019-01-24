@@ -1,5 +1,5 @@
 ---
-title: 'Episode 022: At the Ballpark with Adam Wiebe'
+title: "#22 At the Ballpark with Adam Wiebe"
 date: 2018-08-08 17:07:00 -05:00
 permalink: "/episode/22/"
 author: Whatevertown
