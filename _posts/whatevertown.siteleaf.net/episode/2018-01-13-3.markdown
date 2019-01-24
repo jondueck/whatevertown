@@ -1,5 +1,5 @@
 ---
-title: Episode 003 - The One About Star Wars
+title: "#3 The One About Star Wars"
 date: 2018-01-13 12:15:00 -06:00
 permalink: "/2018/01/13/3/"
 author: Whatevertown
