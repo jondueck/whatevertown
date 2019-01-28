@@ -21,6 +21,7 @@ length: 59360154
 explicit: 'no'
 block: 'no'
 comments: true
+Season: 2
 layout: post
 ---
 
@@ -35,7 +36,7 @@ layout: post
 - …Age one year every time you sneeze, or _repreat_ kindergarten to grade 12? (Taken from [Comedy Bang! Bang!](https://comedybangbang.fandom.com/wiki/2013_Tour,_Chicago))
 
 ### Recommendations:
-- Jon: *[Spontaneanation](https://www.earwolf.com/show/spontaneanation-with-paul-f-tompkins/)* (Try Episodes 137, 156, or 159, 184)
+- Jon: *[Spontaneanation](https://www.earwolf.com/show/spontaneanation-with-paul-f-tompkins/)* (Try Episodes [137](https://www.earwolf.com/episode/hardware-store/), [156](https://www.earwolf.com/episode/a-sunken-livering-room-from-a-multi-camera-tv-set/), or [159](https://www.earwolf.com/episode/the-moon-2/), [184](https://www.earwolf.com/episode/amusement-park/) or anything with Matt Gourley, Amanda Lund, Maria Blasucci, Carl Tart, or anyone really.)
 - Ryan: *[Skwosh](https://www.skwosh.com.au/)*
 - Tim: *[How Long](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y)* By Ariel Posen
 

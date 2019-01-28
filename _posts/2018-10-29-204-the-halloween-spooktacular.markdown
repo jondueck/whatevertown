@@ -1,5 +1,5 @@
 ---
-title: '204: The Halloween Spooktacular'
+title: "#27 The Halloween Spooktacular"
 date: 2018-10-29 21:16:00 -05:00
 permalink: "/episode/s02e04/"
 Author: Whatevertown
