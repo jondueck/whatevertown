@@ -12,8 +12,8 @@ subtitle: A podcast by Jon Dueck, Ryan Kehler, and Tim Wall.
 email: whatevertownpod@gmail.com
 description: 'Whatevertown is a podcast by Jon Dueck, Ryan Kehler, and Tim Wall. It''s
   a show about pop culture, art, the internet, and whatever. '
-baseurl:
-url: http://whatevertown.com
+baseurl: 
+url: https://whatevertown.com
 permalink: pretty
 twitter: whatevertown
 vimeo: whatevertown
@@ -36,7 +36,7 @@ author: Whatevertown
 copyright: 2017
 artwork: "/dist/artwork/artwork_default.jpg"
 markdown: kramdown
-theme:
+theme: 
 paginate: 8
 paginate_path: "/episdes/page:num/"
 gems:
