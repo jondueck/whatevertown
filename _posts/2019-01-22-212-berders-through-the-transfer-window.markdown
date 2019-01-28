@@ -35,7 +35,7 @@ layout: post
 - …Age one year every time you sneeze, or _repreat_ kindergarten to grade 12? (Taken from [Comedy Bang! Bang!](https://comedybangbang.fandom.com/wiki/2013_Tour,_Chicago))
 
 ### Recommendations:
-- Jon: *[Spontaneanation](https://www.earwolf.com/show/spontaneanation-with-paul-f-tompkins/)* (Try Episodes 137, 156, or 159, 184)
+- Jon: *[Spontaneanation](https://www.earwolf.com/show/spontaneanation-with-paul-f-tompkins/)* (Try Episodes [137](https://www.earwolf.com/episode/hardware-store/), 156, or 159, 184)
 - Ryan: *[Skwosh](https://www.skwosh.com.au/)*
 - Tim: *[How Long](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y)* By Ariel Posen
 
