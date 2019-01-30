@@ -1,5 +1,5 @@
 ---
-title: '212: Berders Through the Transfer Window'
+title: "#35 Berders Through the Transfer Window"
 date: 2019-01-22 19:24:00 -06:00
 permalink: "/episode/s02e12/"
 author: Whatevertown
