@@ -1,6 +1,26 @@
 ---
 title: "#37"
-date: 2019-02-04 20:23:00 -06:00
+date: 2019-02-05 20:23:00 -06:00
+Author: Whatevertown
+file: 
+file_itunes: 
+stitcher: 
+soundcloud: 
+googleplay: 
+itunes: 
+artwork: "/dist/artwork/artwork_default.jpg"
+summary: The guys are joined by photographer Lynette Giesbrecht as they talk about
+  managing time, awkward situations, how important your phone contacts are, and cream
+  or sugar in coffee.
+excerpt: The guys are joined by photographer Lynette Giesbrecht as they talk about
+  managing time, awkward situations, how important your phone contacts are, and cream
+  or sugar in coffee.
+duration: 
+length: 
+explicit: 'no'
+block: 'no'
+comments: true
+Season: 2
 ---
 
 > ""
