@@ -1,5 +1,5 @@
 ---
-title: "#37"
+title: "#37 The Workaround with Lynette Giesbrecht"
 date: 2019-02-05 20:23:00 -06:00
 Author: Whatevertown
 file: 
@@ -23,7 +23,7 @@ comments: true
 Season: 2
 ---
 
-> ""
+> "I would have been ok throwing up at that moment"
 
 ### References
 - [Lynette's photo of Ariel Posen](https://www.instagram.com/p/BsWHMHAn1bR/)
