@@ -1,5 +1,5 @@
 ---
-title: "#37 The Workaround with Lynette Giesbrecht"
+title: "#37 Workarounds with Lynette Giesbrecht"
 date: 2019-02-05 20:23:00 -06:00
 Author: Whatevertown
 file: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/e37.mp3
@@ -10,11 +10,11 @@ googleplay:
 itunes: 
 artwork: "/dist/artwork/artwork_default.jpg"
 summary: The guys are joined by photographer Lynette Giesbrecht as they talk about
-  managing time, awkward situations, how important your phone contacts are, and cream
-  or sugar in coffee.
+  managing time, awkward situations, how important your phone contacts are, and whether
+  they would prefer cream or sugar in coffee.
 excerpt: The guys are joined by photographer Lynette Giesbrecht as they talk about
-  managing time, awkward situations, how important your phone contacts are, and cream
-  or sugar in coffee.
+  managing time, awkward situations, how important your phone contacts are, and whether
+  they would prefer cream or sugar in coffee.
 duration: 
 length: 
 explicit: 'no'
