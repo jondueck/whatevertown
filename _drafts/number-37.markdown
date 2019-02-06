@@ -2,8 +2,8 @@
 title: "#37 The Workaround with Lynette Giesbrecht"
 date: 2019-02-05 20:23:00 -06:00
 Author: Whatevertown
-file: 
-file_itunes: 
+file: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/e37.mp3
+file_itunes: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/e37.m4a
 stitcher: 
 soundcloud: 
 googleplay: 
