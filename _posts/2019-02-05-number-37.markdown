@@ -4,7 +4,7 @@ date: 2019-02-05 20:23:00 -06:00
 Author: Whatevertown
 file: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/e37.mp3
 file_itunes: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/e37.m4a
-stitcher: 
+stitcher: 58614551
 soundcloud: 
 googleplay: 
 itunes: 
