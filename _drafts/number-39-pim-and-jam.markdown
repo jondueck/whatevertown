@@ -25,9 +25,9 @@ season: 2
 - …​
 
 ### Recommendations:
-- Jon:
-- Ryan:
-- Tim: Tetris 99 on Switch
+- Jon: [Cascadia](https://open.spotify.com/album/05yItt2HnvymtxET3YJHlm?si=pZEbyesERf6EuuF4uEwL5w) by Said The Whale
+- Ryan: [MindNode](https://mindnode.com)
+- Tim: [Tetris 99](https://www.nintendo.com/games/detail/tetris-99-switch) on Switch
 
 ---
 
