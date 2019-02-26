@@ -9,8 +9,10 @@ Soundcloud:
 googleplay: 
 iTunes: 
 artwork: "/dist/artwork/artwork_default.jpg"
-summary: 
-excerpt: 
+summary: The guys talk cryptocurrency, YouTube conspiracies, and talk about what role
+  they'd like to play if they were actors.
+excerpt: The guys talk cryptocurrency, YouTube conspiracies, and decide what role
+  they'd like to play if they were actors.
 duration: 
 length: 
 explicit: 'no'
