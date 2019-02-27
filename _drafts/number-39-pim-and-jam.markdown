@@ -21,10 +21,11 @@ comments: true
 season: 2
 ---
 
-> " "
-
 ### Would You Rather…
-- …​
+- …​only wear one colour or each day or have to wear seven colours each day?
+-…​always be slightly cold or slightly warm?
+-…​have a shower that keeps you clean for seven days, or a bed that gives you a full nights rest in one hour?
+-…​be able to run through walls but all your clothes stay on the other side, or have to run full speed for a 50/50 chance of running through the wall, but you get to keep your clothes on.
 
 ### Recommendations:
 - Jon: [Cascadia](https://open.spotify.com/album/05yItt2HnvymtxET3YJHlm?si=pZEbyesERf6EuuF4uEwL5w) by Said The Whale
