@@ -1,9 +1,10 @@
 ---
 title: "#39 Pim & Jam"
 date: 2019-02-26 09:20:00 -06:00
+permalink: "/episode/39/"
 author: Whatevertown
-file: 
-file_itunes: 
+file: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/e39.mp3
+file_itunes: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/e39.m4a
 stitcher: 
 Soundcloud: 
 googleplay: 
