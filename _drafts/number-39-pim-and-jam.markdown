@@ -14,8 +14,8 @@ summary: The guys talk cryptocurrency, YouTube conspiracies, and talk about what
   they'd like to play if they were actors.
 excerpt: The guys talk cryptocurrency, YouTube conspiracies, and decide what role
   they'd like to play if they were actors.
-duration: 
-length: 
+duration: '55:19'
+length: 53113754
 explicit: 'no'
 block: 'no'
 comments: true
