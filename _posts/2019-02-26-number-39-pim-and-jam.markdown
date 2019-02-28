@@ -1,5 +1,5 @@
 ---
-title: "#39 Pim & Jam"
+title: "#39 Pim and Jam"
 date: 2019-02-26 09:20:00 -06:00
 permalink: "/episode/39/"
 author: Whatevertown
