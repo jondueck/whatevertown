@@ -1,19 +1,19 @@
 ---
 title: "#41"
 date: 2019-03-12 19:28:00 -05:00
-author: Whatevertown
 permalink: "/episode/40/"
+author: Whatevertown
 file: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/e41.mp3
 file_itunes: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/e41.m4a
-stitcher:
-soundcloud:
-googleplay:
-iTunes:
+stitcher: 
+soundcloud: 
+googleplay: 
+iTunes: 
 artwork: "/dist/artwork/artwork_default.jpg"
-summary:
-excerpt:
-duration:
-length:
+summary: 
+excerpt: 
+duration: 
+length: 
 explicit: 'no'
 block: 'no'
 comments: true
