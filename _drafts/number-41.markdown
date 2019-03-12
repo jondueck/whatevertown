@@ -12,8 +12,8 @@ iTunes:
 artwork: "/dist/artwork/artwork_default.jpg"
 summary: 
 excerpt: 
-duration: 
-length: 
+duration: '48:40'
+length: 46721904
 explicit: 'no'
 block: 'no'
 comments: true
