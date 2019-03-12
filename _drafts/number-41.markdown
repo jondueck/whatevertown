@@ -10,6 +10,13 @@ googleplay:
 iTunes: 
 artwork: "/dist/artwork/artwork_default.jpg"
 summary: 
+excerpt: 
+duration: 
+length: 
+explicit: 'no'
+block: 'no'
+comments: true
+season: 2
 ---
 
 > "When I say something I have no clue if I'm going to be right or wrong"
