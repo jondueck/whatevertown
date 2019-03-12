@@ -21,16 +21,13 @@ season: 2
 
 > "When I say something I have no clue if I'm going to be right or wrong"
 
-### Links
-- 
-
 ### Would You Rather…
 - …
 
 ### Recommendations:
-- Jon: [*Dictionary Stories* by Jez Burrows](http://www.dictionarystories.com)
+- Jon:
 - Tim:
-- Ryan: [All or Nothing: Manchester City](https://www.youtube.com/watch?v=S6ds0rLzk9Q)
+- Ryan:
 
 ### Credits
 - Music: [*The Wild West* by Ross Bugden](https://www.youtube.com/watch?v=VDPMAuv-3nk)
