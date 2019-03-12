@@ -20,15 +20,19 @@ comments: true
 season: 2
 ---
 
-> "When I say something I have no clue if I'm going to be right or wrong"
+> ""
+
+### Links:
+- [Facebook's pivot to privacy](https://www.theverge.com/interface/2019/3/6/18253922/facebook-privacy-meaning-implications-mark-zuckerberg-pivot-analysis-interface-casey-newton)
+- [Luminary aims to be the Netflix of podcasts](https://www.nytimes.com/2019/03/03/business/media/luminary-media-podcast-app.html)
 
 ### Would You Rather…
-- …
+- …Have no knees or no elbows?
 
 ### Recommendations:
-- Jon:
-- Tim:
-- Ryan:
+- Jon:[*When I Get Home* By Solange](https://open.spotify.com/album/4WF4HvVT7VjGnVjxjoCR6w?si=MMOFw5m6T36ftn7t97bNEQ)
+- Tim:[*Hope Is Made of Steel* By Northcote(https://open.spotify.com/album/7tefnClE8qN0ueSP3AX8mP?si=-oGghoabShGHjJPVvwUoww)
+- Ryan:[*Part 1 Everything Not Saved Will Be Lost* By Foals](https://open.spotify.com/album/7tefnClE8qN0ueSP3AX8mP?si=-oGghoabShGHjJPVvwUoww)
 
 ### Credits
 - Music: [*The Wild West* by Ross Bugden](https://www.youtube.com/watch?v=VDPMAuv-3nk)
