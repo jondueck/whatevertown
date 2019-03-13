@@ -1,5 +1,5 @@
 ---
-title: "#41"
+title: "#41 More Bigger Than Ever Before"
 date: 2019-03-12 19:28:00 -05:00
 permalink: "/episode/40/"
 author: Whatevertown
@@ -19,8 +19,6 @@ block: 'no'
 comments: true
 season: 2
 ---
-
-> ""
 
 ### Links:
 - [Facebook's pivot to privacy](https://www.theverge.com/interface/2019/3/6/18253922/facebook-privacy-meaning-implications-mark-zuckerberg-pivot-analysis-interface-casey-newton)
