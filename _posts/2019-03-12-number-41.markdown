@@ -1,14 +1,14 @@
 ---
 title: "#41 More Bigger Than Ever Before"
 date: 2019-03-12 19:28:00 -05:00
-permalink: "/episode/40/"
+permalink: "/episode/41/"
 author: Whatevertown
 file: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/e41.mp3
 file_itunes: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/e41.m4a
-stitcher: 
-soundcloud: 
-googleplay: 
-iTunes: 
+stitcher:
+soundcloud:
+googleplay:
+iTunes:
 artwork: "/dist/artwork/artwork_default.jpg"
 summary: The guys talk about Ron Maclean's breakfast at Whitecap, Facebook privacy,
   and the end of the golden age of podcasts.
