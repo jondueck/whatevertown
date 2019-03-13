@@ -10,8 +10,10 @@ soundcloud:
 googleplay: 
 iTunes: 
 artwork: "/dist/artwork/artwork_default.jpg"
-summary: 
-excerpt: 
+summary: The guys talk about Ron Maclean's breakfast at Whitecap, Facebook privacy,
+  and the end of the golden age of podcasts.
+excerpt: The guys talk about Ron Maclean's breakfast at Whitecap, Facebook privacy,
+  and the end of the golden age of podcasts.
 duration: '48:40'
 length: 46721904
 explicit: 'no'
