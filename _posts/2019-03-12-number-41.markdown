@@ -1,0 +1,42 @@
+---
+title: "#41 More Bigger Than Ever Before"
+date: 2019-03-12 19:28:00 -05:00
+permalink: "/episode/40/"
+author: Whatevertown
+file: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/e41.mp3
+file_itunes: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/e41.m4a
+stitcher: 
+soundcloud: 
+googleplay: 
+iTunes: 
+artwork: "/dist/artwork/artwork_default.jpg"
+summary: The guys talk about Ron Maclean's breakfast at Whitecap, Facebook privacy,
+  and the end of the golden age of podcasts.
+excerpt: The guys talk about Ron Maclean's breakfast at Whitecap, Facebook privacy,
+  and the end of the golden age of podcasts.
+duration: '48:40'
+length: 46721904
+explicit: 'no'
+block: 'no'
+comments: true
+season: 2
+---
+
+### Links:
+- [Facebook's pivot to privacy](https://www.theverge.com/interface/2019/3/6/18253922/facebook-privacy-meaning-implications-mark-zuckerberg-pivot-analysis-interface-casey-newton)
+- [Luminary aims to be the Netflix of podcasts](https://www.nytimes.com/2019/03/03/business/media/luminary-media-podcast-app.html)
+
+### Would You Rather…
+- …Have no elbows or no knees? Arms and legs are just as long as they are now, simply no ability to bend them.
+
+### Recommendations:
+- Jon:[*When I Get Home* By Solange](https://open.spotify.com/album/4WF4HvVT7VjGnVjxjoCR6w?si=MMOFw5m6T36ftn7t97bNEQ)
+- Tim:[*Hope Is Made of Steel* By Northcote(https://open.spotify.com/album/7tefnClE8qN0ueSP3AX8mP?si=-oGghoabShGHjJPVvwUoww)
+- Ryan:[*Part 1 Everything Not Saved Will Be Lost* By Foals](https://open.spotify.com/album/7tefnClE8qN0ueSP3AX8mP?si=-oGghoabShGHjJPVvwUoww)
+
+### Credits
+- Music: [*The Wild West* by Ross Bugden](https://www.youtube.com/watch?v=VDPMAuv-3nk)
+
+---
+
+Brought to you by our [Patreon](https://www.patreon.com/whatevertown) supporters. Thanks! Patreon backers now have access to an exclusive post-show in their Patreon feeds.
