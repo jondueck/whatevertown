@@ -8,11 +8,13 @@ stitcher:
 soundcloud: 
 googleplay: 
 itunes: 
-artwork: 
-summary: 
-excerpt: 
-duration: 
-length: 
+artwork: "/dist/artwork/artwork_default.jpg"
+summary: The guys talk about Myspace losing 12 years of music, Google's new video
+  game streaming platform, and go through some What Would You Do If's.
+excerpt: The guys talk about Myspace losing 12 years of music, Google's new video
+  game streaming platform, and go through some What Would You Do If's.
+duration: '1:05:32'
+length: 62919495
 explicit: 'no'
 block: 'no'
 comments: true
