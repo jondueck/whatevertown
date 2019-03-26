@@ -34,7 +34,7 @@ season: 2
 
 ### Recommendations:
 - Jon:[*Bankrupt*](https://open.spotify.com/album/1s7a0VpP3aNEubiTgx6YlU?si=r_D7Qp5pQG2wr776Gp9IvQ) By Phoenix
-- Ryan:March Madness
+- Ryan: March Madness
 - Tim: [Nathan Plays](https://www.youtube.com/channel/UCW4wyjzTgbAihmzT16FE9Bg)
 
 ---
