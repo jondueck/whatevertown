@@ -2,8 +2,8 @@
 title: "#43"
 date: 2019-03-24 18:24:00 -05:00
 author: Whatevertown
-file: 
-file_itunes: 
+file: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/e43.mp3
+file_itunes: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/e43.m4a
 stitcher: 
 soundcloud: 
 googleplay: 
