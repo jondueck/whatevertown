@@ -28,9 +28,9 @@ season: 2
 - [Google Stadia](https://www.polygon.com/2019/3/22/18273185/google-stadia-games-price-release-date-controller-faq)
 
 ### What would you do if…
-…you could go back in time, and talk to your past self for five minutes?
-…your hands and your feet suddenly changed places?
-…you could communicate with your pet for two minutes?
+- …you could go back in time, and talk to your past self for five minutes?
+- …your hands and your feet suddenly changed places?
+- …you could communicate with your pet for two minutes?
 
 ### Recommendations:
 - Jon:[*Bankrupt*](https://open.spotify.com/album/1s7a0VpP3aNEubiTgx6YlU?si=r_D7Qp5pQG2wr776Gp9IvQ) By Phoenix
