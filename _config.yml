@@ -24,23 +24,23 @@ defaults:
   values:
     layout: default
     author: ''
-    subtitle: 
-    description: 
-    email: 
-    copyright: 
-    twitter: 
-    vimeo: 
-    soundcloud: 
-    instagram: 
-    itunes: 
-    stitcher: 
-    googleplay: 
-    spotify: 
+    subtitle:
+    description:
+    email:
+    copyright:
+    twitter:
+    vimeo:
+    soundcloud:
+    instagram:
+    itunes:
+    stitcher:
+    googleplay:
+    spotify:
 subtitle: A podcast by Jon Dueck, Ryan Kehler, and Tim Wall.
 email: whatevertownpod@gmail.com
 description: Whatevertown is a podcast by Jon Dueck, Ryan Kehler, and Tim Wall. It’s
   a show about pop culture, art, the internet, and whatever.
-baseurl: 
+baseurl:
 url: https://whatevertown.com
 permalink: pretty
 twitter: whatevertown
@@ -64,13 +64,12 @@ author: Whatevertown
 copyright: 2017
 artwork: "/dist/artwork/artwork_default.jpg"
 markdown: kramdown
-theme: 
+theme:
 paginate: 8
 paginate_path: "/episodes/page:num/"
 plugins:
 - jekyll-sitemap
 - jekyll-paginate
-<<<<<<< HEAD
 defaults:
   -
     scope:
@@ -79,18 +78,18 @@ defaults:
     values:
       layout: "default"
       author: ""
-      subtitle:
-      description:
-      email:
-      copyright:
-      twitter:
-      vimeo:
-      soundcloud:
-      instagram:
-      itunes:
-      stitcher:
-      googleplay:
-      spotify:
+      subtitle: ''
+      description: ''
+      email: ''
+      copyright: ''
+      twitter: ''
+      vimeo: ''
+      soundcloud: ''
+      instagram: ''
+      itunes: ''
+      stitcher: ''
+      googleplay: ''
+      spotify: ''
   -
     scope:
       path: ""
@@ -121,5 +120,3 @@ defaults:
       layout: "page"
       twitter: ''
       website: ''
-=======
->>>>>>> 8e7a00766ade8b7610b98b56e9adc438469c7cc2
