@@ -2,23 +2,42 @@
 title: Whatevertown
 timezone: America/Chicago
 collections:
+  hosts:
+    title: Hosts
+    output: false
   podcasts:
     title: Podcasts
     output: true
   posts:
     title: Posts
     output: true
-  hosts:
-    title: Hosts
-    output: false
   uploads:
     title: Uploads
     output: true
+defaults:
+- scope:
+    path: ''
+    type: podcasts
+  values:
+    layout: default
+    author: ''
+    subtitle: 
+    description: 
+    email: 
+    copyright: 
+    twitter: 
+    vimeo: 
+    soundcloud: 
+    instagram: 
+    itunes: 
+    stitcher: 
+    googleplay: 
+    spotify: 
 subtitle: A podcast by Jon Dueck, Ryan Kehler, and Tim Wall.
 email: whatevertownpod@gmail.com
 description: Whatevertown is a podcast by Jon Dueck, Ryan Kehler, and Tim Wall. It’s
   a show about pop culture, art, the internet, and whatever.
-baseurl:
+baseurl: 
 url: https://whatevertown.com
 permalink: pretty
 twitter: whatevertown
@@ -42,29 +61,9 @@ author: Whatevertown
 copyright: 2017
 artwork: "/dist/artwork/artwork_default.jpg"
 markdown: kramdown
-theme:
+theme: 
 paginate: 8
 paginate_path: "/episodes/page:num/"
 plugins:
 - jekyll-sitemap
 - jekyll-paginate
-defaults:
-  -
-    scope:
-      path: ""
-      type: "podcasts"
-    values:
-      layout: "default"
-      author: ""
-      subtitle:
-      description:
-      email:
-      copyright:
-      twitter:
-      vimeo:
-      soundcloud:
-      instagram:
-      itunes:
-      stitcher:
-      googleplay:
-      spotify:
