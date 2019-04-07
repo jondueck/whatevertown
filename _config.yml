@@ -36,6 +36,35 @@ defaults:
     stitcher:
     googleplay:
     spotify:
+- scope:
+    path: ""
+    type: "posts"
+  values:
+    layout: "post"
+    author: Whatevertown
+    file: ''
+    file_itunes: ''
+    stitcher: ''
+    soundcloud: ''
+    googleplay: ''
+    itunes: ''
+    artwork: "/dist/artwork/artwork_default.jpg"
+    summary: ''
+    excerpt: ''
+    duration: '0:00:00'
+    length: ''
+    explicit: 'no'
+    block: 'no'
+    comments: "true"
+    season: ""
+- scope:
+    path: ""
+    type: "hosts"
+  values:
+    layout: "page"
+    twitter: ''
+    website: ''
+    
 subtitle: A podcast by Jon Dueck, Ryan Kehler, and Tim Wall.
 email: whatevertownpod@gmail.com
 description: Whatevertown is a podcast by Jon Dueck, Ryan Kehler, and Tim Wall. It’s
@@ -70,53 +99,3 @@ paginate_path: "/episodes/page:num/"
 plugins:
 - jekyll-sitemap
 - jekyll-paginate
-defaults:
-  -
-    scope:
-      path: ""
-      type: "podcasts"
-    values:
-      layout: "default"
-      author: ""
-      subtitle: ''
-      description: ''
-      email: ''
-      copyright: ''
-      twitter: ''
-      vimeo: ''
-      soundcloud: ''
-      instagram: ''
-      itunes: ''
-      stitcher: ''
-      googleplay: ''
-      spotify: ''
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-      author: Whatevertown
-      file: ''
-      file_itunes: ''
-      stitcher: ''
-      soundcloud: ''
-      googleplay: ''
-      itunes: ''
-      artwork: "/dist/artwork/artwork_default.jpg"
-      summary: ''
-      excerpt: ''
-      duration: '0:00:00'
-      length: ''
-      explicit: 'no'
-      block: 'no'
-      comments: "true"
-      season: ""
-  -
-    scope:
-      path: ""
-      type: "hosts"
-    values:
-      layout: "page"
-      twitter: ''
-      website: ''
