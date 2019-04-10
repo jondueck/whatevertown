@@ -6,9 +6,9 @@ author: Whatevertown
 file: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/0200.mp3
 file_itunes: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/0200.m4a
 stitcher: 56589070
-soundcloud: 
-googleplay: 
-itunes: 
+soundcloud:
+googleplay:
+itunes:
 artwork: http://whatevertown.com/dist/artwork/artwork_teaser.jpg
 summary: An update from the cast of Whatevertown.
 excerpt: An update from the cast of Whatevertown.
@@ -17,6 +17,7 @@ length: '8837506'
 explicit: 'no'
 block: 'no'
 comments: true
+episode_type: trailer
 ---
 
 Season 2 is coming soon. Next week even.

@@ -10,6 +10,28 @@ layout: default
 
   	{{ content }}
 
+    {% if page.title == 'About' %}
+      <h2>The Hosts</h2>
+      <div class="flex-row">
+
+        {% assign sorted_hosts = site.hosts | sort:'title' %}
+
+        {% for host in sorted_hosts %}
+
+          <div class="flex-item">
+            <h3>{{ host.title }}</h3>
+            <div>{{ host.content }}</div>
+            <br>
+            {% if host.twitter %}<a href="https://twitter.com/{{ host.twitter}}">Twitter</a><br>{% endif %}
+            {% if host.website %}<a href="{{ host.website }}">Website</a>{% endif %}
+          </div>
+
+        {% endfor %}
+
+      </div>
+
+    {% endif %}
+
   </div>
 
 </article>

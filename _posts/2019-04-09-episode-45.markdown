@@ -5,6 +5,9 @@ permalink: "/episode-45/"
 summary: The boys talk about April Fools' Day, a mystery, and cheating in school.
 excerpt: The boys talk about April Fools' Day, a mystery, and cheating in school.
 layout: post
+season: 2
+episode: 45
+episode_type: full
 ---
 
 > “April the fourth be with you”
@@ -14,7 +17,7 @@ layout: post
 - [The 35-Year-Old Mystery of the Garfield Phones on a French Beach](https://www.atlasobscura.com/articles/garfield-phone-beach)
 
 ### Recommendations:
- 
+
 - Jon: [*Komachi* by Meitei](https://metronrecords.bandcamp.com/album/komachi)
 - Tim: [James Acaster](https://letterboxd.com/film/james-acaster-repertoire/)
 - Ryan:  [Nate Bargatze](https://letterboxd.com/film/nate-bargatze-the-tennessee-kid/)

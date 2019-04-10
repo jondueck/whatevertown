@@ -6,9 +6,9 @@ author: Whatevertown
 file: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/e43.mp3
 file_itunes: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/e43.m4a
 stitcher: 59658793
-soundcloud: 
-googleplay: 
-itunes: 
+soundcloud:
+googleplay:
+itunes:
 artwork: "/dist/artwork/artwork_default.jpg"
 summary: The guys talk about Myspace losing 12 years of music, Google's new video
   game streaming platform, and go through some What Would You Do If's.
@@ -20,6 +20,8 @@ explicit: 'no'
 block: 'no'
 comments: true
 season: 2
+episode: 43
+episode_type: full
 ---
 
 > “Godspeed to all you madness heads out there.”

@@ -6,9 +6,9 @@ author: Whatevertown
 file: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/e41.mp3
 file_itunes: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/e41.m4a
 stitcher: 59240915
-soundcloud: 
-googleplay: 
-iTunes: 
+soundcloud:
+googleplay:
+iTunes:
 artwork: "/dist/artwork/artwork_default.jpg"
 summary: The guys talk about Ron Maclean's breakfast at Whitecap, Facebook privacy,
   and the end of the golden age of podcasts.
@@ -20,6 +20,8 @@ explicit: 'no'
 block: 'no'
 comments: true
 season: 2
+episode: 41
+episode_type: full
 layout: post
 ---
 

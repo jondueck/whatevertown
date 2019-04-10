@@ -6,9 +6,9 @@ author: Whatevertown
 file: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/s02e12.mp3
 file_itunes: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/s02e12.m4a
 stitcher: 58333870
-soundcloud: 
-googleplay: 
-itunes: 
+soundcloud:
+googleplay:
+itunes:
 artwork: "/dist/artwork/artwork_default.jpg"
 summary: This week the guys talk about the last time they changed their minds about
   something, the recent Whitecap publicity, and dive deep into what they wanted to
@@ -22,6 +22,8 @@ explicit: 'no'
 block: 'no'
 comments: true
 Season: 2
+episode: 35
+episode_type: full
 layout: post
 ---
 
