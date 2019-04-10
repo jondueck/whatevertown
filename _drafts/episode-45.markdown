@@ -4,10 +4,10 @@ date: 2019-04-09 19:00:00 -05:00
 permalink: "/episode-45/"
 summary: The boys talk about April Fools' Day, a mystery, and cheating in school.
 excerpt: The boys talk about April Fools' Day, a mystery, and cheating in school.
-layout: post
 season: 2
-episode: 45
 episode_type: full
+episode: 45
+layout: post
 ---
 
 > “April the fourth be with you”
