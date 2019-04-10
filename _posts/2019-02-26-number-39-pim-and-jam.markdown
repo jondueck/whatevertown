@@ -5,10 +5,10 @@ permalink: "/episode/39/"
 author: Whatevertown
 file: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/e39.mp3
 file_itunes: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/e39.m4a
-stitcher:
-Soundcloud:
-googleplay:
-iTunes:
+stitcher: 
+Soundcloud: 
+googleplay: 
+iTunes: 
 artwork: "/dist/artwork/artwork_default.jpg"
 summary: The guys talk cryptocurrency, YouTube conspiracies, and talk about what role
   they'd like to play if they were actors.
