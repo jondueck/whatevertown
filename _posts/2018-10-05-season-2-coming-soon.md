@@ -17,6 +17,7 @@ length: '8837506'
 explicit: 'no'
 block: 'no'
 comments: true
+episode_type: trailer
 ---
 
 Season 2 is coming soon. Next week even.

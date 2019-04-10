@@ -12,7 +12,7 @@
 		<googleplay:author>Whatevertown</googleplay:author>
 		<managingEditor>{{ site.email }} ({{ site.author }})</managingEditor>
 		<webMaster>{{ site.email }} ({{ site.author }})</webMaster>
-		<copyright>2017-{{ site.time | %Y }} {{ site.title }}</copyright>
+		<copyright>2017-{{ site.time | date: '%Y' }} {{ site.title }}</copyright>
 		<pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
 		<lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
 		<googleplay:image href="{{ site.url }}/dist/img/itunes.png"/>
@@ -35,7 +35,7 @@
 		<itunes:explicit>no</itunes:explicit>
 		{% for post in site.posts %}
 			<item>
-				<title>{{ post.title | xml_escape }}</title>
+				<title>{{ post.title | xml_escape | strip_html }}</title>
 				<link>{{ site.url }}{{ post.url }}</link>
 				<pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
 				<description>{{ post.content | xml_escape }}</description>
@@ -54,6 +54,9 @@
 				{% endif %}
 				<itunes:explicit>{{ post.explicit }}</itunes:explicit>
 				<itunes:block>{{ post.block }}</itunes:block>
+				{% if post.season %}<itunes:season>{{ post.season }}</itunes:season>{% endif %}
+				{% if post.episode %}<itunes:episode>{{ post.episode }}</itunes:episode>{% endif %}
+				{% if post.type %}<itunes:episodeType>{{ post.episode_type }}</itunes:episodeType>{% endif %}
 			</item>
 		{% endfor %}
 	</channel>

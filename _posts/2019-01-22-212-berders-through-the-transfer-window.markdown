@@ -22,6 +22,8 @@ explicit: 'no'
 block: 'no'
 comments: true
 Season: 2
+episode: 35
+episode_type: full
 layout: post
 ---
 

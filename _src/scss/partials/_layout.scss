@@ -96,3 +96,24 @@ article {
 .id-404 {
   background: $dark-black;
 }
+
+
+.flex-row {
+  display: flex;
+  flex-direction: row;
+  margin-left: -0.5 * $gutter;
+  margin-right: -0.5 * $gutter;
+  flex-wrap: wrap;
+}
+
+.flex-item {
+  flex-direction: column;
+  align-items: baseline;
+  margin-right: 0.5 * $gutter;
+  margin-left: 0.5 * $gutter;
+  flex: 1 1 auto;
+
+  @media (min-width: 48rem) {
+    max-width: calc(50% - $gutter);
+  }
+}

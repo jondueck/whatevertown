@@ -50,6 +50,11 @@ textarea {
 
 }
 
+.btn--inline {
+  display: inline-block;
+  margin-right: $line-height-half;
+}
+
 #mc_embed_signup_scroll {
   .email,
   .button {

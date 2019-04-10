@@ -1,0 +1,23 @@
+---
+title: "#45 Train Season"
+date: 2019-04-09 19:00:00 -05:00
+permalink: "/episode-45/"
+summary: The boys talk about April Fools' Day, a mystery, and cheating in school.
+excerpt: The boys talk about April Fools' Day, a mystery, and cheating in school.
+season: 2
+episode_type: full
+episode: 45
+layout: post
+---
+
+> “April the fourth be with you”
+
+### News
+
+- [The 35-Year-Old Mystery of the Garfield Phones on a French Beach](https://www.atlasobscura.com/articles/garfield-phone-beach)
+
+### Recommendations:
+
+- Jon: [*Komachi* by Meitei](https://metronrecords.bandcamp.com/album/komachi)
+- Tim: [James Acaster](https://letterboxd.com/film/james-acaster-repertoire/)
+- Ryan:  [Nate Bargatze](https://letterboxd.com/film/nate-bargatze-the-tennessee-kid/)

@@ -20,6 +20,8 @@ explicit: 'no'
 block: 'no'
 comments: true
 season: 2
+episode: 43
+episode_type: full
 ---
 
 > “Godspeed to all you madness heads out there.”

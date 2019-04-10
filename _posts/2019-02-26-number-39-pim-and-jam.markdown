@@ -20,6 +20,7 @@ explicit: 'no'
 block: 'no'
 comments: true
 season: 2
+episode_type: full
 ---
 
 ### Would You Rather…

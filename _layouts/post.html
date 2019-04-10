@@ -39,26 +39,28 @@ layout: default
 
 	<div class="post__footer">
 		{% if page.itunes %}
-			<a href="{{ page.itunes }}">Listen on Apple Podcasts</a><br>
+			<a href="{{ page.itunes }}" class="btn btn--inline">Listen on Apple Podcasts</a>
 		{% elsif site.itunes %}
-			<a href="{{ site.itunes }}">Listen on Apple Podcasts</a><br>
+			<a href="{{ site.itunes }}" class="btn btn--inline">Listen on Apple Podcasts</a>
 		{% endif %}
 
 		{% if page.stitcher %}
-			<a href="https://www.stitcher.com/s?eid={{ page.stitcher }}">Listen on Stitcher</a><br>
+			<a href="https://www.stitcher.com/s?eid={{ page.stitcher }}" class="btn btn--inline">Listen on Stitcher</a>
 		{% elsif site.stitcher %}
-			<a href="{{ site.stitcher }}">Listen on Stitcher</a><br>
+			<a href="{{ site.stitcher }}" class="btn btn--inline">Listen on Stitcher</a>
 		{% endif %}
 
-		<a href="{{ site.spotify }}">Listen on Stitcher</a><br>
+		<a href="{{ site.spotify }}" class="btn btn--inline">Listen on Spotify</a>
 
 		{% if page.googleplay %}
-			<a href="{{ page.googleplay }}">Listen on Google Play</a><br>
+			<a href="{{ page.googleplay }}" class="btn btn--inline">Listen on Google Play</a>
 		{% elsif site.googleplay %}
-			<a href="{{ site.googleplay }}">Listen on Google Play</a><br>
+			<a href="{{ site.googleplay }}" class="btn btn--inline">Listen on Google Play</a>
 		{% endif %}
 
-		<a href="https://www.breaker.audio/whatevertown"> Listen on Breaker</a>
+		<!-- <a href="https://www.breaker.audio/whatevertown" class="btn btn--inline"> Listen on Breaker</a> -->
+
+		<!-- <a href="https://www.himalaya.com/Comedy-podcasts/Whatevertown-309859" class="btn btn--inline">Listen on Himalaya</a> -->
 	</div>
 
 	{% if page.comments %}
