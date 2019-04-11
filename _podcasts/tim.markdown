@@ -1,19 +1,11 @@
 ---
 title: Tim’s Untitled Project
 date: 2019-04-06 19:47:00 -05:00
-subtitle: 
-layout: default
 author: Tim Wall
-email: 
+podcast_type: episodic
+copyright: 2019
 description: 
-copyright: {}
-twitter: 
-vimeo: 
-soundcloud: 
-instagram: 
-itunes: 
-stitcher: 
-googleplay: 
-spotify: 
+image: "/dist/artwork/artwork_teaser.jpg"
+layout: default
 ---
 
