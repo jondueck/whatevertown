@@ -8,5 +8,8 @@ subtitle: A podcast about our Jets.
 podcast_type: episodic
 copyright: 2019
 twitter: sharkmeifele
+hosts:
+- Jon Dueck
+image: "/uploads/scheif%20avi%202.jpg"
 ---
 
