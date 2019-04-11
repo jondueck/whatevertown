@@ -9,11 +9,11 @@ author: Whatevertown
 file: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/022.mp3
 file_itunes: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/022.m4a
 stitcher: 55690960
-soundcloud:
-googleplay:
-itunes:
+soundcloud: 
+googleplay: 
+itunes: 
 artwork: http://whatevertown.com/dist/artwork/artwork_default.jpg
-summary:
+summary: 
 excerpt: In a desperate attempt to find content, the guys attend a baseball game,
   where they run into none other than Division Baseball's Adam Wiebe.
 duration: '58:01'

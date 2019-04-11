@@ -9,9 +9,9 @@ author: Whatevertown
 file: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/s02e06.mp3
 file_itunes: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/s02e06.m4a
 stitcher: 57337140
-soundcloud:
-googleplay:
-itunes:
+soundcloud: 
+googleplay: 
+itunes: 
 artwork: "/dist/artwork/artwork_default.jpg"
 summary: The guys talk about beards, pump-up jams, Toy Story 4, and go through some
   listener submitted Would You Rathers.

@@ -9,9 +9,9 @@ author: Whatevertown
 file: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/019.mp3
 file_itunes: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/019.m4a
 stitcher: 55076720
-soundcloud:
-googleplay:
-itunes:
+soundcloud: 
+googleplay: 
+itunes: 
 artwork: "/dist/artwork/artwork_default.jpg"
 summary: Summersode Episode 1. The guys talk about video game consoles, the World
   Cup, and go through some Would You Rather's during a perfect day at the beach.

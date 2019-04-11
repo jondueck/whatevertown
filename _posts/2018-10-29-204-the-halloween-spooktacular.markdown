@@ -9,9 +9,9 @@ Author: Whatevertown
 file: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/s02e04.mp3
 file_itunes: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/s02e04.m4a
 stitcher: 56984776
-soudcloud:
-googleplay:
-itunes:
+soudcloud: 
+googleplay: 
+itunes: 
 artwork: "/dist/artwork/halloween.jpg"
 summary: It's our annual Halloween Spooktacular! Our listeners knocked on our door
   with pillowcases full of fun-sized topics and individually wrapped 'would you rathers'

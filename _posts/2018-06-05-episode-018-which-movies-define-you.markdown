@@ -8,9 +8,9 @@ episode_type: full
 file: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/018.mp3
 file_itunes: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/018.m4a
 stitcher: 54784461
-soundcloud:
-googleplay:
-itunes:
+soundcloud: 
+googleplay: 
+itunes: 
 artwork: "/dist/artwork/artwork_default.jpg"
 summary: The guys decide which movies define them, try to recall their earliest memories,
   Tim rants about traffic violations, and more.
