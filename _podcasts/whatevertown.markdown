@@ -10,5 +10,6 @@ twitter: whatevertown
 vimeo: whatevertown
 soundcloud: whatevertown
 instagram: whatevertown
+image: "/dist/artwork/artwork_default.jpg"
 ---
 
