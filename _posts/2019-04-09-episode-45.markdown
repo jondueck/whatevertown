@@ -2,8 +2,17 @@
 title: "#45 Train Season"
 date: 2019-04-09 19:00:00 -05:00
 permalink: "/episode-45/"
+author: Whatevertown
+file: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/e45.mp3
+file_itunes: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/e45.m4a
+artwork: "/dist/artwork/artwork_default.jpg"
 summary: The boys talk about April Fools' Day, a mystery, and cheating in school.
 excerpt: The boys talk about April Fools' Day, a mystery, and cheating in school.
+duration: '01:09:09'
+length: 67033435
+explicit: 'no'
+block: 'no'
+comments: true
 season: 2
 episode_type: full
 episode: 45
