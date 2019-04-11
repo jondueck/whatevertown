@@ -2,13 +2,16 @@
 title: "#21 In The Woods"
 date: 2018-07-24 21:27:00 -05:00
 permalink: "/episode/21/"
+season: 1
+episode: 21
+episode_type: full
 author: Whatevertown
 file: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/021.mp3
 file_itunes: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/021.m4a
-stitcher: 
-soundcloud: 
-googleplay: 
-itunes: 
+stitcher:
+soundcloud:
+googleplay:
+itunes:
 artwork: "/dist/artwork/artwork_default.jpg"
 summary: The guys are camping this week, but that didn't stop them from talking about
   their favourite fruits, the music they listened to growing up, and answering a would
@@ -28,7 +31,7 @@ comments: true
 - Music you listened to as a kid?
 - The World Cup
 
-### The Recommendations 
+### The Recommendations
 - Jon: *[Romance](spotify:album:2TdOaoer2ct2VUmQjv4f4w)* By The Gloomies
 - Ryan: It's Alive! With Brad
 - Tim: Over the Garden Wall
