@@ -20,7 +20,9 @@ length:
 explicit: 'no'
 block: 'no'
 comments: true
-Season: 2
+season: 2
+episode: 37
+episode_type: full
 ---
 
 > "I would have been ok throwing up at that moment"

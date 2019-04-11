@@ -2,6 +2,9 @@
 title: "#27 The Halloween Spooktacular"
 date: 2018-10-29 21:16:00 -05:00
 permalink: "/episode/s02e04/"
+season: 2
+episode: 27
+episode_type: full
 Author: Whatevertown
 file: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/s02e04.mp3
 file_itunes: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/s02e04.m4a

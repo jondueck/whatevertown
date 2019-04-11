@@ -2,6 +2,9 @@
 title: "#29 La Chalupa"
 date: 2018-11-20 19:00:00 -06:00
 permalink: "/episode/s02e06/"
+season: 2
+episode: 29
+episode_type: full
 author: Whatevertown
 file: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/s02e06.mp3
 file_itunes: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/s02e06.m4a

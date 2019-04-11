@@ -2,6 +2,9 @@
 title: "#5 The Bests of 2017"
 date: 2018-02-06 09:23:00 -06:00
 permalink: "/episode/5/"
+season: 1
+episode: 5
+episode_type: full
 Author: Whatevertown
 file: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/005.mp3
 file_itunes: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/005.m4a

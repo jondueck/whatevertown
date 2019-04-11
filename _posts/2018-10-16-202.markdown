@@ -2,6 +2,9 @@
 title: "#25 Pavel, the Rockyverse, and some clever Seniors"
 date: 2018-10-16 23:33:00 -05:00
 permalink: "/episode/s02e02/"
+season: 2
+episode: 25
+episode_type: full
 author: Whatevertown
 file: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/s02e02.mp3
 file_itunes: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/s02e02.m4a
