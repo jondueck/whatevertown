@@ -9,7 +9,7 @@ artwork: "/dist/artwork/artwork_default.jpg"
 summary: The boys talk about April Fools' Day, a mystery, and cheating in school.
 excerpt: The boys talk about April Fools' Day, a mystery, and cheating in school.
 duration: '01:09:09'
-length: 67033435
+length: 66385212
 explicit: 'no'
 block: 'no'
 comments: true

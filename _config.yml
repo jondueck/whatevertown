@@ -25,6 +25,7 @@ defaults:
     layout: default
     author: ''
     subtitle: ''
+    podcast_type: ''
     email: ''
     copyright: ''
     twitter: ''
@@ -92,6 +93,7 @@ lang: en
 author: Whatevertown
 copyright: 2017
 artwork: "/dist/artwork/artwork_default.jpg"
+podcast_type: episodic
 markdown: kramdown
 keywords: comedy, winkler, manitoba, ryan kehler, jon dueck, tim wall, collectif,
   whitecap coffee, business, board games, video games, pop culture, whatevertown,
