@@ -1,6 +1,6 @@
 ---
 title: "#46 No Room For Pilot"
-date: 2019-04-15 19:27:00 -05:00
+date: 2019-04-16 19:27:00 -05:00
 file: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/e46.mp3
 file_itunes: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/e46.m4a
 summary: This week the guys talk about black holes, what time period they would not
