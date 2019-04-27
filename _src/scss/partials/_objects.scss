@@ -12,6 +12,8 @@
 .btn,
 .button {
   border-radius: 0.5 * $radius;
+  font-family: $display;
+  font-size: 0.875 * $base-font-size;
 }
 
 textarea {
@@ -68,6 +70,10 @@ textarea {
 
 label {
   color: $grey;
+}
+
+input + label + input {
+  margin-left: $line-height;
 }
 
 // label[for="mce-EMAIL"] {

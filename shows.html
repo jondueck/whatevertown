@@ -6,14 +6,18 @@ hidden: true
 
 <section class="flex-row">
 
-  {% for show in site.podcasts limit:5 %}
+  {% for show in site.podcasts %}
 
     <article id="post-{{ show.id }}" class="flex-item">
 
-      <img src="{{ show.image }}" class="pod-preview__artwork">
+      <img src="{{ show.image }}">
       <br>
 
       <h2><a href="{{show.url}}">{{ show.title }}</a></h2>
+
+      {% for host in show.hosts %}
+        {{ host.title }}
+      {% endfor %}
 
     </article>
 

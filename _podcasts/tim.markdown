@@ -5,8 +5,8 @@ author: Tim Wall
 podcast_type: episodic
 copyright: 2019
 description: 
-image: "/dist/artwork/artwork_teaser.jpg"
+image: "/uploads/t.jpg"
 hosts: Tim Wall
-layout: default
+layout: show_archive
 ---
 

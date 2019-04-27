@@ -31,17 +31,23 @@ p {
 h1,
 .h1 {
   font-family: $display;
-  text-transform: uppercase;
+  // text-transform: uppercase;
   font-size: 1.4 * $base-font-size;
   font-weight: bold;
   @media (min-width: $sm) {
     font-size: #{1.8 * $base-font-size};
   }
+
+  article & {
+    margin-bottom: $line-height;
+  }
+
 }
 
 h2,
 .h2 {
   font-size: #{1.2 * $base-font-size};
+  font-family: $display;
   margin-bottom: $line-height;
   font-weight: bold;
   @media (min-width: $sm) {
@@ -51,12 +57,10 @@ h2,
 
 h3,
 .h3 {
+  font-family: $display;
   font-weight: bold;
-  text-transform: uppercase;
-}
-
-article h1 {
-  margin-bottom: $line-height;
+  font-family: $display;
+  font-size: $base-font-size;
 }
 
 ul,
@@ -69,6 +73,7 @@ blockquote {
   margin-left: 1rem;
   font-style: italic;
   color: $grey;
+  font-family: $display;
 }
 
 aside {
@@ -120,17 +125,28 @@ b {
 
 hr {
   border: 0 none;
-  border-top: 1px solid $light-grey;
+  background: $light-grey;
+  background: $gradient;
+  height: 2px;
+  display: block;
+  overflow: hidden;
+  width: 100%;
   margin-bottom: $line-height;
+}
+
+.hr--light {
+  background: $light-grey;
+  height: 1px;
 }
 
 .site-header {
   font-family: $display;
-  text-transform: uppercase;
+  // text-transform: uppercase;
   font-weight: bold;
 }
 
 .site-tagline {
+  font-family: $display;
   @media (min-width: 600px) {
     font-size: 1.4 * $base-font-size;
   }
@@ -140,6 +156,7 @@ hr {
   font-style: italic;
 }
 
-small {
+small,
+.small {
   font-size: 0.75 * $base-font-size;
 }

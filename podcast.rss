@@ -42,7 +42,9 @@
 				<description>{{ post.content | xml_escape }}</description>
 				<guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
 				<enclosure url="{{ post.file }}" length="{{ post.length }}" type="audio/mp3"/>
-				<enclosure url="{{ post.file_itunes }}" length="{{ post.length }}" type="audio/m4a"/>
+				{% if post.file_itunes %}
+					<enclosure url="{{ post.file_itunes }}" length="{{ post.length }}" type="audio/m4a"/>
+				{% endif %}
 				<itunes:author>{{ site.author }}</itunes:author>
 				<itunes:subtitle>{{ site.title }}: {{ post.title }}</itunes:subtitle>
 				<itunes:summary>{{ post.summary | xml_escape }}</itunes:summary>

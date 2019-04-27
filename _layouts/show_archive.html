@@ -1,0 +1,42 @@
+---
+layout: default
+---
+
+<article class="post" id="post-{{page.id}}">
+
+  <h1>{{ page.title }}</h1>
+
+  <p>{{ page.description }}</p>
+
+  <p>
+    Hosted by:
+    {% for host in page.hosts | sort: ascending %}
+      <span>{{ host }}</span>,
+    {% endfor %}
+  </p>
+
+  {% if page.stitcher %}
+    <iframe class="embed-stitcher" scrolling="no" frameborder="0" style="overflow:hidden;" src="https://app.stitcher.com/splayer/f/{{ page.stitcher }}?el=1&refid=stpr"></iframe>
+  {% endif %}
+
+  <section class="episode-list">
+
+    <!-- {% assign show = page.label %}
+    {{ show }} -->
+    {% for episode in site.timshow %}
+
+      <article id="post-{{ episode.id }}" class="pod-preview">
+
+        <!-- <img src="{{ episode.artwork }}" class="pod-preview__artwork"> -->
+
+        <h2><a href="{{episode.url}}">{{ episode.title }}</a></h2>
+
+        <a href="{{episode.url}}">{{ episode.date | date: '%B %d, %Y' }}</a>
+
+      </article>
+
+    {% endfor %}
+
+  </section>
+
+</article>
