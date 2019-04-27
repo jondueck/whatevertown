@@ -26,14 +26,18 @@ $link-color: $primary-color;
 $background-color: $primary-color;
 $background-color: #f0f0f0;
 
+$gradient: linear-gradient(90deg, $blue 0%, $red 100%);
+$gradient-diagonal: linear-gradient(135deg, $blue 0%, $red 100%);
+
 // A note on the spelling of colour: As much as it pains me to write 'color', we've decided to take on the American, CSS spelling. We’re going to spell "grey" the correct way though.
 // Please forgive us, Canada!
 
 // Fonts
 // A Linux- and Windows-friendly sans-serif font stack: http://prospects.mhurrell.co.uk/post/updating-the-helvetica-font-stack
-$sans: 'VG5000', -apple-system, BlinkMacSystemFont, "Roboto", Helmet, Freesans, sans-serif;
+$sans: 'Inter UI', -apple-system, BlinkMacSystemFont, "Roboto", Helmet, Freesans, sans-serif;
+$display: 'VG5000', -apple-system, BlinkMacSystemFont, "Roboto", Helmet, Freesans, sans-serif;
 
-$display: 'Rift', $sans;
+// $display: 'Rift', $sans;
 
 $monospace: Monaco, Menlo, 'Ubuntu Mono', Consolas, monospace;
 

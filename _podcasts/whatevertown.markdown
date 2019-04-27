@@ -11,5 +11,9 @@ vimeo: whatevertown
 soundcloud: whatevertown
 instagram: whatevertown
 image: "/dist/artwork/artwork_default.jpg"
+hosts:
+- Jon Dueck
+- Tim Wall
+- Ryan Kehler
+layout: show_archive
 ---
-

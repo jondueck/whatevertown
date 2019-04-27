@@ -49,12 +49,31 @@
   }
 }
 
+@keyframes marquee {
+  0% { left: 0; }
+  100% { left: -100%; }
+}
+
+
 .marquee {
   padding: 0.5 * $line-height;
   color: $primary-color;
   font-size: 0.75 * $base-font-size;
   white-space: nowrap;
   display: block;
+  font-family: $display;
+  overflow: hidden;
+  width: 100%;
+  position: relative;
+  height: 1.75 * $line-height;
+
+  &__content {
+    display: block;
+    width: 200%;
+    position: absolute;
+    overflow: hidden;
+    animation: marquee 18s linear infinite;
+  }
 
   span {
     margin-right: $line-height;

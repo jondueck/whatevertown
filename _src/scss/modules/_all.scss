@@ -4,7 +4,7 @@
 .banner {
   // background: $primary-color;
   color: $white;
-  background: $primary-color;
+  background-color: $primary-color;
   padding-top: 2 * $line-height-2x;
   padding-bottom: $line-height-2x;
 
@@ -17,15 +17,16 @@
     background-color: $dark-black;
   }
 
-  a {
-    color: inherit;
-  }
   margin-bottom: $line-height-2x;
   background-image: url('/dist/img/stars.svg');
   display: flex;
   vertical-align: middle;
   text-align: center;
   flex-direction: column;
+
+  a {
+    color: inherit;
+  }
 
   &__logo {
     height: 2 * $line-height-2x;

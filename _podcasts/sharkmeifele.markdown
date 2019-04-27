@@ -11,5 +11,5 @@ twitter: sharkmeifele
 hosts:
 - Jon Dueck
 image: "/uploads/scheif%20avi%202.jpg"
+layout: show_archive
 ---
-

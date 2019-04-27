@@ -3,6 +3,7 @@ title: Tools & Running Costs
 permalink: "/tools/"
 hidden: true
 layout: page
+description: The tools and subscriptions used to publish the podcast.
 ---
 
 Here's how we make the show. If you back us on [Patreon](https://patreon.com/whatevertown), this is where that money goes. If you're thinking of starting your own podcast, here's what you might want to keep in mind.
