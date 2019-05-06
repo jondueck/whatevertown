@@ -13,3 +13,4 @@ episode_type: full
 episode: 47
 ---
 
+“Thanos is bald and he's *fit*”
