@@ -7,6 +7,7 @@ tags:
 - Burger King
 - Sonic
 - Avengers
+artwork: "/dist/artwork/artwork_default.jpg"
 summary: The episode where we talk about the new Sonic trailer, our favourite Marvel
   movies, and whatever.
 explicit: 'no'
