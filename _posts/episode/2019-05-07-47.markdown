@@ -14,6 +14,7 @@ episode_type: full
 episode: 47
 file: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/e47.mp3
 stitcher: 60530849
+itunes: https://podcasts.apple.com/ca/podcast/47-special-evansode-with-evan-suderman/id1326449177?i=1000437416794
 artwork: "/dist/artwork/artwork_default.jpg"
 summary: The episode where we talk about the new Sonic trailer, our favourite Marvel
   movies, and whatever.
