@@ -9,6 +9,7 @@ tags:
 - Avengers
 - Movies
 author: Whatevertown
+file: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/e47.mp3
 artwork: "/dist/artwork/artwork_default.jpg"
 summary: The episode where we talk about the new Sonic trailer, our favourite Marvel
   movies, and whatever.
@@ -23,9 +24,6 @@ season: 2
 episode_type: full
 episode: 47
 ---
-
-“Thanos is bald and he's fit”
-
 
 ## Links
 - [Sonic trailer](https://www.youtube.com/watch?v=FvvZaBf9QQI)
