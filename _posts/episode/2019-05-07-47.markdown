@@ -7,10 +7,18 @@ tags:
 - Burger King
 - Sonic
 - Avengers
+- Movies
+author: Whatevertown
 artwork: "/dist/artwork/artwork_default.jpg"
 summary: The episode where we talk about the new Sonic trailer, our favourite Marvel
   movies, and whatever.
+excerpt: The episode where we talk about the new Sonic trailer, our favourite Marvel
+  movies, and whatever.
+duration: '59:47'
+length: 57401597
 explicit: 'no'
+block: 'no'
+comments: true
 season: 2
 episode_type: full
 episode: 47
