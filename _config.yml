@@ -42,6 +42,9 @@ defaults:
   values:
     layout: post
     author: Whatevertown
+    season: ''
+    episode_type: full
+    episode: ''
     file: ''
     file_itunes: ''
     stitcher: ''
@@ -56,9 +59,6 @@ defaults:
     explicit: 'no'
     block: 'no'
     comments: 'true'
-    season: ''
-    episode_type: full
-    episode: ''
 - scope:
     path: ''
     type: hosts
@@ -70,7 +70,7 @@ subtitle: A podcast by Jon Dueck, Ryan Kehler, and Tim Wall.
 email: whatevertownpod@gmail.com
 description: Whatevertown is a podcast by Jon Dueck, Ryan Kehler, and Tim Wall. It’s
   a show about pop culture, art, the internet, and whatever.
-baseurl: 
+baseurl:
 url: https://whatevertown.com
 permalink: pretty
 twitter: whatevertown
@@ -98,7 +98,7 @@ markdown: kramdown
 keywords: comedy, winkler, manitoba, ryan kehler, jon dueck, tim wall, collectif,
   whitecap coffee, business, board games, video games, pop culture, whatevertown,
   whatever town
-theme: 
+theme:
 paginate: 8
 paginate_path: "/episodes/page:num/"
 plugins:
