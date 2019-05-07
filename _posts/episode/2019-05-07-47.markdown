@@ -1,6 +1,6 @@
 ---
 title: "#47 Special Evansode with Evan Suderman"
-date: 2019-05-07 10:00:00 -05:00
+date: 2019-05-07 09:00:00 -05:00
 permalink: "/episode/47/"
 tags:
 - Marvel
@@ -9,6 +9,9 @@ tags:
 - Avengers
 - Movies
 author: Whatevertown
+season: 2
+episode_type: full
+episode: 47
 file: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/e47.mp3
 artwork: "/dist/artwork/artwork_default.jpg"
 summary: The episode where we talk about the new Sonic trailer, our favourite Marvel
@@ -20,9 +23,6 @@ length: 57401597
 explicit: 'no'
 block: 'no'
 comments: true
-season: 2
-episode_type: full
-episode: 47
 ---
 
 ## Links
