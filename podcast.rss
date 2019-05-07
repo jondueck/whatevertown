@@ -43,13 +43,17 @@
 				<guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
 				<enclosure url="{{ post.file }}" length="{{ post.length }}" type="audio/mp3"/>
 				{% if post.file_itunes %}
-					<enclosure url="{{ post.file_itunes }}" length="{{ post.length }}" type="audio/m4a"/>
+					{% if post.file_itunes == blank or post.file_itunes == '' %}
+					{% else %}
+						<enclosure url="{{ post.file_itunes }}" length="{{ post.length }}" type="audio/m4a"/>
+					{% endif %}
+				{% else %}
 				{% endif %}
 				<itunes:author>{{ site.author }}</itunes:author>
 				<itunes:subtitle>{{ site.title }}: {{ post.title }}</itunes:subtitle>
 				<itunes:summary>{{ post.summary | xml_escape }}</itunes:summary>
 				<itunes:duration>{{ post.duration }}</itunes:duration>
-				<itunes:keywords>{{ post.keywords }}</itunes:keywords>
+				{% if post.tags.size > 0 %}<itunes:keywords>{{ post.tags | sort | join: ", " }}</itunes:keywords>{% endif %}
 				{% if post.artwork %}
 					<itunes:image href="{{ site.url }}{{ post.artwork }}" />
 				{% else %}
