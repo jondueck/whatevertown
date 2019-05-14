@@ -1,11 +1,15 @@
 ---
 title: "#48"
 date: 2019-05-14 19:13:00 -05:00
-permalink: "/episode-48/"
+season: 2
+episode: 48
+file: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/w48.mp3
 summary: This week the guys chat about their most recent dream, the first movies they
   remember watching, and decide whether they'd rather always lose, or never play.
 excerpt: This week the guys chat about their most recent dream, the first movies they
   remember watching, and decide whether they'd rather always lose, or never play.
+duration: '53:30'
+length: 51358743
 ---
 
 
