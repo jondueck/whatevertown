@@ -1,7 +1,7 @@
 ---
 title: "#48"
 date: 2019-05-14 19:13:00 -05:00
-permalink: "/episodes/48/"
+permalink: "/episode-48/"
 summary: This week the guys chat about their most recent dream, the first movies they
   remember watching, and decide whether they'd rather always lose, or never play.
 excerpt: This week the guys chat about their most recent dream, the first movies they
