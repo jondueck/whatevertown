@@ -15,5 +15,5 @@ length: 51358743
 
 ## Recommendations
 
-- Jon: [*Violet Street* by The Local Natives](https://open.spotify.com/album/0ORZb7kyr8aaP2LpL3mhuY?si=8jiT4yPpRDKt2y8Rql504w), [People by Hillsong UNITED](https://open.spotify.com/album/2YRlXTl0heTfVc5oWmGLsg?si=IZ4TCxRrR6ahzvLJ0ROkhg)
-- [Celeste Soundtrack](https://open.spotify.com/album/5OZHQ7KG8k04IOkF50fACO)
+- Jon: [*Violet Street* by The Local Natives](https://open.spotify.com/album/0ORZb7kyr8aaP2LpL3mhuY?si=8jiT4yPpRDKt2y8Rql504w), - - - Ryan: [People by Hillsong UNITED](https://open.spotify.com/album/2YRlXTl0heTfVc5oWmGLsg?si=IZ4TCxRrR6ahzvLJ0ROkhg)
+- Tim: [Celeste Soundtrack](https://open.spotify.com/album/5OZHQ7KG8k04IOkF50fACO)
