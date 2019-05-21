@@ -6,6 +6,7 @@ author: Whatevertown
 season: 2
 episode_type: full
 episode: 49
+artwork: "/dist/artwork/artwork_default.jpg"
 summary: The guys talk about Ryan's upcoming trip to Hawaii, lying about seeing movies,
   and whatever.
 excerpt: The guys talk about Ryan's upcoming trip to Hawaii, lying about seeing movies,
@@ -19,5 +20,5 @@ comments: true
 
 ### Recommendations
 Jon: [Roma](https://letterboxd.com/film/roma-2018/)
-Ryan: 
-Tim: 
+Ryan: [*I Am Easy to Find* by The National](https://iameasytofind.com/watch/)
+Tim: [*Twist* by Dizzy](https://open.spotify.com/track/0EOnXbxay2vVcw3WxTFbC7?si=OhCbjPhRRXai-20poAcoeQ)
