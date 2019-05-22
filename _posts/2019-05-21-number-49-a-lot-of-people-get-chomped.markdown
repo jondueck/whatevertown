@@ -7,6 +7,7 @@ season: 2
 episode_type: full
 episode: 49
 file: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/e49.mp3
+stitcher: 60864446
 artwork: "/dist/artwork/artwork_default.jpg"
 summary: The guys talk about Ryan's upcoming trip to Hawaii, lying about seeing movies,
   and whatever.
