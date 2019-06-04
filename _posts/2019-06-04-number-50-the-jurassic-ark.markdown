@@ -1,6 +1,6 @@
 ---
 title: "#50 The Jurassic Ark"
-date: 2019-06-04 19:50:00 -05:00
+date: 2019-06-04 16:10:00 -05:00
 permalink: "/episode-50/"
 tags:
 - toronto raptors
