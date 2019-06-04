@@ -5,6 +5,7 @@ permalink: "/episode-45/"
 tags:
 - school
 - mystery
+- April Fool's Day
 author: Whatevertown
 season: 2
 episode_type: full
