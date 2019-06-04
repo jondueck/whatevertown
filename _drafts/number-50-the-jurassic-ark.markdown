@@ -1,6 +1,7 @@
 ---
 title: "#50 The Jurassic Ark"
 date: 2019-06-04 19:50:00 -05:00
+permalink: "/episode-50"
 season: 2
 episode: 50
 summary: This week the guys talk about Ryan's vacation in Hawaii, Pokémon Sleep, a
