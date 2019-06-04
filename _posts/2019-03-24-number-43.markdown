@@ -2,13 +2,19 @@
 title: "#43 What's New With You?"
 date: 2019-03-24 18:24:00 -05:00
 permalink: "/episode/43/"
+tags:
+- Google
+- Videogames
+- Myspace
+- Time Travel
+- Stadia
 author: Whatevertown
+season: 2
+episode_type: full
+episode: 43
 file: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/e43.mp3
 file_itunes: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/e43.m4a
 stitcher: 59658793
-soundcloud: 
-googleplay: 
-itunes: 
 artwork: "/dist/artwork/artwork_default.jpg"
 summary: The guys talk about Myspace losing 12 years of music, Google's new video
   game streaming platform, and go through some What Would You Do If's.
@@ -19,9 +25,6 @@ length: 62919495
 explicit: 'no'
 block: 'no'
 comments: true
-season: 2
-episode: 43
-episode_type: full
 ---
 
 > “Godspeed to all you madness heads out there.”

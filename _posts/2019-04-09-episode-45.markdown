@@ -2,7 +2,14 @@
 title: "#45 Train Season"
 date: 2019-04-09 19:00:00 -05:00
 permalink: "/episode-45/"
+tags:
+- school
+- mystery
+- April Fool's Day
 author: Whatevertown
+season: 2
+episode_type: full
+episode: 45
 file: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/e45.mp3
 file_itunes: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/e45.m4a
 stitcher: 59969903
@@ -14,9 +21,6 @@ length: 66385212
 explicit: 'no'
 block: 'no'
 comments: true
-season: 2
-episode_type: full
-episode: 45
 layout: post
 ---
 

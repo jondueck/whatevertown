@@ -2,7 +2,12 @@
 title: "#35 Berders Through the Transfer Window"
 date: 2019-01-22 19:24:00 -06:00
 permalink: "/episode/s02e12/"
+tags:
+- Whitecap
 author: Whatevertown
+season: 2
+episode_type: full
+episode: 35
 file: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/s02e12.mp3
 file_itunes: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/s02e12.m4a
 stitcher: 58333870
@@ -18,9 +23,6 @@ length: 59360154
 explicit: 'no'
 block: 'no'
 comments: true
-season: 2
-episode_type: full
-episode: 35
 layout: post
 ---
 

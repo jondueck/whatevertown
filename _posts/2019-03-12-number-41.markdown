@@ -2,13 +2,19 @@
 title: "#41 More Bigger Than Ever Before"
 date: 2019-03-12 19:28:00 -05:00
 permalink: "/episode/41/"
+tags:
+- Facebook
+- Whitecap
+- Ron Maclean
+- Hometown Hockey
+- Luminary
 author: Whatevertown
+season: 2
+episode_type: full
+episode: 41
 file: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/e41.mp3
 file_itunes: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/e41.m4a
 stitcher: 59240915
-soundcloud: 
-googleplay: 
-iTunes: 
 artwork: "/dist/artwork/artwork_default.jpg"
 summary: The guys talk about Ron Maclean's breakfast at Whitecap, Facebook privacy,
   and the end of the golden age of podcasts.
@@ -19,9 +25,7 @@ length: 46721904
 explicit: 'no'
 block: 'no'
 comments: true
-season: 2
-episode: 41
-episode_type: full
+iTunes: 
 layout: post
 ---
 
