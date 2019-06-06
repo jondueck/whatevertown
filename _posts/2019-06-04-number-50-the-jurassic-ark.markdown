@@ -13,6 +13,7 @@ season: 2
 episode_type: full
 episode: 50
 file: https://lodgment-remark-slipshod.s3.ca-central-1.amazonaws.com/w50.mp3
+stitcher: 61679383
 summary: This week the guys talk about Ryan's vacation in Hawaii, Pokémon Sleep, a
   new mini segment in The Biz, and more.
 excerpt: This week the guys talk about Ryan's vacation in Hawaii, Pokémon Sleep, a
