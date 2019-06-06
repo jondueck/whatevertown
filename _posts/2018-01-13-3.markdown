@@ -2,26 +2,29 @@
 title: "#3 The One About Star Wars"
 date: 2018-01-13 12:15:00 -06:00
 permalink: "/2018/01/13/3/"
-episode: 3
-episode_type: full
-season: 1
+tags:
+- Christmas Tree
+- Apple
+- The Last Jedi
+- Star Wars
 author: Whatevertown
+season: 1
+episode_type: full
+episode: 3
 file: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/003.mp3
 file_itunes: https://s3.ca-central-1.amazonaws.com/lodgment-remark-slipshod/003.m4a
 stitcher: 52980661
-soundcloud: 
-googleplay: 
 artwork: http://whatevertown.com/dist/artwork/sw.png
 summary: 'The guys talk about the longevity of Ryan''s Christmas tree, Shared Spaces
-  in Europe, Apple slowing down older devices, their thoughts on Star Wars: The Last
-  Jedi, and more'
-exerpt: 'The guys talk about the longevity of Ryan''s Christmas tree, Shared Spaces
   in Europe, Apple slowing down older devices, their thoughts on Star Wars: The Last
   Jedi, and more'
 duration: '1:11:59'
 length: 138198962
 explicit: 'no'
 block: 'no'
+exerpt: 'The guys talk about the longevity of Ryan''s Christmas tree, Shared Spaces
+  in Europe, Apple slowing down older devices, their thoughts on Star Wars: The Last
+  Jedi, and more'
 layout: post
 ---
 
@@ -41,19 +44,15 @@ layout: post
 
 ## The Ratings [46:25]
 
-Porgs
-
-Dogs wearing clothes
-
-Pineapple on pizza
+- Porgs
+- Dogs wearing clothes
+- Pineapple on pizza
 
 ## Would you Rather
 
-Either never wear socks, or never be able to take your socks off
-
-Be face to face with a shark in water, or fall into a pit of snakes
-
-Have everything you eat be a little too spicy, or a little too sweet
+- Either never wear socks, or never be able to take your socks off
+- Be face to face with a shark in water, or fall into a pit of snakes
+- Have everything you eat be a little too spicy, or a little too sweet
 
 [1:10:45] Tweet [@merrittK](https://twitter.com/merrittk?lang=en)
 
