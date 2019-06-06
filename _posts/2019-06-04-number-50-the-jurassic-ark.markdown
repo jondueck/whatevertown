@@ -31,6 +31,6 @@ comments: true
 - [Noah’s Ark attraction files lawsuit over flood damage](https://www.wlwt.com/article/owners-of-biblical-noahs-ark-replica-sue-over-rain-damage/27586097?utm_campaign=WLWT&utm_content=5ce85469fd31650001fb3139&utm_medium=twitter&utm_source=trueAnthem%3A+New+Content+%28Feed%29#)
 
 ### Recommendations
-- Jon: [*Chernobyl*](https://www.crave.ca/hbo), [*Guava Island*](https://www.primevideo.com/detail/amzn1.dv.gti.80b4f9ca-e99c-3a02-d796-0ef870f2335d?ref_=dvm_pds_gen_CA_kc_s_g|c_342959121333_m_ZcgfPtOY-dc_s__)
+- Jon: [*Chernobyl*](https://www.crave.ca/hbo), [*Guava Island*](https://letterboxd.com/film/guava-island/)
 - Ryan: [*What's it like over there* by Cira Waves](https://open.spotify.com/album/75HYUZI2d0FDMlsIEfp6Kj?si=ZYRulCXAQUKces_TFMDDQw)
 - Tim: [*Zelda & Chill*](https://open.spotify.com/album/3oNO1P0Qlr4oSlMA2MIj67?si=91ueDem6T8K9B644tQj6oA)
