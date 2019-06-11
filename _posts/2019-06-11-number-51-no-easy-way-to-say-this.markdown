@@ -1,6 +1,28 @@
 ---
 title: "#51 No Easy Way to Say This"
 date: 2019-06-11 11:07:00 -05:00
+permalink: "/episode-51/"
+tags:
+- e3
+- video games
+- tesla
+- cuphead
+- marvel
+- comic books
+- 'magic: the gathering'
+- russo bros
+- vampire weekend
+author: Whatevertown
+season: 2
+episode_type: full
+episode: 51
+artwork: "/dist/artwork/artwork_default.jpg"
+summary: The fellows talk about E3, audio comic books, and try to tell the news really
+  fast.
+excerpt: The fellows talk about E3, audio comic books, and try to tell the news really
+  fast.
+explicit: 'no'
+block: 'no'
 ---
 
 ### The News
