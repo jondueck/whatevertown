@@ -16,11 +16,14 @@ author: Whatevertown
 season: 2
 episode_type: full
 episode: 51
+file: https://lodgment-remark-slipshod.s3.ca-central-1.amazonaws.com/w51.mp3
 artwork: "/dist/artwork/artwork_default.jpg"
 summary: The fellows talk about E3, audio comic books, and try to tell the news really
   fast.
 excerpt: The fellows talk about E3, audio comic books, and try to tell the news really
   fast.
+duration: '47:12'
+length: 45516472
 explicit: 'no'
 block: 'no'
 ---
