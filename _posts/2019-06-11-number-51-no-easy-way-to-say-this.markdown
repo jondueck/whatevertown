@@ -38,3 +38,7 @@ block: 'no'
 - Jon: [*Father of the Bride* by Vampire Weekend](https://open.spotify.com/album/1A3nVEWRJ8yvlPzawHI1pQ?si=VDHfOeFTRkSym7nDWHsImQ)
 - Ryan: [My Next Guest Needs No Introduction with David Letterman](https://www.youtube.com/watch?v=U9-uAcpo9PE)
 - Tim: [*Hold Your Nerve/Work of Art* by Boy & Bear](https://open.spotify.com/album/4xQQ7HXScqO6qpCHRJpG9E?si=4CH92CffR7iiVOjzw8zQ6A)
+
+---
+
+Brought to you by our [Patreon](https://www.patreon.com/whatevertown) supporters. Thanks! Patreon backers now have access to an exclusive post-show in their Patreon feeds.
