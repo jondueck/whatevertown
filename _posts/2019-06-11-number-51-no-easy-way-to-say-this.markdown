@@ -1,6 +1,6 @@
 ---
 title: "#51 No Easy Way to Say This"
-date: 2019-06-11 14:00:00 -05:00
+date: 2019-06-11 23:00:00 -05:00
 permalink: "/episode-51/"
 tags:
 - e3
