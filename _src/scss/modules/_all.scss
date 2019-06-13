@@ -63,14 +63,33 @@
   margin-bottom: $line-height;
   // border-radius: $radius;
   border: $border;
+  clear: both;
+  overflow: hidden;
 
   &:hover {
     box-shadow: $box-shadow;
   }
 
+
   &__artwork {
-    max-width: 20%;
-    float: left;
+    display: none;
+    
+    @media (min-width: 50rem) {
+      display: block;
+      max-width: 10%;
+      float: left;
+      display: inline-block;
+      margin-right: $line-height;
+    }
+  }
+
+  @media (min-width: 50rem) {
+    &__info {
+      float: left;
+      display:inline-block;
+      overflow: hidden;
+      width: calc(90% - #{$line-height});
+    }
   }
 
 }

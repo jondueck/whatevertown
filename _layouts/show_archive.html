@@ -10,7 +10,7 @@ layout: default
 
   <p>
     Hosted by:
-    {% for host in page.hosts | sort: ascending %}
+    {% for host in page.hosts %}
       <span>{{ host }}</span>,
     {% endfor %}
   </p>

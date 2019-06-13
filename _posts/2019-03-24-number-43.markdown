@@ -4,7 +4,7 @@ date: 2019-03-24 18:24:00 -05:00
 permalink: "/episode/43/"
 tags:
 - Google
-- Videogames
+- Video Games
 - Myspace
 - Time Travel
 - Stadia
