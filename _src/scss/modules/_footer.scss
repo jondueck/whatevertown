@@ -7,7 +7,12 @@
 }
 
 .site-footer__credit {
-  float: right;
+  display: block;
+  @media (min-width: 50rem) {
+    clear: none;
+    float: right;
+    display: inline-block;
+  }
 }
 
 .email-footer {

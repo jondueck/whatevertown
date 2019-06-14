@@ -5,11 +5,16 @@
   padding-bottom: $line-height;
   border-bottom: $border;
   color: $primary-color;
+  text-align: center;
 
   vertical-align: middle;
 
   a {
     color: inherit;
+  }
+
+  @media (min-width: 37.5rem) {
+    text-align: left;
   }
 
   // &--home {
@@ -44,10 +49,10 @@
 }
 
 .menu-item {
-  @media (min-width: 600px) {
+  // @media (min-width: 600px) {
     float: left;
     margin-left: $line-height;
-  }
+  // }
 }
 
 @keyframes marquee {
