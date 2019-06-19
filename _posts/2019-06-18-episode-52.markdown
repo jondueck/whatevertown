@@ -24,6 +24,7 @@ length: 38447983
 explicit: 'no'
 block: 'no'
 comments: true
+layout: post
 ---
 
 ### The News
