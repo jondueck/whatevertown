@@ -1,8 +1,11 @@
 html {
-  padding: 1rem;
   background-color: $subdued-grey;
   background-color: lighten($primary-color, 34%);
   background-image: url('/dist/img/stars.svg');
+
+  @media (min-width: 48rem) {
+    padding: 1rem;
+  }
 
   @media (min-width: 110rem) {
     padding: 2rem;
@@ -16,7 +19,6 @@ html {
 
 body {
   background-color: $background-color;
-  border: $border;
   margin: auto;
   position: relative;
   background: $white;
@@ -30,6 +32,10 @@ body {
     top: 1rem;
     left: 1rem;
     color: $primary-color;
+  }
+
+  @media (min-width: 38rem) {
+    border: $border;
   }
 
   @media (prefers-color-scheme: dark) {

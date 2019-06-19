@@ -59,8 +59,8 @@
 
 .pod-preview {
   background-color: $white;
-  padding: $line-height;
   margin-bottom: $line-height;
+  padding: $line-height-half;
   // border-radius: $radius;
   border: $border;
   clear: both;
@@ -70,10 +70,13 @@
     box-shadow: $box-shadow;
   }
 
+  @media (min-width: 50rem) {
+    padding: $line-height;
+  }
 
   &__artwork {
     display: none;
-    
+
     @media (min-width: 50rem) {
       display: block;
       max-width: 10%;
