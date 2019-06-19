@@ -1,6 +1,6 @@
 ---
 title: "#52 E3-Pointers"
-date: 2019-06-18 11:14:00 -05:00
+date: 2019-06-18 20:00:00 -05:00
 permalink: "/episode-52/"
 tags:
 - E3
