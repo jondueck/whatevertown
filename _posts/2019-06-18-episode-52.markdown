@@ -14,6 +14,7 @@ season: 2
 episode_type: full
 episode: 52
 file: https://lodgment-remark-slipshod.s3.ca-central-1.amazonaws.com/w52.mp3
+stitcher: 62012474
 artwork: "/dist/artwork/artwork_default.jpg"
 summary: Tim wraps up E3, Ryan is excited about the Raptors, Jon has the latest fast
   food numbers, and whatever.
