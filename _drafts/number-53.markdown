@@ -12,6 +12,8 @@ summary: This week the guys talk about space, what kind of campers they are, and
 excerpt: This week the guys talk about space, what kind of campers they are, and decide
   if they'd rather be able to dodge anything no matter how fast, or be able to ask
   any three questions and have them answered accurately.
+duration: '49:16'
+length: 45110000
 explicit: 'no'
 block: 'no'
 comments: true
