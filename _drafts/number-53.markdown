@@ -1,11 +1,12 @@
 ---
-title: "#53"
+title: "#53 What Kind Of Camper Are You?"
 date: 2019-06-25 09:35:00 -05:00
 permalink: "/episode-53/"
 author: Whatevertown
 season: 2
 episode_type: full
 episode: 53
+file: s3://lodgment-remark-slipshod/w53.mp3
 summary: This week the guys talk about space, what kind of campers they are, and decide
   if they'd rather be able to dodge anything no matter how fast, or be able to ask
   any three questions and have them answered accurately.
@@ -13,7 +14,7 @@ excerpt: This week the guys talk about space, what kind of campers they are, and
   if they'd rather be able to dodge anything no matter how fast, or be able to ask
   any three questions and have them answered accurately.
 duration: '49:16'
-length: 45110000
+length: 47303285
 explicit: 'no'
 block: 'no'
 comments: true
