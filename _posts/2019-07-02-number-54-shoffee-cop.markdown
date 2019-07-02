@@ -2,6 +2,10 @@
 title: "#54 Shoffee Cop"
 date: 2019-07-02 08:45:00 -05:00
 permalink: "/episode-54/"
+season: 2
+episode_type: full
+episode: 54
+artwork: "/dist/artwork/artwork_default.jpg"
 ---
 
 ### Would you rather…
