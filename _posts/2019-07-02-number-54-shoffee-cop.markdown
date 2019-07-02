@@ -8,6 +8,8 @@ episode: 54
 artwork: "/dist/artwork/artwork_default.jpg"
 ---
 
+> “More is more, and less is less. That's all that I've learned.”
+
 ### Would you rather…
 - …always be the centre of attention or never be noticed, for the rest of your life? 😬 Centre of attention ie. always being watched, always being asked questions, never being left alone. Never noticed as in, you go your parents’ or friend’s house and aren’t acknowledged or given any attention to speak of. (Thanks Alissa!)
 
