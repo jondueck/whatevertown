@@ -1,6 +1,7 @@
 ---
 title: "#54 Shoffee Cop"
 date: 2019-07-02 08:45:00 -05:00
+permalink: "/episode-54/"
 ---
 
 ### Would you rather…
