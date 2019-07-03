@@ -2,6 +2,10 @@
 title: "#54 Shoffee Cop"
 date: 2019-07-02 23:30:00 -05:00
 permalink: "/episode-54/"
+tags:
+- summer
+- internet
+- homestar runner
 author: Whatevertown
 season: 2
 episode_type: full
