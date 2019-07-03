@@ -28,9 +28,10 @@ comments: true
 ### Would you rather…
 - …always be the centre of attention or never be noticed, for the rest of your life? 😬 Centre of attention ie. always being watched, always being asked questions, never being left alone. Never noticed as in, you go your parents’ or friend’s house and aren’t acknowledged or given any attention to speak of. (Thanks Alissa!)
 
-Jon: Earios / [The Big Ones](https://www.earios.net/the-big-ones)
-Ryan: [*Good Nature* by Turnover](https://open.spotify.com/album/39Ypnp97w22KOqGR8KjBz8?si=zPqQY63aQW6kZCwWEq1E3w)
-Tim: *Friends List* Discord Server (message Tim, or Whatevertown for details)
+### Recommendations
+- Jon: Earios / [The Big Ones](https://www.earios.net/the-big-ones)
+- Ryan: [*Good Nature* by Turnover](https://open.spotify.com/album/39Ypnp97w22KOqGR8KjBz8?si=zPqQY63aQW6kZCwWEq1E3w)
+- Tim: *Friends List* Discord Server (message Tim, or Whatevertown for details)
 
 ---
 
