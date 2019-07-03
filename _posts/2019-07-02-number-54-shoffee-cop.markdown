@@ -30,6 +30,6 @@ Tim: *Friends List* Discord Server (message Tim, or Whatevertown for details)
 
 ---
 
-We're taking a break over summer, but we'll be back in September. Thanks for listening!
+We're taking a break over summer, but we'll be back in September. Thanks for listening! Please take a few minutes to [fill out this survey](https://whatevertown.typeform.com/to/oS50hM) to help us make Season 3 your favourite season.
 
 If you're a Patreon subscriber, you will not be charged during our break.
