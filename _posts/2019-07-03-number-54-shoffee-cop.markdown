@@ -11,6 +11,7 @@ season: 2
 episode_type: full
 episode: 54
 file: https://lodgment-remark-slipshod.s3.ca-central-1.amazonaws.com/w54.mp3
+stitcher: 62337440
 artwork: "/dist/artwork/artwork_default.jpg"
 summary: The boys talk about summer plans, fond memories of websites, Whitecap upgrades,
   and more in the season 2 finale.
