@@ -19,3 +19,4 @@ hosts:
 layout: show_archive
 ---
 
+Whatevertales is the new pop-up podcast from Whatevertown. We'll be playing Role Playing Games from time to time with our friend Nathan Fehr (Sunday Night in Canada, Interesting Times, Episodes [#11](https://whatevertown.com/episode/11/) and [#26](https://whatevertown.com/episode/s02e03/).
