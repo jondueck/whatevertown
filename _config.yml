@@ -17,6 +17,9 @@ collections:
   uploads:
     title: Uploads
     output: true
+  whatevertales:
+    title: Whatevertales
+    output: true
 defaults:
 - scope:
     path: ''
