@@ -1,0 +1,77 @@
+---
+---
+
+{% assign show = site.podcasts | where: "slug", "whatevertales" | first %}
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xml:lang="{{ site.lang }}" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0">
+	<channel>
+		<atom:link href="{{ site.url }}/whatevertales.rss" rel="self" type="application/rss+xml" />
+		<title>{{ show.title }}</title>
+		<description>{{ site.description | xml_escape }}</description>
+		<link>{{ show.permalink }}</link>
+		<language>{{ site.lang }}</language>
+		<googleplay:author>{{ site.author }}</googleplay:author>
+		<managingEditor>{{ site.email }} ({{ site.author }})</managingEditor>
+		<webMaster>{{ site.email }} ({{ site.author }})</webMaster>
+		<copyright>2019-{{ site.time | date: '%Y' }} {{ site.title }}</copyright>
+		<pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
+		<lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
+		<googleplay:image href="{{ site.url }}/dist/img/itunes.png"/>
+		<image>
+			<link>{{ show.url }}</link>
+			<url>{{ site.url }}/uploads/whatevertales.jpg</url>
+			<title>{{ show.title }}</title>
+		</image>
+		<itunes:subtitle>{{ show.description | xml_escape }}</itunes:subtitle>
+		<itunes:author>{{ show.author }}</itunes:author>
+		<itunes:summary>{{ show.description | xml_escape }}</itunes:summary>
+		{% if show.podcast_type %}<itunes:type>{{ show.podcast_type }}</itunes:type>{% endif %}
+		<itunes:keywords>{{ show.keywords }}</itunes:keywords>
+		<itunes:owner>
+			<itunes:name>{{ show.author }}</itunes:name>
+			<itunes:email>{{ show.email }}</itunes:email>
+		</itunes:owner>
+		<itunes:image href="{{ site.url }}/dist/img/itunes.png" />
+		<itunes:category text="Comedy"></itunes:category>
+		<itunes:category text="Fiction">
+			<itunes:category text="Comedy Fiction"/>
+		</itunes:category>
+		<itunes:category text="Leisure">
+			<itunes:category text="Games"/>
+		</itunes:category>
+		<itunes:explicit>no</itunes:explicit>
+		{% for post in site.whatevertales %}
+			<item>
+				<title>{{ post.title | xml_escape | strip_html }}</title>
+				<link>{{ site.url }}{{ post.url }}</link>
+				<pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+				<description>{{ post.content | xml_escape }}</description>
+				<guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
+				<enclosure url="{{ post.file }}" length="{{ post.length }}" type="audio/mp3"/>
+				{% if post.file_itunes %}
+					{% if post.file_itunes == blank or post.file_itunes == '' %}
+					{% else %}
+						<enclosure url="{{ post.file_itunes }}" length="{{ post.length }}" type="audio/m4a"/>
+					{% endif %}
+				{% else %}
+				{% endif %}
+				<itunes:author>{{ site.author }}</itunes:author>
+				<itunes:subtitle>{{ site.title }}: {{ post.title }}</itunes:subtitle>
+				<itunes:summary>{{ post.summary | xml_escape }}</itunes:summary>
+				<itunes:duration>{{ post.duration }}</itunes:duration>
+				{% if post.tags.size > 0 %}<itunes:keywords>{{ post.tags | sort | join: ", " }}</itunes:keywords>{% endif %}
+				{% if post.artwork %}
+					<itunes:image href="{{ site.url }}{{ post.artwork }}" />
+				{% else %}
+					<itunes:image href="/uploads/whatevertales.jpg" />
+				{% endif %}
+				<itunes:explicit>{{ post.explicit }}</itunes:explicit>
+				<itunes:block>{{ post.block }}</itunes:block>
+				{% if post.season %}<itunes:season>{{ post.season }}</itunes:season>{% endif %}
+				{% if post.episode %}<itunes:episode>{{ post.episode }}</itunes:episode>{% endif %}
+				{% if post.type %}<itunes:episodeType>{{ post.episode_type }}</itunes:episodeType>{% endif %}
+			</item>
+		{% endfor %}
+	</channel>
+</rss>
