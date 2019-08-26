@@ -16,7 +16,7 @@
 		<copyright>2019-{{ site.time | date: '%Y' }} {{ site.title }}</copyright>
 		<pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
 		<lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
-		<googleplay:image href="{{ site.url }}/dist/img/itunes.png"/>
+		<googleplay:image href="{{ site.url }}/uploads/whatevertales.jpg"/>
 		<image>
 			<link>{{ show.url }}</link>
 			<url>{{ site.url }}/uploads/whatevertales.jpg</url>
@@ -31,7 +31,7 @@
 			<itunes:name>{{ show.author }}</itunes:name>
 			<itunes:email>{{ show.email }}</itunes:email>
 		</itunes:owner>
-		<itunes:image href="{{ site.url }}/dist/img/itunes.png" />
+		<itunes:image href="{{ site.url }}/uploads/whatevertales.jpg" />
 		<itunes:category text="Comedy"></itunes:category>
 		<itunes:category text="Fiction">
 			<itunes:category text="Comedy Fiction"/>
