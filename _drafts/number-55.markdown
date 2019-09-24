@@ -1,17 +1,18 @@
 ---
-title: "#55"
+title: "#55 One Meager Dollar"
 date: 2019-09-24 22:19:00 -05:00
 permalink: "/episode-55/"
 season: 3
 episode: 55
+file: https://lodgment-remark-slipshod.s3.ca-central-1.amazonaws.com/w55.mp3
 summary: 'They''re back at it! This week the guys catch up on what happened over the
-  summer, Jon teaches us about the Rhinoceros party, hear about what Ryan has learned
+  summer, Jon teaches us about the Rhinoceros party, we hear about what Ryan has learned
   about his business, and Tim brings back super powers in a good old Would You Rather. '
 excerpt: 'They''re back at it! This week the guys catch up on what happened over the
-  summer, Jon teaches us about the Rhinoceros party, hear about what Ryan has learned
+  summer, Jon teaches us about the Rhinoceros party, we hear about what Ryan has learned
   about his business, and Tim brings back super powers in a good old Would You Rather. '
-duration: '58:17'
-length: 55952951
+duration: '58:09'
+length: 55833832
 ---
 
 It's not too late to participate in the Whatevertown survey: https://whatevertown.typeform.com/to/oS50hM.
