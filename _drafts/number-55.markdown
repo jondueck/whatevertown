@@ -14,6 +14,8 @@ duration: '58:17'
 length: 55952951
 ---
 
+It's not too late to participate in the Whatevertown survey: https://whatevertown.typeform.com/to/oS50hM.
+
 ### Recommendations
 - Jon: [*Close It Quietly* by Frankie Cosmos](https://open.spotify.com/album/1ktNpFgxer2jAIGyiTpmvJ?si=tzo21kVoQ9Sf2baeHvR-bw)
 - Ryan: [Live PD](https://www.aetv.com/shows/live-pd) and [Brad and Matty Matheson Go Noodling for Catfish](https://youtu.be/-JkcZRBUNtw)
