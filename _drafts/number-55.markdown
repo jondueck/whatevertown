@@ -1,6 +1,7 @@
 ---
 title: "#55"
 date: 2019-09-24 22:19:00 -05:00
+permalink: "/episode-55/"
 season: 3
 episode: 55
 summary: 'They''re back at it! This week the guys catch up on what happened over the
