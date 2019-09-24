@@ -15,6 +15,6 @@ length: 55952951
 ---
 
 ### Recommendations
-- Jon: [*Close It Quickly* by Frankie Cosmos](https://open.spotify.com/album/1ktNpFgxer2jAIGyiTpmvJ?si=tzo21kVoQ9Sf2baeHvR-bw)
+- Jon: [*Close It Quietly* by Frankie Cosmos](https://open.spotify.com/album/1ktNpFgxer2jAIGyiTpmvJ?si=tzo21kVoQ9Sf2baeHvR-bw)
 - Ryan: [Live PD](https://www.aetv.com/shows/live-pd) and [Brad and Matty Matheson Go Noodling for Catfish](https://youtu.be/-JkcZRBUNtw)
 - Tim: [Ultimate Chicken Horse](https://www.cleverendeavourgames.com/ultimate-chicken-horse)
