@@ -1,5 +1,5 @@
 ---
-title: "#55 One Meager Dollar"
+title: "#55 Pretty Good or Very Hot"
 date: 2019-09-24 22:19:00 -05:00
 permalink: "/episode-55/"
 season: 3
