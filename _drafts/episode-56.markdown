@@ -8,9 +8,9 @@ episode_type: full
 episode: 56
 ---
 
-### [13:07] – Apple Arcade
+### [13:07] – [Apple Arcade](https://www.apple.com/ca/apple-arcade/)
  
-### [31:38] – The most one-sided issues in the history of polling
+### [31:38] – [The most one-sided issues in the history of polling](https://fivethirtyeight.com/features/how-to-win-an-election/)
 
 ### [] – Would You Rather…
 - "…be given $200,000 dollars, BUT you can only spend $20,000 a month. Also, all of the money smells of excrement – there is no way to get rid of the smell even if it is in a bag – and you have to carry all of the money on you at all times. Or be given a really nice cologne." (Thanks Brenton!)
