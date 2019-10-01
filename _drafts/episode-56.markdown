@@ -10,6 +10,11 @@ summary: The guys talk about playing Apple Arcade, things everyone likes, and an
   a listener Would You Rather.
 excerpt: The guys talk about playing Apple Arcade, things everyone likes, and answer
   a listener Would You Rather.
+duration: '57:52'
+length: 55697064
+explicit: 'no'
+block: 'no'
+comments: true
 ---
 
 ### [13:07] – [Apple Arcade](https://www.apple.com/ca/apple-arcade/)
