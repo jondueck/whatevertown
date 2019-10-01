@@ -1,0 +1,31 @@
+---
+title: "#56 Thinking About Scenarios"
+date: 2019-09-30 22:08:00 -05:00
+permalink: "/episode-56/"
+author: Whatevertown
+season: 3
+episode_type: full
+episode: 56
+file: https://lodgment-remark-slipshod.s3.ca-central-1.amazonaws.com/56.mp3
+summary: The guys talk about playing Apple Arcade, things everyone likes, and answer
+  a listener Would You Rather.
+excerpt: The guys talk about playing Apple Arcade, things everyone likes, and answer
+  a listener Would You Rather.
+duration: '57:52'
+length: 55697064
+explicit: 'no'
+block: 'no'
+comments: true
+---
+
+### [13:07] – [Apple Arcade](https://www.apple.com/ca/apple-arcade/)
+ 
+### [31:38] – [The most one-sided issues in the history of polling](https://fivethirtyeight.com/features/how-to-win-an-election/)
+
+### [43:32] – Would You Rather…
+- "…be given $200,000 dollars, BUT you can only spend $20,000 a month. Also, all of the money smells of excrement – there is no way to get rid of the smell even if it is in a bag – and you have to carry all of the money on you at all times. Or be given a really nice cologne." (Thanks Brenton!)
+
+### [52:11] –  Recommendations
+- Jon: [*Untitled Goose Game* by House House & Panic](https://goose.game/)
+- Tim: [*'87* by The Bros Landreth](https://open.spotify.com/album/55gCIl2LqtXopTZHUtMqp3?si=Un94tyWYTCa9sUmVnLxDmw)
+- Ryan:  [*Inside Bill's Brain* on Netflix](https://www.youtube.com/watch?v=aCv29JKmHNY)
