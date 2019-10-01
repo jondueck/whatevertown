@@ -16,6 +16,7 @@ length: 55697064
 explicit: 'no'
 block: 'no'
 comments: true
+layout: post
 ---
 
 ### [13:07] – [Apple Arcade](https://www.apple.com/ca/apple-arcade/)
