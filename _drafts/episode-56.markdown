@@ -6,6 +6,7 @@ author: Whatevertown
 season: 3
 episode_type: full
 episode: 56
+file: https://lodgment-remark-slipshod.s3.ca-central-1.amazonaws.com/56.mp3
 summary: The guys talk about playing Apple Arcade, things everyone likes, and answer
   a listener Would You Rather.
 excerpt: The guys talk about playing Apple Arcade, things everyone likes, and answer
