@@ -78,7 +78,7 @@ article {
   }
 
   &__footer {
-    border-top: 1px solid $primary-color;
+    // border-top: 1px solid $primary-color;
     padding-top: $line-height;
     margin-top: $line-height;
   }
@@ -133,4 +133,31 @@ article {
   margin-right: 0;
   margin-bottom: 0;
   margin-left: 0;
+}
+
+.post-nav {
+  border-top: 1px solid $blue;
+  border-bottom: 1px solid $blue;
+  margin-bottom: $line-height;
+  clear: both;
+  overflow: hidden;
+
+  &__prev,
+  &__next {
+    width: 50%;
+    padding: $line-height-half $line-height;
+    display: inline-block;
+  }
+
+  &__prev {
+    text-align: left;
+    border-right: 1px solid $blue;
+    float: left;
+  }
+
+  &__next {
+    text-align: right;
+    float: right;
+  }
+
 }
