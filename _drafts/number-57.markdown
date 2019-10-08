@@ -1,5 +1,5 @@
 ---
-title: "# 57"
+title: "#57"
 date: 2019-10-07 21:44:00 -05:00
 permalink: "/episode-57/"
 season: 3
