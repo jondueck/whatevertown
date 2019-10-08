@@ -65,9 +65,15 @@
   border: $border;
   clear: both;
   overflow: hidden;
+  position: relative;
+  z-index: 1;
 
   &:hover {
     box-shadow: $box-shadow;
+  }
+
+  &__info {
+    z-index: 1;
   }
 
   @media (min-width: 50rem) {

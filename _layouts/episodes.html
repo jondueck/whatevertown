@@ -18,8 +18,8 @@ layout: default
 
         <div class="pod-preview__info">
           <h4>{{ post.date | date: '%B %d, %Y' }} • {% comment %}{{ post.collection }}{% endcomment %} {% if post.season %}Season {{ post.season }}{% endif %}</h4>
-          <h2 class="a-no-margin"><a href="{{post.url}}">{{ post.title }}</a></h2>
-          <p class="description small a-no-margin">{% if post.summary %}{{ post.summary }}{% elsif post.excerpt %}{{ post.excerpt }} {% endif %}</p>
+          <h2 class="a-no-margin"><a href="{{post.url}}" class="area-link">{{ post.title }}</a></h2>
+          <p class="description small a-no-margin ">{% if post.summary %}{{ post.summary }}{% elsif post.excerpt %}{{ post.excerpt }} {% endif %}</p>
         </div>
 
       </article>
