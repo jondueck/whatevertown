@@ -1,6 +1,7 @@
 ---
 title: "# 57"
 date: 2019-10-07 21:44:00 -05:00
+permalink: "/episode-57/"
 season: 3
 episode: 57
 summary: This week the guys talk about seasonal music, screen time on phones, and
