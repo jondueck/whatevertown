@@ -1,5 +1,5 @@
 ---
-title: "# 57 - The Pros of Teleportation"
+title: "# 57 The Pros of Teleportation"
 date: 2019-10-07 21:44:00 -05:00
 season: 3
 episode: 57
