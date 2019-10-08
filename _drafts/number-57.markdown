@@ -3,6 +3,7 @@ title: "# 57 The Pros of Teleportation"
 date: 2019-10-07 21:44:00 -05:00
 season: 3
 episode: 57
+file: https://lodgment-remark-slipshod.s3.ca-central-1.amazonaws.com/w57.mp3
 summary: This week the guys talk about seasonal music, screen time on phones, and
   go through a bunch of Would You Rathers.
 excerpt: This week the guys talk about seasonal music, screen time on phones, and
@@ -19,6 +20,6 @@ length: 49627138
 
 
 ### [52:11] –  Recommendations
-- Jon: [*Losing Earth: A Recent History* by Nathaniel Rich](https://goose.game/)
+- Jon: [*Losing Earth: A Recent History* by Nathaniel Rich](https://www.goodreads.com/book/show/41940347-losing-earth)
 - Tim: [*Ori and the Blind Forest* by Moon Studios](https://www.orithegame.com)
 - Ryan:  [*Abstract* on Netflix](https://www.netflix.com/ca/title/80057883)
