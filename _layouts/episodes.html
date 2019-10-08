@@ -14,7 +14,7 @@ layout: default
 
       <article id="post-{{ post.id }}" class="pod-preview">
 
-        <img src="{{ post.artwork }}" class="pod-preview__artwork">
+        <img src="{{ post.artwork }}" class="pod-preview__artwork" alt="Cover artwork{% if page.episode %} episode {{ page.episode }}.{% endif %}">
 
         <div class="pod-preview__info">
           <h4>{{ post.date | date: '%B %d, %Y' }} • {% comment %}{{ post.collection }}{% endcomment %} {% if post.season %}Season {{ post.season }}{% endif %}</h4>

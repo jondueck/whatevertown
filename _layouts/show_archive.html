@@ -10,9 +10,9 @@ layout: default
 
   <p>
     Hosted by:
-    {% for host in page.hosts %}
-      <span>{{ host }}</span>,
-    {% endfor %}
+
+    {% assign host = page.hosts | join: ',' | split: ',' %}
+    {{ host | sort | join: ", "}}
   </p>
 
   {% if page.stitcher %}
@@ -23,6 +23,7 @@ layout: default
 
     <!-- {% assign show = page.label %}
     {{ show }} -->
+
     {% for episode in site.timshow %}
 
       <article id="post-{{ episode.id }}" class="pod-preview">

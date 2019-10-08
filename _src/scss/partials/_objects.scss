@@ -30,6 +30,7 @@ textarea {
   border: 1px solid $link-color;
   cursor: pointer;
   padding: (0.25 * $line-height) (0.5 * $line-height);
+  display: inline-block;
 
   &:hover {
     background-color: tint($link-color, 10%);
@@ -37,6 +38,7 @@ textarea {
   }
   &:active {
     background-color: shade($link-color, 5%);
+    text-decoration: none;
   }
 
 }
