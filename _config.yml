@@ -2,6 +2,12 @@
 title: Whatevertown
 timezone: America/Chicago
 collections:
+  blog:
+    title: Blog
+    output: true
+    permalink: "/:collection/:title/"
+    paginate_path: "/blog/:slug/"
+    paginate: 10
   hosts:
     title: Hosts
     output: false
@@ -20,6 +26,8 @@ collections:
   whatevertales:
     title: Whatevertales
     output: true
+    paginate_path: "/whatevertales/page:num/"
+    paginate: 10
 defaults:
 - scope:
     path: ''
@@ -45,6 +53,7 @@ defaults:
   values:
     layout: post
     author: Whatevertown
+    guid: 
     season: ''
     episode_type: full
     episode: ''
@@ -69,6 +78,12 @@ defaults:
     layout: page
     twitter: ''
     website: ''
+- scope:
+    path: blog
+    type: blog
+  values:
+    layout: blog
+    author: Whatevertown
 subtitle: A podcast by Jon Dueck, Ryan Kehler, and Tim Wall.
 email: whatevertownpod@gmail.com
 description: Whatevertown is a podcast by Jon Dueck, Ryan Kehler, and Tim Wall. It’s
