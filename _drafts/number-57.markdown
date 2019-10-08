@@ -22,4 +22,4 @@ length: 49627138
 ### [52:11] –  Recommendations
 - Jon: [*Losing Earth: A Recent History* by Nathaniel Rich](https://www.goodreads.com/book/show/41940347-losing-earth)
 - Tim: [*Ori and the Blind Forest* by Moon Studios](https://www.orithegame.com)
-- Ryan:  [*Abstract* on Netflix](https://www.netflix.com/ca/title/80057883)
+- Ryan:  [*Abstract* on Netflix](https://www.youtube.com/watch?v=PHXxKZkeFmc)
