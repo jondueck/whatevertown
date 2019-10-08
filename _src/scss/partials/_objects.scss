@@ -120,3 +120,7 @@ td {
   border-collapse: collapse;
   padding: $line-height-half 0;
 }
+
+.area-link {
+  @include area-link;
+}
