@@ -1,5 +1,5 @@
 ---
-title: "#57"
+title: "#57 The Pros of Teleportation"
 date: 2019-10-08 14:00:00 -05:00
 permalink: "/episode-57/"
 season: 3
