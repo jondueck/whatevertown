@@ -1,5 +1,5 @@
 ---
-title: "#59"
+title: "#59 Health Baby"
 date: 2019-10-21 18:38:00 -05:00
 episode: 59
 summary: This week the guys talk about 4 video games that shaped who they are today,
