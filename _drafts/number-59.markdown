@@ -11,6 +11,6 @@ length: 56713636
 ---
 
 ### Recommendations
-- Jon: [*Frontburner* by CBC Podcasts](https://open.spotify.com/show/1qL9keKtruUmZ1hPkhHZL1?si=nn1iPZj0Q7y5jTsbblv8aA)
+- Jon: [*Front Burner* by CBC Podcasts](https://open.spotify.com/show/1qL9keKtruUmZ1hPkhHZL1?si=nn1iPZj0Q7y5jTsbblv8aA)
 - Ryan: [Bon Appétit](https://www.youtube.com/user/BonAppetitDotCom)
 - Tim: [*Killer Queen Black* by Liquidbit](http://www.killerqueenblack.com)
