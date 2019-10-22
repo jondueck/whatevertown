@@ -1,8 +1,9 @@
 ---
 title: "#59 Health Baby"
-date: 2019-10-21 18:38:00 -05:00
+date: 2019-10-22 17:20:00 -05:00
 season: 3
 episode: 59
+file: https://lodgment-remark-slipshod.s3.ca-central-1.amazonaws.com/w59+edit.mp3
 summary: This week the guys talk about 4 video games that shaped who they are today,
   Ryan introduces a new segment, and more!
 excerpt: This week the guys talk about 4 video games that shaped who they are today,
