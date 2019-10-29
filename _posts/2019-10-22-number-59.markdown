@@ -5,6 +5,7 @@ tags:
 - Video Games
 season: 3
 episode: 59
+episode_type: full
 file: https://lodgment-remark-slipshod.s3.ca-central-1.amazonaws.com/w59+edit.mp3
 stitcher: 64777470
 summary: This week the guys talk about 4 video games that shaped who they are today,
@@ -13,6 +14,9 @@ excerpt: This week the guys talk about 4 video games that shaped who they are to
   Ryan introduces a new segment, and more!
 duration: '59:04'
 length: 56713636
+comments: true
+layout: post
+explicit: false
 ---
 
 ### Recommendations
