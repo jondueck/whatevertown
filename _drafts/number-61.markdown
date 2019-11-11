@@ -1,6 +1,12 @@
 ---
-title: "#61"
+title: "#61 Beam Me Up Some Food Scotty"
 date: 2019-11-11 15:01:00 -06:00
+summary: This week the guys talk about Microsoft Japan's 4 day work week experiment,
+  polyphasic sleep, and more!
+excerpt: This week the guys talk about Microsoft Japan's 4 day work week experiment,
+  polyphasic sleep, and more!
+duration: '42:50'
+length: 41131282
 ---
 
 ### Recommendations
