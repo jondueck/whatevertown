@@ -7,6 +7,18 @@ excerpt: This week the guys talk about Microsoft Japan's 4 day work week experim
   polyphasic sleep, and more!
 duration: '42:50'
 length: 41131282
+author: Whatevertown
+season: 3
+episode_type: full
+episode: 61
+stitcher:
+artwork: "/dist/artwork/artwork_default.jpg"
+duration:
+length:
+explicit: false
+block: 'no'
+comments: true
+layout: post
 ---
 
 ### Recommendations
