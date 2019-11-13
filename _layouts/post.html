@@ -42,12 +42,16 @@ layout: default
 		<div class="post-nav">
 			{% if page.previous.url %}
 				<span class="post-nav__prev">
-		      <a class="prev" href="{{page.previous.url}}"><span class="meta">&laquo; Previous Episode </span><br> {{page.previous.title}}</a>
+						<span class="meta">&laquo; Previous Episode </span>
+						<br>
+						<a href="{{ page.previous.url }}" class="area-link">{{page.previous.title}}</a>
 				</span>
 	    {% endif %}
 	    {% if page.next.url %}
 				<span class="post-nav__next">
-		      <a class="next" href="{{page.next.url}}"><span class="meta">Next Episode &raquo;</span><br> {{page.next.title}}</a>
+						<span class="meta">Next Episode &raquo;</span>
+						<br>
+						<a href="{{page.next.url}}" class="area-link">{{page.next.title}}</a>
 				</span>
 	    {% endif %}
 		</div>
