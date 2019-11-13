@@ -147,6 +147,7 @@ article {
     width: 50%;
     padding: $line-height-half $line-height;
     display: inline-block;
+    position: relative;
   }
 
   &__prev {
