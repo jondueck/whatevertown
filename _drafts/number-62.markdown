@@ -6,14 +6,14 @@ author: Whatevertown
 season: 3
 episode_type: full
 episode: 62
-file:
-stitcher:
+file: 
+stitcher: 
 artwork: "/dist/artwork/artwork_default.jpg"
-summary:
-excerpt:
+summary: 
+excerpt: 
 duration: '00:00:00'
-length:
-explicit:
+length: 
+explicit: 
 block: 'no'
 comments: true
 layout: post
