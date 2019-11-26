@@ -1,6 +1,6 @@
 ---
 title: "#62"
-date: 2019-11-26 18:00:00 -06:00
+date: 2019-11-26 16:00:00 -06:00
 permalink: "/episode-62/"
 author: Whatevertown
 season: 3
