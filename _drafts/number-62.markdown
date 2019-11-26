@@ -1,20 +1,19 @@
 ---
 title: "#62"
-date: 2019-11-26 16:00:00 -06:00
-permalink: "/episode-62/"
-author: Whatevertown
+date: 2019-11-25 18:41:00 -06:00
 season: 3
-episode_type: full
 episode: 62
-artwork: "/dist/artwork/artwork_default.jpg"
-duration: '00:00:00'
-block: 'no'
-comments: true
-layout: post
+file: https://lodgment-remark-slipshod.s3.ca-central-1.amazonaws.com/w62.mp3
+summary: 'Greg Neufeld is back and things go deeper, and crazier than ever in this
+  2 year anniversary episode. '
+excerpt: 'Greg Neufeld is back and things go deeper, and crazier than ever in this
+  2 year anniversary episode. '
+duration: '1:07:53'
+length: 65178564
 ---
 
 ### Recommendations
-- [Jon](https://twitter.com/jondueck/):  [Goblin Comic](https://twitter.com/i/moments/1196438034222342144), [The Seven Deaths of Evelyn Hardcastle](https://www.goodreads.com/book/show/39088216-the-seven-deaths-of-evelyn-hardcastle)
-- Ryan: [*Modern Country* by William Tyler](https://open.spotify.com/album/0AlKGJjZriUhapXB3hyW6h?si=8RpIRybRQeyhOEwmGP98bw)
+- Jon: [*The Seven Deaths of Evelyn Hardcastle* by Stuart Turton](https://www.goodreads.com/book/show/36337550-the-7-deaths-of-evelyn-hardcastle)
+- Ryan: [*Modern Country* by William Tyler](https://open.spotify.com/album/0AlKGJjZriUhapXB3hyW6h?si=OGU154zuQeeFIJ6boRu4WQ)
 - Tim: [*Blood, Sweat, and Pixels* by Jason Schreier](https://www.amazon.ca/Blood-Sweat-Pixels-Triumphant-Turbulent-ebook/dp/B01NAKSWW1)
-- Gregg: [Whitecap's soups and sandwiches](https://drinkwhitecap.com/food/), telling your family you love them, Willie Nelson
+- Greg: The Food at Whitecap
