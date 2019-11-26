@@ -1,19 +1,13 @@
 ---
 title: "#62"
-date: 2019-11-25 18:41:00 -06:00
+date: 2019-11-26 18:00:00 -06:00
 permalink: "/episode-62/"
 author: Whatevertown
 season: 3
 episode_type: full
 episode: 62
-file: 
-stitcher: 
 artwork: "/dist/artwork/artwork_default.jpg"
-summary: 
-excerpt: 
 duration: '00:00:00'
-length: 
-explicit: 
 block: 'no'
 comments: true
 layout: post
