@@ -1,5 +1,5 @@
 ---
-title: "#62 Egg of the Christie with Greg Neufeld"
+title: "#62 Egg of the Christie with Gregg Neufeld"
 date: 2019-11-26 18:41:00 -06:00
 season: 3
 episode: 62
