@@ -1,6 +1,6 @@
 ---
-title: "#62"
-date: 2019-11-25 18:41:00 -06:00
+title: "#62 Egg of the Christie with Greg Neufeld"
+date: 2019-11-26 18:41:00 -06:00
 season: 3
 episode: 62
 file: https://lodgment-remark-slipshod.s3.ca-central-1.amazonaws.com/w62.mp3
