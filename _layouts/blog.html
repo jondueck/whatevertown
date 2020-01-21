@@ -8,7 +8,9 @@ layout: default
 
   <section class="episode-list">
 
-    {% for post in site.blog %}
+    {% assign blog = site.blog | sort: 'date' %}
+
+    {% for post in blog %}
 
       <article id="post-{{ post.id }}" >
 

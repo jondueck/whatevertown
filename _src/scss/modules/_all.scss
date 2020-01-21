@@ -2,7 +2,6 @@
 @import 'footer';
 
 .banner {
-  // background: $primary-color;
   color: $white;
   background-color: $primary-color;
   padding-top: 2 * $line-height-2x;
@@ -47,6 +46,9 @@
 }
 
 .id-x {
+
+  font-family: monospace;
+  font-size: 1vh;
 
   .banner {
     height: 100%;
@@ -99,6 +101,10 @@
       overflow: hidden;
       width: calc(90% - #{$line-height});
     }
+  }
+
+  @media (prefers-color-scheme: dark) {
+    background-color: $dark-black;
   }
 
 }
