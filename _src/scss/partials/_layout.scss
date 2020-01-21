@@ -12,7 +12,7 @@ html {
   }
 
   @media (prefers-color-scheme: dark) {
-    background-color: $dark-black;
+    background-color: #000;
   }
 
 }
@@ -39,7 +39,7 @@ body {
   }
 
   @media (prefers-color-scheme: dark) {
-    background-color: $black;
+    background-color: $dark-black;
     color: $white;
   }
 
@@ -64,7 +64,7 @@ article {
 }
 
 .post {
-  background: $white;
+  // background: $white;
   // padding: $line-height;
   margin-top: $line-height-2x;
   border-radius: 0.5rem;
@@ -73,9 +73,9 @@ article {
   //   padding: $line-height-2x;
   // }
 
-  @media (prefers-color-scheme: dark) {
-    background-color: $black;
-  }
+  // @media (prefers-color-scheme: dark) {
+  //   background-color: $black;
+  // }
 
   &__footer {
     // border-top: 1px solid $primary-color;

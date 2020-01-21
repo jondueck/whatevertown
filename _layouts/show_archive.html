@@ -1,30 +1,40 @@
 ---
 layout: default
 ---
+</div>
+<banner class="player-banner">
 
-<article class="post" id="post-{{page.id}}">
-
-  <h1>{{ page.title }}</h1>
-
-  <p>{{ page.description }}</p>
-
-  <p>
-    Hosted by:
-
-    {% assign host = page.hosts | join: ',' | split: ',' %}
-    {{ host | sort | join: ", "}}
-  </p>
-
-  {% if page.stitcher %}
-    <iframe class="embed-stitcher" scrolling="no" frameborder="0" style="overflow:hidden;" src="https://app.stitcher.com/splayer/f/{{ page.stitcher }}?el=1&refid=stpr"></iframe>
+  {% if page.logo %}
+    <img src="{{ page.logo }}" alt="{{ page.title }}" class="show-logo">
+  {% else %}
+    <h1>{{ page.title }}</h1>
   {% endif %}
 
-  <section class="episode-list">
+</banner>
 
-    <!-- {% assign show = page.label %}
-    {{ show }} -->
+<div class="wrapper">
 
-    {% for episode in site.timshow %}
+  <div class="post" id="post-{{page.id}}">
+
+    <p>{{ page.description }}</p>
+
+    <p>
+      Hosted by:
+
+      {% assign host = page.hosts | join: ',' | split: ',' %}
+      {{ host | sort | join: ", "}}
+    </p>
+
+    {% if page.stitcher %}
+    <iframe class="embed-stitcher" scrolling="no" frameborder="0" style="overflow:hidden;" src="https://app.stitcher.com/splayer/f/{{ page.stitcher }}?el=1&refid=stpr"></iframe>
+    {% endif %}
+
+    <section class="episode-list">
+
+      <!-- {% assign show = page.label %}
+      {{ show }} -->
+
+      {% for episode in site.timshow %}
 
       <article id="post-{{ episode.id }}" class="pod-preview">
 
@@ -36,8 +46,10 @@ layout: default
 
       </article>
 
-    {% endfor %}
+      {% endfor %}
 
-  </section>
+    </section>
 
-</article>
+  </div>
+
+</div>

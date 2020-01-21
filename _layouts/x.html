@@ -1,17 +1,17 @@
 <!DOCTYPE html>
 <html>
 
-  {% include head.html %}
+{% include head.html %}
 
-  <body class="id-x">
+<body class="id-x">
+  <div class="banner">
+    <div class="wrapper wrapper--wide">
 
-      <div class="banner">
-        <div class="wrapper wrapper--wide">
-          <img src="/dist/img/whatevertown-wordmark--white.svg" alt="Whatevertown" class="banner__logo banner__logo--large">
-          <img src="/dist/img/whatevertown-icon--white.svg" alt="Whatevertown" class="banner__logo banner__logo--small">
-        </div>
+      {{ page.content }}
+
     </div>
+  </div>
 
-  </body>
+</body>
 
 </html>

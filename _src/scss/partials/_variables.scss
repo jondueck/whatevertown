@@ -9,15 +9,16 @@ $light-grey: #cedbe2;
 $grey: #95a7b1;
 $dark-grey: #7290a0;
 $dark-black: #222;
-$white: #fff;
 $black: #444;
-$dark-black: #222;
 $blue: #4a74ff;
 $red: #ff4d4d;
 
 $primary-color: $blue;
 $secondary-color: #01E7B7;
 $secondary-color: $red;
+
+$white: mix(#fff, $primary-color, 85%);
+$dark-black: mix(#000, $primary-color, 90%);
 
 $body-text-color: $black;
 $heading-text-color: #111;
@@ -34,7 +35,7 @@ $gradient-diagonal: linear-gradient(135deg, $blue 0%, $red 100%);
 
 // Fonts
 // A Linux- and Windows-friendly sans-serif font stack: http://prospects.mhurrell.co.uk/post/updating-the-helvetica-font-stack
-$sans: 'Inter UI', -apple-system, BlinkMacSystemFont, "Roboto", Helmet, Freesans, sans-serif;
+$sans: /*'anonymous', 'anonymous-pro', 'anonymous pro',*/ 'Inter UI', -apple-system, BlinkMacSystemFont, "Roboto", Helmet, Freesans, sans-serif;
 $display: 'VG5000', -apple-system, BlinkMacSystemFont, "Roboto", Helmet, Freesans, sans-serif;
 
 // $display: 'Rift', $sans;

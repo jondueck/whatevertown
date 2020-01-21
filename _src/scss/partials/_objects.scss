@@ -52,6 +52,13 @@ textarea {
     background-color: rgba($white, 0.8);
   }
 
+  @media (prefers-color-scheme: dark) {
+    background-color: $dark-black;
+    &:hover {
+      background-color: lighten($dark-black, 15%)
+    }
+  }
+
 }
 
 .btn--inline {
@@ -123,4 +130,11 @@ td {
 
 .area-link {
   @include area-link;
+}
+
+.show-logo {
+  display: block;
+  margin: auto;
+  width: 80%;
+  max-width: 40rem;
 }

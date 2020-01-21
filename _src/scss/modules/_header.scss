@@ -108,4 +108,8 @@
     }
   }
 
+  @media (prefers-color-scheme: dark) {
+    border-bottom: $border;
+  }
+
 }
