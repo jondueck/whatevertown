@@ -162,3 +162,18 @@ article {
   }
 
 }
+
+.book-list {
+  list-style: none;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+  grid-gap: $gutter;
+  align-items: baseline;
+}
+
+.book-item {
+  img {
+    max-height: 33vh;
+  }
+}

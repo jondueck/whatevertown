@@ -4,6 +4,7 @@ $line-height: #{($base-font-size*$line-height-unitless)};
 $line-height-2x: #{($base-font-size*$line-height-unitless)*2};
 $line-height-half: #{($base-font-size * $line-height-unitless) / 2};
 
+$white: #fff;
 $subdued-grey: #fafafa;
 $light-grey: #cedbe2;
 $grey: #95a7b1;
@@ -17,7 +18,7 @@ $primary-color: $blue;
 $secondary-color: #01E7B7;
 $secondary-color: $red;
 
-$white: mix(#fff, $primary-color, 85%);
+$off-white: mix($white, $primary-color, 90%);
 $dark-black: mix(#000, $primary-color, 90%);
 
 $body-text-color: $black;
