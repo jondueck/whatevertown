@@ -13,3 +13,7 @@ episode_type: full
 episode: 65
 ---
 
+## Recommendations
+- Jon: AIDungeon 2 – [Browser](https://play.aidungeon.io/) or [iOS](https://apps.apple.com/us/app/ai-dungeon/id1491268416) or [Android](https://play.google.com/store/apps/details?id=com.aidungeon)
+- Tim: [*Elevator Music for an Elevated Mood* by Cory Wong](https://open.spotify.com/album/1LL5VZdY7CBXScXB0oQ4tB?si=yPeTKryMRIeicDY7d_1kEg)
+- Ryan: [Harvard Business Review Podcast](https://hbr.org/2018/01/podcast-ideacast)
