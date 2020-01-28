@@ -167,13 +167,18 @@ article {
   list-style: none;
   padding: 0;
   display: grid;
-  grid-template-columns: repeat(3,1fr);
   grid-gap: $gutter;
-  align-items: baseline;
+  grid-template-columns: repeat(1,1fr);
+  @media (min-width: 700px) {
+    grid-template-columns: repeat(3,1fr);
+    align-items: baseline;
+  }
 }
 
 .book-item {
   img {
-    max-height: 33vh;
+    height: 25vh;
+    max-height: 15rem;
+
   }
 }
