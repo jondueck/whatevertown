@@ -40,11 +40,11 @@
 {% endif %}
 
 {% if page.og_image %}
-  <meta property="og:image" content="{{ page.artwork }}">
+  <meta property="og:image" content="{{ site.url }}{{ page.artwork }}">
 {% elsif page.thumb %}
-    <meta property="og:image" content="{{ page.thumb }}">
+    <meta property="og:image" content="{{ site.url }}{{ page.thumb }}">
 {% elsif page.artwork %}
-  <meta property="og:image" content="{{ page.artwork }}">
+  <meta property="og:image" content="{{ site.url }}{{ page.artwork }}">
 {% else %}
   <meta property="og:image" content="{{ site.url }}/dist/img/whatevertown-og.jpg">
 {% endif %}
