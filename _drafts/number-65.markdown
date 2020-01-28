@@ -18,9 +18,10 @@ episode: 65
 
 ## Book Club
 - [whatevertown.com/book-club/](/book-club)
-- Jon's Recommendation: 
-- Ryan's Recommendation: 
-- Tim's Recommendationn: 
+- Jon's Recommendation: *Dark Matter* by Blake Crouch
+- Ryan's Recommendation: *The Last Arrow* by Erwin McManus
+- Tim's Recommendation: *The Curious Incident of the Dog in the Night-Time*
+Mark Hadon
 
 ## How Do You Take Your Coffee?
 - Coffee smells:  Freshly opened bag v Freshly ground v Fresh cup.
