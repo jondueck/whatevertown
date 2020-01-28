@@ -1,9 +1,8 @@
 ---
 title: Book Club
-layout: book_club
 description: The Whatevertown Book Club is where we read books.
 hidden: true
-thumb: "/og_public-library.jpg"
+thumb: "/uploads/og_public-library.jpg"
 collections:
 - title: Q1 2020
   books:
@@ -34,6 +33,7 @@ collections:
     rating_jon: 
     rating_ryan: 
     rating_tim: 
+layout: book_club
 ---
 
 Hope you have a Whatevertown Public Library card.
