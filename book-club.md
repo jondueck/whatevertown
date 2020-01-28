@@ -13,26 +13,26 @@ collections:
     recommender: Jon
     link: https://www.goodreads.com/book/show/27833670-dark-matter
     rating_jon: "★★★★★"
-    rating_ryan:
-    rating_tim:
+    rating_ryan: 
+    rating_tim: 
   - title: The Last Arrow
     author: Erwin McManus
     cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1495990668l/33508622.jpg
-    genre:
+    genre: 
     recommender: Ryan
     link: https://www.goodreads.com/book/show/33508622-the-last-arrow
-    rating_jon:
+    rating_jon: 
     rating_ryan: "★★★★★"
-    rating_tim:
+    rating_tim: 
   - title: The Curious Incident of the Dog in the Night-Time
     author: Mark Hadon
     cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1479863624l/1618._SY475_.jpg
-    genre:
+    genre: 
     recommender: Tim
     link: https://www.goodreads.com/book/show/1618.The_Curious_Incident_of_the_Dog_in_the_Night_Time
-    rating_jon:
-    rating_ryan:
-    rating_tim:
+    rating_jon: 
+    rating_ryan: 
+    rating_tim: 
 ---
 
 Hope you have a Whatevertown Public Library card.
