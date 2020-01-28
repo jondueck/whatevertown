@@ -38,6 +38,4 @@ layout: book_club
 
 *Ex Libris Whatevertown.*
 
-Hope you have a Whatevertown Public Library card.
-
-The three hosts each picked one book that we're all going to read in Q1 2020. Feel free to read along.
+The three hosts each picked one book that we're all going to read in Q1 2020. Feel free to read along. Hope you have a Whatevertown Public Library card.
