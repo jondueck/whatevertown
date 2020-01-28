@@ -21,5 +21,5 @@ episode: 65
 - Tim: [*Elevator Music for an Elevated Mood* by Cory Wong](https://open.spotify.com/album/1LL5VZdY7CBXScXB0oQ4tB?si=yPeTKryMRIeicDY7d_1kEg)
 - Ryan: [Harvard Business Review Podcast](https://hbr.org/2018/01/podcast-ideacast)
 
-### Programming note
+## Programming note
 We’re switching to releasing _every other week_ – for scheduling reasons, and so we have some time to work on a side project that we’re excited about. We'll see you again in two weeks. Thanks.
