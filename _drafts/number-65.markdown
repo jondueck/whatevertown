@@ -13,7 +13,8 @@ episode_type: full
 episode: 65
 ---
 
-## Would You ~~Rather~~
+## Would You ~~Rather~~…
+- …smoke three cigarettes a day for five years to receive $5,000,000 (CAD) immediately (money turns to debt if the streak of 3×/day is broken)? If not, how many days would you do this for in exchange for $5M? (Thanks for the submission, Chris!)
 
 ## Recommendations
 - Jon: AIDungeon 2 – [Browser](https://play.aidungeon.io/) or [iOS](https://apps.apple.com/us/app/ai-dungeon/id1491268416) or [Android](https://play.google.com/store/apps/details?id=com.aidungeon)
