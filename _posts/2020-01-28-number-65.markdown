@@ -1,5 +1,5 @@
 ---
-title: "#65"
+title: "#65 Whatevertown Book Club"
 date: 2020-01-28 10:00:00 -06:00
 permalink: "/episode-65/"
 tags:
@@ -11,7 +11,16 @@ author: Whatevertown
 season: 3
 episode_type: full
 episode: 65
+file: https://lodgment-remark-slipshod.s3.ca-central-1.amazonaws.com/w65.mp3
 artwork: "/dist/artwork/artwork_default.jpg"
+summary: We're back! Happy New Year and so on. This week we reveal our Whatevertown
+  Book Club submissions, talk about when coffee smells its best, what rockstars and
+  superstars have to do with business, and more!
+excerpt: We're back! Happy New Year and so on. This week we reveal our Whatevertown
+  Book Club submissions, talk about when coffee smells its best, what rockstars and
+  superstars have to do with business, and more!
+duration: '52:53'
+length: 50491060
 ---
 
 ## Links
