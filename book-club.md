@@ -36,7 +36,7 @@ collections:
 layout: book_club
 ---
 
-**Ex Libris Whatevertown.*
+*Ex Libris Whatevertown.*
 
 Hope you have a Whatevertown Public Library card.
 
