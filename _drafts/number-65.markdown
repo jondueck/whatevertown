@@ -13,6 +13,9 @@ episode_type: full
 episode: 65
 ---
 
+## Links
+- [Wait But Why: It’s 2020 and you’re in the future](https://waitbutwhy.com/2020/01/its-2020-and-youre-in-the-future.html)
+
 ## How Do You Take Your Coffee?
 - Coffee smells:  Freshly opened bag v Freshly ground v Fresh cup.
 
