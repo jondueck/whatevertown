@@ -17,7 +17,7 @@ episode: 65
 - [Wait But Why: It’s 2020 and you’re in the future](https://waitbutwhy.com/2020/01/its-2020-and-youre-in-the-future.html)
 
 ## Book Club
-- [whatevertown.com/book-club/](/book-club)
+- [Whatevertown Book Club](/book-club)
 - Jon's Recommendation: *Dark Matter* by Blake Crouch
 - Ryan's Recommendation: *The Last Arrow* by Erwin McManus
 - Tim's Recommendation: *The Curious Incident of the Dog in the Night-Time*
