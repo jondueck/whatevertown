@@ -13,7 +13,7 @@ episode_type: full
 episode: 65
 ---
 
-## Would You ~Rather~
+## Would You ~~Rather~~
 
 ## Recommendations
 - Jon: AIDungeon 2 – [Browser](https://play.aidungeon.io/) or [iOS](https://apps.apple.com/us/app/ai-dungeon/id1491268416) or [Android](https://play.google.com/store/apps/details?id=com.aidungeon)
