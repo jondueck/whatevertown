@@ -13,6 +13,12 @@ episode_type: full
 episode: 65
 ---
 
+## How Do You Take Your Coffee?
+- Coffee smells:  Freshly opened bag v Freshly ground v Fresh cup.
+
+## The Biz
+- Superstars & Rockstars
+
 ## Would You ~~Rather~~…
 - …smoke three cigarettes a day for five years to receive $5,000,000 (CAD) immediately (money turns to debt if the streak of 3×/day is broken)? If not, how many days would you do this for in exchange for $5M? (Thanks for the submission, Chris!)
 
