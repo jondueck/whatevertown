@@ -11,6 +11,7 @@ author: Whatevertown
 season: 3
 episode_type: full
 episode: 65
+artwork: "/dist/artwork/artwork_default.jpg"
 ---
 
 ## Links
