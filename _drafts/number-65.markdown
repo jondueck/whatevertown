@@ -18,9 +18,9 @@ episode: 65
 
 ## Book Club
 - [Whatevertown Book Club](/book-club)
-- Jon's Recommendation: *Dark Matter* by Blake Crouch
-- Ryan's Recommendation: *The Last Arrow* by Erwin McManus
-- Tim's Recommendation: *The Curious Incident of the Dog in the Night-Time*
+- Jon's Pick: *Dark Matter* by Blake Crouch
+- Ryan's Pick: *The Last Arrow* by Erwin McManus
+- Tim's Pick: *The Curious Incident of the Dog in the Night-Time*
 Mark Hadon
 
 ## How Do You Take Your Coffee?
