@@ -1,6 +1,6 @@
 ---
 title: Book Club
-layout: page
+layout: book_club
 description: The Whatevertown Book Club is where we read books.
 hidden: true;
 collections:
@@ -12,48 +12,29 @@ collections:
     genre: Sci-fi
     recommender: Jon
     link: https://www.goodreads.com/book/show/27833670-dark-matter
-    jon: "★★★★★"
-    ryan: 
-    tim: 
+    rating_jon: "★★★★★"
+    rating_ryan:
+    rating_tim:
   - title: The Last Arrow
     author: Erwin McManus
     cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1495990668l/33508622.jpg
-    genre: 
+    genre:
     recommender: Ryan
     link: https://www.goodreads.com/book/show/33508622-the-last-arrow
-    jon: 
-    ryan: "★★★★★"
-    tim: 
+    rating_jon:
+    rating_ryan: "★★★★★"
+    rating_tim:
   - title: The Curious Incident of the Dog in the Night-Time
     author: Mark Hadon
     cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1479863624l/1618._SY475_.jpg
-    genre: 
+    genre:
     recommender: Tim
     link: https://www.goodreads.com/book/show/1618.The_Curious_Incident_of_the_Dog_in_the_Night_Time
-    jon: 
-    ryan: 
-    tim: 
+    rating_jon:
+    rating_ryan:
+    rating_tim:
 ---
 
-<p>The three hosts each picked one book that we're all going to read in Q1 2020. Feel free to read along.</p>
+Hope you have a Whatevertown Public Library card.
 
-{% for collection in page.collections %}
-
-  <h2>{{ collection.title }}</h2>
-  {% if collection.books %}
-    <ul class="book-list">
-      {% for book in collection.books %}
-        <li class="book-item">
-          <img src="{{ book.cover }}" alt="cover of {{ book.title }}">
-          <span class="meta">Recommended by {{ book.recommender }}</span>
-          <h3> {{ book.title }}</h3>
-          <span>{{ book.author }}</span><br>
-          <span>Jon: {{ book.jon }}</span><br>
-          <span>Ryan: {{ book.ryan }}</span><br>
-          <span>Tim: {{ book.tim }}</span>
-        </li>
-      {% endfor %}
-    </ul>
-  {% endif %}
-
-{% endfor %}
+The three hosts each picked one book that we're all going to read in Q1 2020. Feel free to read along.

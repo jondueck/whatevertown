@@ -1,0 +1,30 @@
+---
+layout: page
+---
+
+{{ page.content }}
+
+<br><br><hr>
+
+{% for collection in page.collections %}
+
+  <h2>{{ collection.title }}</h2>
+  {% if collection.books %}
+    <ul class="book-list">
+      {% for book in collection.books %}
+        <li class="book-item">
+          <img src="{{ book.cover }}" alt="cover of {{ book.title }}">
+          <small class="meta">Recommended by {{ book.recommender }}</small>
+          <h3> {{ book.title }}</h3>
+          <span>{{ book.author }}</span><br>
+          <br>
+          <span>Jon: {{ book.rating_jon }}</span><br>
+          <span>Ryan: {{ book.rating_ryan }}</span><br>
+          <span>Tim: {{ book.rating_tim }}</span>
+
+        </li>
+      {% endfor %}
+    </ul>
+  {% endif %}
+
+{% endfor %}
