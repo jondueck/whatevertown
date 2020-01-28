@@ -14,8 +14,11 @@ layout: page
       {% for book in collection.books %}
         <li class="book-item">
           <img src="{{ book.cover }}" alt="cover of {{ book.title }}">
+          <br>
           <small class="meta">Recommended by {{ book.recommender }}</small>
+          {% if book.link %}<a href="{{ book.link }}" rel="nofollow">{% endif %}
           <h3> {{ book.title }}</h3>
+          {% if book.link %}</a>{% endif %}
           <span>{{ book.author }}</span><br>
           <br>
           <span>Jon: {{ book.rating_jon }}</span><br>
