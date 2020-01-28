@@ -2,7 +2,8 @@
 title: Book Club
 layout: book_club
 description: The Whatevertown Book Club is where we read books.
-hidden: true;
+hidden: true
+thumb: "/og_public-library.jpg"
 collections:
 - title: Q1 2020
   books:
