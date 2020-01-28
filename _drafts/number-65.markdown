@@ -2,6 +2,11 @@
 title: "#65"
 date: 2020-01-28 10:00:00 -06:00
 permalink: "/episode-65/"
+tags:
+- coffee
+- The Biz
+- How Do You Take Your Coffee
+- Would You Rather?
 author: Whatevertown
 season: 3
 episode_type: full
