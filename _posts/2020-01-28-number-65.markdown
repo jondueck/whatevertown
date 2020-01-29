@@ -28,10 +28,10 @@ length: 50491060
 
 ## Book Club
 - [Whatevertown Book Club](/book-club)
-- Jon's Pick: *Dark Matter* by Blake Crouch
-- Ryan's Pick: *The Last Arrow* by Erwin McManus
-- Tim's Pick: *The Curious Incident of the Dog in the Night-Time*
-Mark Hadon
+- Jon's Pick: [*Dark Matter* by Blake Crouch](https://www.goodreads.com/book/show/27833670-dark-matter)
+- Ryan's Pick: [*The Last Arrow* by Erwin McManus](https://www.goodreads.com/book/show/33508622-the-last-arrow)
+- Tim's Pick: [*The Curious Incident of the Dog in the Night-Time*
+Mark Hadon](https://www.goodreads.com/book/show/1618.The_Curious_Incident_of_the_Dog_in_the_Night_Time)
 
 ## How Do You Take Your Coffee?
 - Coffee smells:  Freshly opened bag v Freshly ground v Fresh cup.
