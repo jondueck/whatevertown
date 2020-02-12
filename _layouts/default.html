@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
   {% include head.html %}
 
@@ -7,49 +7,54 @@
 
     {% include header.html %}
 
-    {% if page.title == 'Home' %}
+      <main role="main">
 
-      {% for item in page.marquee %}
-        {{ item }}
-      {% endfor %}
+      {% if page.title == 'Home' %}
 
-      {% include marquee.html %}
+        {% for item in page.marquee %}
+          {{ item }}
+        {% endfor %}
 
-      <div class="banner">
-        <div class="wrapper wrapper--wide">
-          <img src="/dist/img/whatevertown-wordmark--white.svg" alt="Whatevertown" class="banner__logo banner__logo--large">
-          <img src="/dist/img/whatevertown-icon--white.svg" alt="Whatevertown" class="banner__logo banner__logo--small">
-          <br><br>
-          <div class="wrapper">
-            <p class="site-tagline">It's a show about <del>pop culture, board games, music, the internet, and</del> whatever.</p>
-            <p class="site-tagline"><a href="https://whatevertown.typeform.com/to/oS50hM" class="btn btn--white">Take the listener survey.</a></p>
-            <p>
-              <a href="{{ site.itunes }}" itemprop="sameAs">iTunes</a>
-              –
-              <a href="{{ site.stitcher }}" itemprop="sameAs">Stitcher</a>
-              –
-              <a href="{{ site.spotify }}" itemprop="sameAs">Spotify</a>
-              –
-              <a href="{{ site.googleplay }}" itemprop="sameAs">Google Play</a>
-            </p>
-            <p>
-              <a href="https://twitter.com/whatevertown" itemprop="sameAs">Twitter</a>
-              –
-              <a href="https://patreon.com/whatevertown" itemprop="sameAs">Patreon</a>
-              –
-              <a href="https://instagram.com/whatevertown" itemprop="sameAs">Instagram</a>
-              –
-              <a href="https://soundcloud.com/whatevertown" itemprop="sameAs">Soundcloud</a>
-            </p>
+        {% include marquee.html %}
+
+
+        <div class="banner">
+          <div class="wrapper wrapper--wide">
+            <img src="/dist/img/whatevertown-wordmark--white.svg" alt="Whatevertown" class="banner__logo banner__logo--large">
+            <img src="/dist/img/whatevertown-icon--white.svg" alt="Whatevertown" class="banner__logo banner__logo--small">
+            <br><br>
+            <div class="wrapper">
+              <p class="site-tagline">It's a show about <del>pop culture, board games, music, the internet, and</del> whatever.</p>
+              <p class="site-tagline"><a href="https://whatevertown.typeform.com/to/oS50hM" class="btn btn--white">Take the listener survey.</a></p>
+              <p>
+                <a href="{{ site.itunes }}" itemprop="sameAs">iTunes</a>
+                –
+                <a href="{{ site.stitcher }}" itemprop="sameAs">Stitcher</a>
+                –
+                <a href="{{ site.spotify }}" itemprop="sameAs">Spotify</a>
+                –
+                <a href="{{ site.googleplay }}" itemprop="sameAs">Google Play</a>
+              </p>
+              <p>
+                <a href="https://twitter.com/whatevertown" itemprop="sameAs">Twitter</a>
+                –
+                <a href="https://patreon.com/whatevertown" itemprop="sameAs">Patreon</a>
+                –
+                <a href="https://instagram.com/whatevertown" itemprop="sameAs">Instagram</a>
+                –
+                <a href="https://soundcloud.com/whatevertown" itemprop="sameAs">Soundcloud</a>
+              </p>
+            </div>
           </div>
-        </div>
-    </div>
+      </div>
 
-    {% endif %}
+      {% endif %}
 
-    <div class="wrapper">
-      {{ content }}
-    </div>
+      <div class="wrapper">
+        {{ content }}
+      </div>
+
+    </main>
 
     {% include footer.html %}
 

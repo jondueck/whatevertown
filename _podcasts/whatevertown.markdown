@@ -11,6 +11,7 @@ vimeo: whatevertown
 soundcloud: whatevertown
 instagram: whatevertown
 image: "/dist/artwork/artwork_default.jpg"
+logo: "/dist/img/whatevertown-icon-r.svg"
 hosts:
 - Jon Dueck
 - Tim Wall
