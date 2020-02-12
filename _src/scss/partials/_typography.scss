@@ -171,3 +171,8 @@ small,
 .small {
   font-size: 0.75 * $base-font-size;
 }
+
+sup {
+  line-height: 0;
+  font-size: 0.75 * $base-font-size;
+}
