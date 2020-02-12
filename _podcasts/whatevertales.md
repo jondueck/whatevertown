@@ -11,6 +11,7 @@ vimeo: whatevertown
 soundcloud: whatevertown
 instagram: whatevertown
 image: "/uploads/whatevertales.jpg"
+logo: "/uploads/whatevertales-logo.png"
 description: Whatevertales is the new pop-up podcast from Whatevertown. We'll be playing
   Role Playing Games from time to time with our friend Nathan Fehr (Sunday Night in
   Canada, Interesting Times).
