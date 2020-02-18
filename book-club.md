@@ -6,6 +6,15 @@ thumb: "/uploads/og_public-library.jpg"
 collections:
 - title: Q1 2020
   books:
+  - title: The Curious Incident of the Dog in the Night-Time
+    author: Mark Hadon
+    cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1479863624l/1618._SY475_.jpg
+    genre: 
+    recommender: Tim
+    link: https://www.goodreads.com/book/show/1618.The_Curious_Incident_of_the_Dog_in_the_Night_Time
+    rating_jon: 
+    rating_ryan: 
+    rating_tim: 
   - title: Dark Matter
     author: Blake Crouch
     cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1472119680l/27833670._SY475_.jpg
@@ -21,17 +30,8 @@ collections:
     genre: 
     recommender: Ryan
     link: https://www.goodreads.com/book/show/33508622-the-last-arrow
-    rating_jon: 
+    rating_jon: "✓"
     rating_ryan: "★★★★★"
-    rating_tim: 
-  - title: The Curious Incident of the Dog in the Night-Time
-    author: Mark Hadon
-    cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1479863624l/1618._SY475_.jpg
-    genre: 
-    recommender: Tim
-    link: https://www.goodreads.com/book/show/1618.The_Curious_Incident_of_the_Dog_in_the_Night_Time
-    rating_jon: 
-    rating_ryan: 
     rating_tim: 
 layout: book_club
 ---
