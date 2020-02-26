@@ -2,6 +2,7 @@
 title: "#67 Two Gowns is Fine"
 date: 2020-02-25 17:38:00 -06:00
 permalink: "/episode-67/"
+author: Whatevertown
 season: 3
 episode_type: full
 episode: 67
