@@ -24,3 +24,4 @@ comments: true
 - Jon: [Panic Podcast](https://podcast.panic.com/)
 - Tim: [Outer Wilds](https://www.mobiusdigitalgames.com/outer-wilds.html)
 - Ryan: [Drive to Survive](https://www.netflix.com/title/80204890)
+- Whatevertown Editorial Board: [timmyisonline on Twitch](twitch.tv/timmyisonline)
