@@ -14,7 +14,7 @@ collections:
     link: https://www.goodreads.com/book/show/1618.The_Curious_Incident_of_the_Dog_in_the_Night_Time
     rating_jon: "✓"
     rating_ryan: 
-    rating_tim: "⌛"
+    rating_tim: 
   - title: Dark Matter
     author: Blake Crouch
     cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1472119680l/27833670._SY475_.jpg
