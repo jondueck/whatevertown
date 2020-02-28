@@ -12,7 +12,7 @@ collections:
     genre: 
     recommender: Tim
     link: https://www.goodreads.com/book/show/1618.The_Curious_Incident_of_the_Dog_in_the_Night_Time
-    rating_jon: "⌛"
+    rating_jon: "✓"
     rating_ryan: 
     rating_tim: "⌛"
   - title: Dark Matter
@@ -21,7 +21,7 @@ collections:
     genre: Sci-fi
     recommender: Jon
     link: https://www.goodreads.com/book/show/27833670-dark-matter
-    rating_jon: "★★★★★"
+    rating_jon: "✓"
     rating_ryan: 
     rating_tim: 
   - title: The Last Arrow
@@ -31,7 +31,7 @@ collections:
     recommender: Ryan
     link: https://www.goodreads.com/book/show/33508622-the-last-arrow
     rating_jon: "✓"
-    rating_ryan: "★★★★★"
+    rating_ryan: "✓"
     rating_tim: 
 layout: book_club
 ---
