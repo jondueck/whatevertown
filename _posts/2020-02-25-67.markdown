@@ -7,6 +7,7 @@ season: 3
 episode_type: full
 episode: 67
 file: https://lodgment-remark-slipshod.s3.ca-central-1.amazonaws.com/w67.mp3
+stitcher: 67605723
 summary: The fellas talk about movies, HQ Trivia, Ryan's scope, and whatever.
 excerpt: The fellas talk about movies, HQ Trivia, Ryan's scope, and whatever.
 duration: '50:30'
