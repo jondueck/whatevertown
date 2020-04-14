@@ -44,14 +44,14 @@ layout: default
 				<span class="post-nav__prev" style="position: relative;">
 						<span class="meta">&laquo; Previous Episode </span>
 						<br>
-						<a href="{{ page.previous.url }}" class="area-link">{{page.previous.title}}</a>
+						<a href="{{ page.previous.url }}" class="area-link" rel="prev">{{page.previous.title}}</a>
 				</span>
 	    {% endif %}
 	    {% if page.next.url %}
 				<span class="post-nav__next" style="position: relative;">
 						<span class="meta">Next Episode &raquo;</span>
 						<br>
-						<a href="{{page.next.url}}" class="area-link">{{page.next.title}}</a>
+						<a href="{{page.next.url}}" class="area-link" rel="next">{{page.next.title}}</a>
 				</span>
 	    {% endif %}
 		</div>

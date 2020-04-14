@@ -1,10 +1,10 @@
 #{$all-text-inputs} {
-  border: 1px solid $light-grey;
+  border: 2px solid $light-grey;
   appearance: none;
   color: $dark-grey;
   margin-bottom: $line-height;
   margin-bottom: $line-height;
-  padding: (0.25 * $line-height);
+  padding: $line-height-half;
 }
 
 #{$all-text-inputs},
@@ -14,6 +14,7 @@
   border-radius: 0.5 * $radius;
   font-family: $display;
   font-size: 0.875 * $base-font-size;
+  border-radius: $line-height-half;
 }
 
 textarea {
@@ -27,9 +28,9 @@ textarea {
   // font-family: 'rift', $sans;
   color: $white;
   margin-bottom: $line-height;
-  border: 1px solid $link-color;
+  border: 2px solid $link-color;
   cursor: pointer;
-  padding: (0.25 * $line-height) (0.5 * $line-height);
+  padding: $line-height-half;
   display: inline-block;
 
   &:hover {
@@ -39,6 +40,36 @@ textarea {
   &:active {
     background-color: shade($link-color, 5%);
     text-decoration: none;
+  }
+
+}
+
+.btn--hero {
+  position: relative;
+  top: 0;
+  display: inline-block;
+  padding: $line-height-half $line-height;
+  font-weight: bold;
+  background-color: $white;
+  text-align: center;
+  color: $blue;
+  border: 3px solid $blue;
+  border-radius: $line-height-half;
+  white-space: nowrap;
+  -webkit-box-shadow: 0 $line-height-half 0 0 $blue;
+  box-shadow: 0 $line-height-half 0 0 $blue;
+  -webkit-transition: all 0.05s linear;
+  transition: all 0.05s linear;
+  cursor: pointer;
+
+  &:hover,
+  &:active {
+    -webkit-box-shadow: 0 0.7rem 0 0 $navy;
+    box-shadow: 0 0.7rem 0 0 $navy;
+    border-color: $navy;
+    -webkit-transform: translateY(0.2rem);
+    transform: translateY(0.2rem);
+    color: $white;
   }
 
 }
@@ -73,7 +104,7 @@ textarea {
   }
   .email {
     // border: 0 none;
-    border: $border;
+    border-color: $blue;
   }
 }
 
