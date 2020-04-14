@@ -3,11 +3,15 @@ title: "#69 Another Level of Bubble"
 date: 2020-03-24 18:19:00 -05:00
 season: 3
 episode: 69
+episode_type: full
 file: https://lodgment-remark-slipshod.s3.ca-central-1.amazonaws.com/w69.mp3
 summary: It's an episode about Tim's birthday, Ryan's business, and whatever.
 excerpt: It's an episode about Tim's birthday, Ryan's business, and whatever.
 duration: '50:22'
 length: 48367827
+explicit: 'no'
+block: 'no'
+comments: true
 ---
 
 ## Would You Rather…

@@ -16,6 +16,7 @@ body {
   color: $body-text-color;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
   @media (max-width: $sm) {
     font-size: 1rem;
   }
@@ -159,7 +160,7 @@ hr {
 .site-tagline {
   font-family: $display;
   @media (min-width: 600px) {
-    font-size: 1.4 * $base-font-size;
+    font-size: $b2;
   }
 }
 

@@ -4,22 +4,22 @@ $line-height: #{($base-font-size*$line-height-unitless)};
 $line-height-2x: #{($base-font-size*$line-height-unitless)*2};
 $line-height-half: #{($base-font-size * $line-height-unitless) / 2};
 
-$white: #fff;
-$subdued-grey: #fafafa;
-$light-grey: #cedbe2;
-$grey: #95a7b1;
-$dark-grey: #7290a0;
-$dark-black: #222;
-$black: #444;
 $blue: #4a74ff;
 $red: #ff4d4d;
 
 $primary-color: $blue;
-$secondary-color: #01E7B7;
 $secondary-color: $red;
 
+$white: mix(#fff, $blue, 99%);
+$black: mix(#444, $blue, 80%);
 $off-white: mix($white, $primary-color, 90%);
 $dark-black: mix(#000, $primary-color, 90%);
+
+$subdued-grey: mix($black, $white, 15%);
+$light-grey: mix($black, $white, 35%);
+$grey: mix($black, $white, 60%);
+$dark-grey: mix($black, $white, 75%);
+$navy: mix($blue, $dark-black, 50%);
 
 $body-text-color: $black;
 $heading-text-color: #111;
@@ -36,7 +36,7 @@ $gradient-diagonal: linear-gradient(135deg, $blue 0%, $red 100%);
 
 // Fonts
 // A Linux- and Windows-friendly sans-serif font stack: http://prospects.mhurrell.co.uk/post/updating-the-helvetica-font-stack
-$sans: /*'anonymous', 'anonymous-pro', 'anonymous pro',*/ 'Inter UI', -apple-system, BlinkMacSystemFont, "Roboto", Helmet, Freesans, sans-serif;
+$sans: 'Inter UI', -apple-system, BlinkMacSystemFont, "Roboto", Helmet, Freesans, sans-serif;
 $display: 'VG5000', -apple-system, BlinkMacSystemFont, "Roboto", Helmet, Freesans, sans-serif;
 
 // $display: 'Rift', $sans;
@@ -61,3 +61,13 @@ $radius: 0.25 * $line-height;
 $border: 1px solid $primary-color;
 
 $box-shadow: 0.5rem 0.5rem 0rem $primary-color;
+
+$type-scale: 1.3;
+
+$b0: $base-font-size;
+$b1: $type-scale * $base-font-size;
+$b2: $type-scale * $b1;
+$b3: $type-scale * $b2;
+$b4: $type-scale * $b3;
+$b5: $type-scale * $b4;
+$b-1: $b0 / $type-scale;

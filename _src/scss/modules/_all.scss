@@ -70,6 +70,9 @@
   position: relative;
   z-index: 1;
 
+  border: 2px solid $blue;
+  border-radius: $line-height-half;
+
   &:hover {
     box-shadow: $box-shadow;
   }
@@ -118,6 +121,9 @@
   @media (min-width: $sm) {
     padding-top: 3 * $line-height;
     padding-bottom: 3 * $line-height;
+  }
+  @media (prefers-color-scheme: dark) {
+    background-color: mix($dark-black, $navy, 75%);
   }
 }
 
