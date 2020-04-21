@@ -8,6 +8,6 @@ length: 59638515
 ---
 
 ## Recommendations
-- Jon: [Kanopy](https://www.kanopy.com)
-- Tim: [*Guardians* by August Burns Red](https://fanlink.to/guardians)
-- Ryan: [FYRE: The Greatest Party that Never Happened](https://www.netflix.com/title/81035279)
+- Jon: [Knives Out](https://knivesout.movie)
+- Tim: [Beefwheat on Twitch](https://www.twitch.tv/beefwheat)
+- Ryan: [Good Job!](https://www.nintendo.com/games/detail/good-job-switch/)
