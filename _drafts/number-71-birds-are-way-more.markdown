@@ -7,6 +7,11 @@ duration: '1:02:07'
 length: 59638515
 ---
 
+## Links
+- [Tabletopia](https://tabletopia.com/)
+- [The Board Game Remix Kit](https://bgrk.itch.io/)
+- [Ed Balls Day](https://knowyourmeme.com/memes/ed-balls)
+
 ## Recommendations
 - Jon: [Knives Out](https://knivesout.movie)
 - Tim: [Beefwheat on Twitch](https://www.twitch.tv/beefwheat)
