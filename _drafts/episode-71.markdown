@@ -2,6 +2,10 @@
 title: "#71 Birds Are Way More"
 date: 2020-04-20 18:22:00 -05:00
 permalink: "/episode-71/"
+tags:
+- Would You Rather?
+- How’s Yours?
+- school
 season: 3
 episode_type: full
 episode: 71
