@@ -1,6 +1,6 @@
 ---
 title: "#71 Birds Are Way More"
-date: 2020-04-20 18:22:00 -05:00
+date: 2020-04-21 18:22:00 -05:00
 permalink: "/episode-71/"
 tags:
 - Would You Rather?
