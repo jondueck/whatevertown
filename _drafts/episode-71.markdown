@@ -9,6 +9,7 @@ tags:
 season: 3
 episode_type: full
 episode: 71
+file: https://lodgment-remark-slipshod.s3.ca-central-1.amazonaws.com/w71.mp3
 artwork: "/dist/artwork/artwork_default.jpg"
 summary: The episode about Ed Balls, bird attacks, how ours is, and whatever.
 excerpt: The episode about Ed Balls, bird attacks, how ours is, and whatever.
