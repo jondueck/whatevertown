@@ -1,0 +1,31 @@
+---
+title: "#71 Birds Are Way More"
+date: 2020-04-20 18:22:00 -05:00
+permalink: "/episode-71/"
+tags:
+- Would You Rather?
+- How’s Yours?
+- school
+season: 3
+episode_type: full
+episode: 71
+file: https://lodgment-remark-slipshod.s3.ca-central-1.amazonaws.com/w71.mp3
+artwork: "/dist/artwork/artwork_default.jpg"
+summary: The episode about Ed Balls, bird attacks, how ours is, and whatever.
+excerpt: The episode about Ed Balls, bird attacks, how ours is, and whatever.
+duration: '1:02:07'
+length: 59638515
+explicit: 'no'
+block: 'no'
+comments: true
+---
+
+## Links
+- [Tabletopia](https://tabletopia.com/)
+- [The Board Game Remix Kit](https://bgrk.itch.io/)
+- [Ed Balls Day](https://knowyourmeme.com/memes/ed-balls)
+
+## Recommendations
+- Jon: [Knives Out](https://knivesout.movie)
+- Tim: [Beefwheat on Twitch](https://www.twitch.tv/beefwheat)
+- Ryan: [Good Job!](https://www.nintendo.com/games/detail/good-job-switch/)
