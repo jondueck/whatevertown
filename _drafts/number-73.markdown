@@ -2,6 +2,8 @@
 title: "#73 Brain Article"
 date: 2020-05-19 20:08:00 -05:00
 permalink: "/episode-73/"
+tags:
+- Would You Rather?
 author: Whatevertown
 season: 3
 episode_type: full
