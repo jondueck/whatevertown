@@ -2,10 +2,17 @@
 title: "#73 Brain Article"
 date: 2020-05-19 20:08:00 -05:00
 permalink: "/episode-73/"
+season: 3
+episode_type: full
+episode: 73
+artwork: "/dist/artwork/artwork_default.jpg"
 summary: An episode about shows, pictures , looking or talking, and whatever.
 excerpt: An episode about shows, pictures , looking or talking, and whatever.
 duration: '45:49'
-length: '43,993,048'
+length: 43993048
+explicit: 'no'
+block: 'no'
+comments: true
 ---
 
 ## Recommendations
