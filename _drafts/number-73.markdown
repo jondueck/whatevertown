@@ -6,6 +6,6 @@ excerpt: An episode about shows, pictures , looking or talking, and whatever.
 ---
 
 ## Recommendations
-- Tim: [Middleditch & Schwartz](https://youtu.be/2Vao8d50hzw)
-- Jon: [Community](https://www.netflix.com/title/70155589)
-- Ryan: []()
+- Tim: [GRIS](https://devolverdigital.com/games/gris)
+- Jon: [Wind of Change](https://overcast.fm/itunes1509307460/wind-of-change)
+- Ryan: [Columbus](https://www.imdb.com/title/tt5990474/)
