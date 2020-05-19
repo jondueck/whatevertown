@@ -1,6 +1,7 @@
 ---
 title: "#73 Brain Article"
 date: 2020-05-19 20:08:00 -05:00
+permalink: "/episode-73/"
 summary: An episode about shows, pictures , looking or talking, and whatever.
 excerpt: An episode about shows, pictures , looking or talking, and whatever.
 duration: '45:49'
