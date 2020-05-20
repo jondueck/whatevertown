@@ -1,6 +1,7 @@
 ---
 title: "#73 Brain Article"
 date: 2020-05-19 20:08:00 -05:00
+file: https://lodgment-remark-slipshod.s3.ca-central-1.amazonaws.com/73.mp3
 summary: An episode about shows, pictures, looking or talking, and whatever.
 excerpt: An episode about shows, pictures, looking or talking, and whatever.
 duration: '45:49'
