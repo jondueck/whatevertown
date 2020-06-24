@@ -6,3 +6,9 @@ season: 3
 episode: 75
 ---
 
+The Season 3 Finale
+
+Recommendations
+- Ryan: Lennox Hill
+- Tim: The Great Canadian Baking Show
+- Jon: [*Unraveled* from Polygon](https://www.youtube.com/playlist?list=PLaDrN74SfdT7Ueqtwn_bXo1MuSWT0ji2w)
