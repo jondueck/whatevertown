@@ -6,7 +6,9 @@ comments: true
 layout: blog_post
 ---
 
-[Episode 75](/episode-75) is our Season 3 finale. We’ll take a break over summer to plan for Season 4 and to work on a side-project that we’ve been recording throughout the past season.
+With [Episode 75](/episode-75) just released, Season 3 has come to a close. We’ll take a break over summer to plan for Season 4 and to work on a fun side-project that we’ve been recording throughout the past season.
+
+Season 3 saw the addition of the game _How’s Yours?_ and more informative _How do you take your coffee?_ segment from our coffee expert, Ryan, into the semi-regular mix.
 
 Thank you to our guests ([Gregg Neufeld](2019/11/26/number-62/), and [Jeremy Klassen](episode-60/)) for joining us.
 
