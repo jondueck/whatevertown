@@ -16,4 +16,4 @@ Thank you to our [Patreon supporters](https://patreon.com/whatevertown) for help
 
 Most importantly, thank you to everyone who has taken the time to listen to an episode. We hope that it’s been a source of laughter, entertainment, fun, and whatever.
 
-We might pop in a couple times throughout the summer, but you can expect us back for Season 4 in the fall.
+We might pop in a couple times throughout the summer, but you can expect us back for Season 4 in the fall. Please take a few minutes to [fill out our 2020 listener survey](https://whatevertown.typeform.com/to/uLJnplkR) so that we can make Season 4 as entertaining for you as possible.
