@@ -2,6 +2,7 @@
 title: 2020 Summer Break
 date: 2020-06-24 10:55:00 -05:00
 published: false
+comments: true
 layout: blog_post
 ---
 
