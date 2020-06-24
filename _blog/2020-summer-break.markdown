@@ -2,6 +2,7 @@
 title: 2020 Summer Break
 date: 2020-06-24 10:55:00 -05:00
 published: false
+layout: blog_post
 ---
 
 [Episode 75](/episode-75) is our Season 3 finale. We’ll take a break over summer to plan for Season 4.
