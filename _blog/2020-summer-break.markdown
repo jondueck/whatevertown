@@ -6,7 +6,7 @@ comments: true
 layout: blog_post
 ---
 
-[Episode 75](/episode-75) is our Season 3 finale. We’ll take a break over summer to plan for Season 4.
+[Episode 75](/episode-75) is our Season 3 finale. We’ll take a break over summer to plan for Season 4 and to work on a side-project that we’ve been recording throughout the past season.
 
 Thank you to our guests ([Gregg Neufeld](2019/11/26/number-62/), and [Jeremy Klassen](episode-60/)) for joining us.
 
