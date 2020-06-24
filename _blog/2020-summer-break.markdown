@@ -10,6 +10,8 @@ layout: blog_post
 
 Thank you to our guests ([Gregg Neufeld](2019/11/26/number-62/), and [Jeremy Klassen](episode-60/)) for joining us.
 
-Thank you to our [Patreon supporters](https://patreon.com/whatevertown) for helping us cover the costs of hosting. Most importantly, thank you to everyone who has taken the time to listen to an episode. We hope that it’s been a source of laughter
+Thank you to our [Patreon supporters](https://patreon.com/whatevertown) for helping us cover the costs of hosting. 
+
+Most importantly, thank you to everyone who has taken the time to listen to an episode. We hope that it’s been a source of laughter
 
 We might pop in a couple times throughout the summer, but you can expect us back for Season 4 in the fall.
