@@ -1,6 +1,7 @@
 ---
 title: Whatevertales
 date: 2019-08-01 20:00:00 -05:00
+permalink: "/whatevertales/"
 author: Whatevertown
 subtitle: An adventure with Nathan Fehr and the Whatevertown crew.
 podcast_type: episodic
