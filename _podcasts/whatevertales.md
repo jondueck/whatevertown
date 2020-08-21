@@ -20,10 +20,10 @@ hosts:
 - Tim Wall
 - Ryan Kehler
 - Nathan Fehr
-layout: show_archive
 rss: whatevertales.rss
 keywords: comedy, winkler, manitoba, ryan kehler, jon dueck, tim wall, whatevertown,
   interesting times, nathan fehr, fantasy, dungeons and dragons, dungeon world
+layout: show_archive
 ---
 
-Whatevertales is the new pop-up podcast from Whatevertown. We'll be playing Role Playing Games from time to time with our friend Nathan Fehr (Sunday Night in Canada, Interesting Times, Episodes [#11](https://whatevertown.com/episode/11/) and [#26](https://whatevertown.com/episode/s02e03/).
+Whatevertales is the new pop-up podcast from Whatevertown with our friend Nathan Fehr (Sunday Night in Canada, Interesting Times, Episodes [#11](https://whatevertown.com/episode/11/) and [#26](https://whatevertown.com/episode/s02e03/). Coming Soon.
