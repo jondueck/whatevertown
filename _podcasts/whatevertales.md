@@ -12,12 +12,10 @@ vimeo: whatevertown
 soundcloud: whatevertown
 instagram: whatevertown
 stitcher: https://www.stitcher.com/podcast/whatevertown/whatevertales
-spotify: https://open.spotify.com/show/5ORN0Fy3HPsFgx7jdk67cc
 image: "/uploads/whatevertales.jpg"
 logo: "/uploads/whatevertales-logo.png"
 description: Whatevertales is the new pop-up podcast from Whatevertown with our friend
-  Nathan Fehr (Sunday Night in Canada, Interesting Times, Episodes [#11](https://whatevertown.com/episode/11/)
-  and [#26](https://whatevertown.com/episode/s02e03/). Coming Soon.
+  Nathan Fehr (Interesting Times, Sunday Night in Canada). Coming Soon.
 hosts:
 - Jon Dueck
 - Tim Wall
@@ -30,4 +28,4 @@ keywords: comedy, winkler, manitoba, ryan kehler, jon dueck, tim wall, whatevert
 layout: show_archive
 ---
 
-Whatevertales is the new pop-up podcast from Whatevertown with our friend Nathan Fehr (Interesting Times, Sunday Night in Canada). Coming Soon.
+*Whatevertales* is the new pop-up podcast from Whatevertown with our friend Nathan Fehr (Sunday Night in Canada, Interesting Times, Episodes [#11](https://whatevertown.com/episode/11/) and [#26](https://whatevertown.com/episode/s02e03/). Coming Soon.
