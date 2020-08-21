@@ -24,7 +24,7 @@ hosts:
 rss: whatevertales.rss
 keywords: comedy, winkler, manitoba, ryan kehler, jon dueck, tim wall, whatevertown,
   interesting times, nathan fehr, fantasy, dungeons and dragons, dungeon world, actual
-  play
+  play, rpg
 layout: show_archive
 ---
 
