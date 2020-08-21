@@ -23,7 +23,8 @@ hosts:
 - Nathan Fehr
 rss: whatevertales.rss
 keywords: comedy, winkler, manitoba, ryan kehler, jon dueck, tim wall, whatevertown,
-  interesting times, nathan fehr, fantasy, dungeons and dragons, dungeon world
+  interesting times, nathan fehr, fantasy, dungeons and dragons, dungeon world, actual
+  play
 layout: show_archive
 ---
 
