@@ -14,6 +14,7 @@ instagram: whatevertown
 itunes: https://podcasts.apple.com/ca/podcast/whatevertales/id1528774694
 stitcher: https://www.stitcher.com/podcast/whatevertown/whatevertales
 spotify: https://open.spotify.com/show/5ORN0Fy3HPsFgx7jdk67cc
+overcast: https://overcast.fm/itunes1528774694/whatevertales
 image: "/uploads/whatevertales.jpg"
 logo: "/uploads/whatevertales-logo.png"
 description: Whatevertales is the new pop-up podcast from Whatevertown with our friend
