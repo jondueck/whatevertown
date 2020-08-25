@@ -1,5 +1,5 @@
 ---
-title: Test
+title: Fanfare
 date: 2019-08-01 08:00:00 -05:00
 tags:
 - whatevertales
