@@ -10,8 +10,8 @@ episode:
 episode_type: trailer
 file: https://lodgment-remark-slipshod.s3.ca-central-1.amazonaws.com/whatevertales/soundtrack/victory.mp3
 stitcher: 
-summary: is this thing on?
-excerpt: is this thing on?
+summary: This is not even the trailer yet.
+excerpt: This is not even the trailer yet.
 duration: '00:11'
 length: 7507682
 explicit: 'no'
