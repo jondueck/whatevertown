@@ -17,7 +17,7 @@ length: 7507682
 explicit: 'no'
 block: 'no'
 comments: true
-artwork: "/uploads/whatevertales_teaser.jpg"
+artwork: "/uploads/whatevertales.jpg"
 layout: post
 ---
 
