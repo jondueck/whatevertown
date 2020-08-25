@@ -28,6 +28,8 @@ layout: default
       {{ host | sort | join: ", "}}
     </p>
 
+    <p>Subscribe on {% if page.itunes %}<a href="{{ page.itunes }}">Apple Podcasts</a>, {% endif %}{% if page.spotify %}<a href="{{ page.spotify }}">Spotify</a>, {% endif %}{% if page.stitcher %}<a href="{{ page.stitcher }}">Stitcher</a>, {% endif %}{% if page.googleplay %}<a href="{{ page.googleplay }}">Google Podcasts</a>, {% endif %}</p>
+
     {% if page.stitcher %}
     <iframe class="embed-stitcher" scrolling="no" frameborder="0" style="overflow:hidden;" src="https://app.stitcher.com/splayer/f/{{ page.stitcher }}?el=1&refid=stpr"></iframe>
     {% endif %}
