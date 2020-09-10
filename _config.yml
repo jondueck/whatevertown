@@ -115,7 +115,7 @@ podcast_type: episodic
 markdown: kramdown
 keywords: comedy, winkler, manitoba, ryan kehler, jon dueck, tim wall, collectif,
   whitecap coffee, business, board games, video games, pop culture, whatevertown,
-  whatever town
+  whatever town, 958317
 theme: 
 paginate: 8
 paginate_path: "/episodes/page:num/"
