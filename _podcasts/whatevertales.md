@@ -36,5 +36,5 @@ layout: show_archive
 
 ![wt_t2_01.jpg](/uploads/wt_t2_02.jpg){:.quarter}
 ![wt_t2_02.jpg](/uploads/wt_t2_02.jpg){:.quarter}
-![wt_t2_03.jpg](/uploads/wt_t2_02.jpg){:.quarter}
+![wt_t2_03-2.jpg](/uploads/wt_t2_02.jpg){:.quarter}
 ![wt_t2_04.jpg](/uploads/wt_t2_02.jpg){:.quarter}
