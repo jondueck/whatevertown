@@ -29,4 +29,4 @@ comments: true
 ## Recommendations
 - Jon: [Knives Out](https://knivesout.movie)
 - Tim: [Beefwheat on Twitch](https://www.twitch.tv/beefwheat)
-- Ryan: [Good Job!](https://www.nintendo.com/games/detail/good-job-switch/)
+- Ryan: [Good Job!](https://www.nintendo.com/en-ca/store/products/good-job-switch/)
