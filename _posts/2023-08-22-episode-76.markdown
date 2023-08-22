@@ -1,0 +1,25 @@
+---
+title: "#76 The Rule of Thirds"
+date: 2023-08-22 11:37:00 -05:00
+tags:
+- Would You Rather?
+- Parenting
+author: Whatevertown
+season: 4
+episode_type: full
+episode: 76
+file: https://lodgment-remark-slipshod.s3-ca-central-1.amazonaws.com/076.mp3
+file_itunes: https://lodgment-remark-slipshod.s3-ca-central-1.amazonaws.com/076.m4a
+artwork: "/dist/artwork/artwork_default.jpg"
+summary: After three years, the guys talk again. They recap the past three years,
+  kind of, and contemplate some Would You Rathers.
+excerpt: After three years, the guys talk again. They recap the past three years,
+  kind of, and contemplate some Would You Rathers.
+duration: '01:14:33'
+length: 89661827
+---
+
+Recommendations: 
+- Ryan: [The Bear, Season 2](https://www.justwatch.com/ca/tv-show/the-bear-2022)
+- Tim: [Platonic](https://tv.apple.com/us/show/platonic/umc.cmc.y7bc18x7co813l8i2tlsyb4l)
+- Jon: [The Legend of Zelda: Tears of the Kingdom](https://www.nintendo.com/en-ca/store/products/the-legend-of-zelda-tears-of-the-kingdom-switch/)
