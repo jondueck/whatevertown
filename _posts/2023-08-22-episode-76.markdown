@@ -1,6 +1,7 @@
 ---
 title: "#76 The Rule of Thirds"
 date: 2023-08-22 11:37:00 -05:00
+permalink: "/episode-76/"
 tags:
 - Would You Rather?
 - Parenting
